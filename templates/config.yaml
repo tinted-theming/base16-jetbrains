@@ -1,7 +1,3 @@
-dark:
-    extension: .icls
-    output: colors
-
-light:
+default:
     extension: .icls
     output: colors
