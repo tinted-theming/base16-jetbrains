@@ -1,7 +1,7 @@
-base16-idea
+base16-jetbrains
 ===========
 
-Provides [Base16] themes for Jetbrains IDEA editors - such as IntelliJ, PyCharm, and RubyMine. 
+Provides [Base16] themes for Jetbrains IDEs - such as IntelliJ, PyCharm, and RubyMine. 
 
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 
@@ -9,12 +9,12 @@ See the [Base16 repository](https://github.com/chriskempson/base16) for more inf
 
 #### All themes
 
-1. Download the [JAR file](https://github.com/adilosa/base16-idea/raw/master/Base16Idea.jar)
+1. Download the [JAR file](https://github.com/adilosa/base16-jetbrains/raw/master/Base16Jetbrains.jar)
 2. Import it with `File > Import Settings...`
 
 #### Individual themes
 
-1. Download either the [JAR file](https://github.com/adilosa/base16-idea/raw/master/Base16Idea.jar) or the [`.icls` files](https://github.com/adilosa/base16-idea/tree/master/colors) you want
+1. Download either the [JAR file](https://github.com/adilosa/base16-jetbrains/raw/master/Base16Idea.jar) or the [`.icls` files](https://github.com/adilosa/base16-jetbrains/tree/master/colors) you want
 2. Naviate to `IntelliJ > Preferences > Editor > Color Scheme > Color Scheme Font`
 3. Import themes by selecting `Import Scheme > IntelliJ IDEA color scheme (*.icls) or settings (*.jar)` from the gear icon
 
