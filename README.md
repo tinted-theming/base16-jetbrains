@@ -7,10 +7,13 @@ See the [Base16 repository](https://github.com/chriskempson/base16) for more inf
 
 ### Installing
 
+These instructions are written for IntelliJ IDEA, but should be essentially the same for other Jetbrains editors.
+
 #### All themes
 
 1. Download the [JAR file](https://github.com/adilosa/base16-jetbrains/raw/master/Base16Jetbrains.jar)
 2. Import it with `File > Import Settings...`
+3. IntelliJ will force you to restart
 
 #### Individual themes
 
