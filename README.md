@@ -18,7 +18,7 @@ These instructions are written for IntelliJ IDEA, but should be essentially the 
 #### Individual themes
 
 1. Download either the [JAR file](https://github.com/adilosa/base16-jetbrains/raw/master/Base16Idea.jar) or the [`.icls` files](https://github.com/adilosa/base16-jetbrains/tree/master/colors) you want
-2. Naviate to `IntelliJ > Preferences > Editor > Color Scheme > Color Scheme Font`
+2. Navigate to `IntelliJ > Preferences > Editor > Color Scheme > Color Scheme Font`
 3. Import themes by selecting `Import Scheme > IntelliJ IDEA color scheme (*.icls) or settings (*.jar)` from the gear icon
 
 ### Contributing
