@@ -27,4 +27,4 @@ Changes should be made by editing `templates/default.mustache`.
 
 The templates can be built using the [base16-builder-ruby](https://github.com/obahareth/base16-builder-ruby) tool, and the resulting `*.icls` files copied into the `colors/` directory.
 
-Run `rm -f base16-jetbrains.jar && zip base16-jetbrains.jar colors/*´ to compile all themes into a JAR.
+Run `rm -f base16-jetbrains.jar && zip base16-jetbrains.jar colors/*` to compile all themes into a JAR.
