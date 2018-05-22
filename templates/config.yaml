@@ -1,3 +1,11 @@
 default:
     extension: .icls
     output: colors
+
+theme:
+    extension: _custom_theme.xml
+    output: options
+
+accent:
+    extension: _theme.xml
+    output: options
