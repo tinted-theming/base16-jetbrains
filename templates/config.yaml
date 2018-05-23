@@ -3,9 +3,9 @@ default:
     output: colors
 
 theme:
-    extension: _custom_theme.xml
+    extension: -theme.xml
     output: options
 
 accent:
-    extension: _theme.xml
+    extension: -accent.xml
     output: options
