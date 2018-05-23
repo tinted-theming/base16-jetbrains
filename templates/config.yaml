@@ -3,9 +3,13 @@ default:
     output: colors
 
 theme:
-    extension: -theme.xml
-    output: options
+    extension: .theme.xml
+    output: build
 
 accent:
-    extension: -accent.xml
-    output: options
+    extension: .accent.xml
+    output: build
+
+scheme:
+    extension: .scheme.xml
+    output: build
