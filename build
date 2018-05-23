@@ -1,14 +1,22 @@
 #!/bin/sh
-rm -f colors.jar
 touch 'IntelliJ IDEA Global Settings'
-
 zip colors.jar colors -r 'IntelliJ IDEA Global Settings'
 
-rm -f 'IntelliJ IDEA Global Settings'
+if [ $# -eq 0 ]; then
+    rm -rf builder options
+    git clone https://github.com/obahareth/base16-builder-ruby.git builder
 
+    mkdir -p builder/templates/jetbrains
+    cp .git -r builder/templates/jetbrains
+    cp templates -r builder/templates/jetbrains
 
-rm -f options/*.jar
-touch options/'IntelliJ IDEA Global Settings'
+    cd builder && bundle install && ./builder
+    cp out/options -r ../ && cd ../
+
+    rm -rf builder
+fi
+
+mv 'IntelliJ IDEA Global Settings' options
 mkdir -p options/colors
 mkdir -p options/options
 
@@ -16,10 +24,12 @@ for path in $(find options -name '*.theme.xml'); do
     file=$(basename "$path")
     name="${file%.*.*}"
     cp colors/$name.icls options/colors
-    cp options/$file options/options/material_custom_theme.xml
-    cp options/$name.accent.xml options/options/material_theme.xml
-    cp options/$name.scheme.xml options/options/colors.scheme.xml
-    cd options; zip -r $name.jar options colors 'IntelliJ IDEA Global Settings'; cd ../
+    cd options
+    cp $file options/material_custom_theme.xml
+    cp $name.accent.xml options/material_theme.xml
+    cp $name.scheme.xml options/colors.scheme.xml
+    zip -r $name.jar options colors 'IntelliJ IDEA Global Settings'
+    cd ../
 done
 
 rm -f options/*.xml
