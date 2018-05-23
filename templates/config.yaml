@@ -4,12 +4,12 @@ default:
 
 theme:
     extension: .theme.xml
-    output: build
+    output: options
 
 accent:
     extension: .accent.xml
-    output: build
+    output: options
 
 scheme:
     extension: .scheme.xml
-    output: build
+    output: options

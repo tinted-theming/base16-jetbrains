@@ -22,22 +22,14 @@ curl https://raw.githubusercontent.com/adilosa/base16-jetbrains/master/colors/ba
 
 ### Material themes
 
-All Material [themes](https://github.com/adilosa/base16-jetbrains/tree/master/options) are located in the `options` directory where a `.jar` file bundles the theme and accent settings found in `*-theme.xml` and `*-accent.xml` files.
+All Material [themes](https://github.com/adilosa/base16-jetbrains/tree/master/options) are located in the `options` directory where a `.jar` file bundles the theme, accent and editor settings.
 
 Individual themes can be imported using the `File > Import Settings` menu after downloading their `.jar` files.
-
-The files can also be downloaded into the IDE's `options` directory (e.g. `~/.PyCharm2018.1/config/options`) as `material_custom_theme.xml` and `_theme.xml` (open IDEs have to be restarted to apply changes).
-```
-curl https://raw.githubusercontent.com/adilosa/base16-jetbrains/master/options/base16-eighties_custom_theme.xml > ~/.PyCharm2018.1/config/options/material_custom_theme.xml
-
-curl https://raw.githubusercontent.com/adilosa/base16-jetbrains/master/options/base16-eighties_theme.xml > ~/.PyCharm2018.1/config/options/material_theme.xml
-```
-
 
 ### Contribution
 
 Changes should be made by editing the `*.mustache` template files found in the `templates` directory.
 
-The templates can be built using a [base16-builder](https://github.com/chriskempson/base16#builder-repositories) like [base16-builder-ruby](https://github.com/obahareth/base16-builder-ruby). The resulting `*.icls` files shall then be copied into the `colors` directory while all `*_custom_theme.xml` and `*_theme.xml` themes are to be saved in the `options` folder.
+The templates can be built using a [base16-builder](https://github.com/chriskempson/base16#builder-repositories) like [base16-builder-ruby](https://github.com/obahareth/base16-builder-ruby). The resulting `*.icls` files shall then be copied into the `colors` directory while all option XML files (`*.theme.xml`, `*.scheme.xml` and `*.accent.xml` are to be saved in the `options` folder.
 
-Finally, run `./build` to compile all color schemes and into a single JAR.
+Finally, run `./build` to compile all color schemes and into a single JAR and clean up the repository.
