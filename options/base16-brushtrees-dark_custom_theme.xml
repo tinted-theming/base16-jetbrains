@@ -1,0 +1,21 @@
+<!--    Base16 Brush Trees Dark
+        Author: Abraham White &lt;abelincoln.white@gmail.com&gt;   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="485867" />
+    <option name="treeSelectionColor" value="868cb3" />
+    <option name="highlightColor" value="6D828E" />
+    <option name="secondBorderColor" value="485867" />
+    <option name="tableSelectedColor" value="868cb3" />
+    <option name="contrastColor" value="5A6D7A" />
+    <option name="disabledColor" value="98AFB5" />
+    <option name="secondaryBackgroundColor" value="5A6D7A" />
+    <option name="buttonColor" value="485867" />
+    <option name="selectionForegroundColor" value="C9DBDC" />
+    <option name="selectionBackgroundColor" value="868cb3" />
+    <option name="textColor" value="C9DBDC" />
+    <option name="foregroundColor" value="B0C5C8" />
+    <option name="backgroundColor" value="485867" />
+  </component>
+</application> 

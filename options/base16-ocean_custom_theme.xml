@@ -1,0 +1,21 @@
+<!--    Base16 Ocean
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2b303b" />
+    <option name="treeSelectionColor" value="8fa1b3" />
+    <option name="highlightColor" value="4f5b66" />
+    <option name="secondBorderColor" value="2b303b" />
+    <option name="tableSelectedColor" value="8fa1b3" />
+    <option name="contrastColor" value="343d46" />
+    <option name="disabledColor" value="a7adba" />
+    <option name="secondaryBackgroundColor" value="343d46" />
+    <option name="buttonColor" value="2b303b" />
+    <option name="selectionForegroundColor" value="dfe1e8" />
+    <option name="selectionBackgroundColor" value="8fa1b3" />
+    <option name="textColor" value="dfe1e8" />
+    <option name="foregroundColor" value="c0c5ce" />
+    <option name="backgroundColor" value="2b303b" />
+  </component>
+</application> 

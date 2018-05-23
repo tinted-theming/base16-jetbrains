@@ -1,0 +1,21 @@
+<!--    Base16 Rebecca
+        Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="292a44" />
+    <option name="treeSelectionColor" value="2de0a7" />
+    <option name="highlightColor" value="383a62" />
+    <option name="secondBorderColor" value="292a44" />
+    <option name="tableSelectedColor" value="2de0a7" />
+    <option name="contrastColor" value="663399" />
+    <option name="disabledColor" value="a0a0c5" />
+    <option name="secondaryBackgroundColor" value="663399" />
+    <option name="buttonColor" value="292a44" />
+    <option name="selectionForegroundColor" value="ccccff" />
+    <option name="selectionBackgroundColor" value="2de0a7" />
+    <option name="textColor" value="ccccff" />
+    <option name="foregroundColor" value="f1eff8" />
+    <option name="backgroundColor" value="292a44" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 London Tube
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="231f20" />
+    <option name="treeSelectionColor" value="009ddc" />
+    <option name="highlightColor" value="5a5758" />
+    <option name="secondBorderColor" value="231f20" />
+    <option name="tableSelectedColor" value="009ddc" />
+    <option name="contrastColor" value="1c3f95" />
+    <option name="disabledColor" value="959ca1" />
+    <option name="secondaryBackgroundColor" value="1c3f95" />
+    <option name="buttonColor" value="231f20" />
+    <option name="selectionForegroundColor" value="e7e7e8" />
+    <option name="selectionBackgroundColor" value="009ddc" />
+    <option name="textColor" value="e7e7e8" />
+    <option name="foregroundColor" value="d9d8d8" />
+    <option name="backgroundColor" value="231f20" />
+  </component>
+</application> 

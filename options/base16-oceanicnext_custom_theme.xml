@@ -1,0 +1,21 @@
+<!--    Base16 OceanicNext
+        Author: https://github.com/voronianski/oceanic-next-color-scheme   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1B2B34" />
+    <option name="treeSelectionColor" value="6699CC" />
+    <option name="highlightColor" value="4F5B66" />
+    <option name="secondBorderColor" value="1B2B34" />
+    <option name="tableSelectedColor" value="6699CC" />
+    <option name="contrastColor" value="343D46" />
+    <option name="disabledColor" value="A7ADBA" />
+    <option name="secondaryBackgroundColor" value="343D46" />
+    <option name="buttonColor" value="1B2B34" />
+    <option name="selectionForegroundColor" value="CDD3DE" />
+    <option name="selectionBackgroundColor" value="6699CC" />
+    <option name="textColor" value="CDD3DE" />
+    <option name="foregroundColor" value="C0C5CE" />
+    <option name="backgroundColor" value="1B2B34" />
+  </component>
+</application> 

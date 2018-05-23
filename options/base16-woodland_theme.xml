@@ -1,0 +1,12 @@
+<!--    Base16 Woodland
+        Author: Jay Cornwall (https://jcornwall.com)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="88a4d3" />
+    <option name="accentColor" value="88a4d3" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Seti UI
+        Author:    -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="151718" />
+    <option name="treeSelectionColor" value="55b5db" />
+    <option name="highlightColor" value="3B758C" />
+    <option name="secondBorderColor" value="151718" />
+    <option name="tableSelectedColor" value="55b5db" />
+    <option name="contrastColor" value="282a2b" />
+    <option name="disabledColor" value="43a5d5" />
+    <option name="secondaryBackgroundColor" value="282a2b" />
+    <option name="buttonColor" value="151718" />
+    <option name="selectionForegroundColor" value="eeeeee" />
+    <option name="selectionBackgroundColor" value="55b5db" />
+    <option name="textColor" value="eeeeee" />
+    <option name="foregroundColor" value="d6d6d6" />
+    <option name="backgroundColor" value="151718" />
+  </component>
+</application> 

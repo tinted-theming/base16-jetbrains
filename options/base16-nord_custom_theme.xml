@@ -1,0 +1,21 @@
+<!--    Base16 Nord
+        Author: arcticicestudio   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2E3440" />
+    <option name="treeSelectionColor" value="EBCB8B" />
+    <option name="highlightColor" value="434C5E" />
+    <option name="secondBorderColor" value="2E3440" />
+    <option name="tableSelectedColor" value="EBCB8B" />
+    <option name="contrastColor" value="3B4252" />
+    <option name="disabledColor" value="D8DEE9" />
+    <option name="secondaryBackgroundColor" value="3B4252" />
+    <option name="buttonColor" value="2E3440" />
+    <option name="selectionForegroundColor" value="ECEFF4" />
+    <option name="selectionBackgroundColor" value="EBCB8B" />
+    <option name="textColor" value="ECEFF4" />
+    <option name="foregroundColor" value="E5E9F0" />
+    <option name="backgroundColor" value="2E3440" />
+  </component>
+</application> 

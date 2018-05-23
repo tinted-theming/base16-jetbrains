@@ -1,0 +1,21 @@
+<!--    Base16 Harmonic16 Light
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f7f9fb" />
+    <option name="treeSelectionColor" value="8b56bf" />
+    <option name="highlightColor" value="cbd6e2" />
+    <option name="secondBorderColor" value="f7f9fb" />
+    <option name="tableSelectedColor" value="8b56bf" />
+    <option name="contrastColor" value="e5ebf1" />
+    <option name="disabledColor" value="627e99" />
+    <option name="secondaryBackgroundColor" value="e5ebf1" />
+    <option name="buttonColor" value="f7f9fb" />
+    <option name="selectionForegroundColor" value="223b54" />
+    <option name="selectionBackgroundColor" value="8b56bf" />
+    <option name="textColor" value="223b54" />
+    <option name="foregroundColor" value="405c79" />
+    <option name="backgroundColor" value="f7f9fb" />
+  </component>
+</application> 

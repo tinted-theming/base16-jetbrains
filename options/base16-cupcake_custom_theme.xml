@@ -1,0 +1,21 @@
+<!--    Base16 Cupcake
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fbf1f2" />
+    <option name="treeSelectionColor" value="7297B9" />
+    <option name="highlightColor" value="d8d5dd" />
+    <option name="secondBorderColor" value="fbf1f2" />
+    <option name="tableSelectedColor" value="7297B9" />
+    <option name="contrastColor" value="f2f1f4" />
+    <option name="disabledColor" value="a59daf" />
+    <option name="secondaryBackgroundColor" value="f2f1f4" />
+    <option name="buttonColor" value="fbf1f2" />
+    <option name="selectionForegroundColor" value="72677E" />
+    <option name="selectionBackgroundColor" value="7297B9" />
+    <option name="textColor" value="72677E" />
+    <option name="foregroundColor" value="8b8198" />
+    <option name="backgroundColor" value="fbf1f2" />
+  </component>
+</application> 

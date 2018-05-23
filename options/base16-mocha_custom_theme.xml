@@ -1,0 +1,21 @@
+<!--    Base16 Mocha
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="3B3228" />
+    <option name="treeSelectionColor" value="8ab3b5" />
+    <option name="highlightColor" value="645240" />
+    <option name="secondBorderColor" value="3B3228" />
+    <option name="tableSelectedColor" value="8ab3b5" />
+    <option name="contrastColor" value="534636" />
+    <option name="disabledColor" value="b8afad" />
+    <option name="secondaryBackgroundColor" value="534636" />
+    <option name="buttonColor" value="3B3228" />
+    <option name="selectionForegroundColor" value="e9e1dd" />
+    <option name="selectionBackgroundColor" value="8ab3b5" />
+    <option name="textColor" value="e9e1dd" />
+    <option name="foregroundColor" value="d0c8c6" />
+    <option name="backgroundColor" value="3B3228" />
+  </component>
+</application> 

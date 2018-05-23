@@ -1,0 +1,21 @@
+<!--    Base16 Hopscotch
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="322931" />
+    <option name="treeSelectionColor" value="1290bf" />
+    <option name="highlightColor" value="5c545b" />
+    <option name="secondBorderColor" value="322931" />
+    <option name="tableSelectedColor" value="1290bf" />
+    <option name="contrastColor" value="433b42" />
+    <option name="disabledColor" value="989498" />
+    <option name="secondaryBackgroundColor" value="433b42" />
+    <option name="buttonColor" value="322931" />
+    <option name="selectionForegroundColor" value="d5d3d5" />
+    <option name="selectionBackgroundColor" value="1290bf" />
+    <option name="textColor" value="d5d3d5" />
+    <option name="foregroundColor" value="b9b5b8" />
+    <option name="backgroundColor" value="322931" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Ashes
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1C2023" />
+    <option name="treeSelectionColor" value="AE95C7" />
+    <option name="highlightColor" value="565E65" />
+    <option name="secondBorderColor" value="1C2023" />
+    <option name="tableSelectedColor" value="AE95C7" />
+    <option name="contrastColor" value="393F45" />
+    <option name="disabledColor" value="ADB3BA" />
+    <option name="secondaryBackgroundColor" value="393F45" />
+    <option name="buttonColor" value="1C2023" />
+    <option name="selectionForegroundColor" value="DFE2E5" />
+    <option name="selectionBackgroundColor" value="AE95C7" />
+    <option name="textColor" value="DFE2E5" />
+    <option name="foregroundColor" value="C7CCD1" />
+    <option name="backgroundColor" value="1C2023" />
+  </component>
+</application> 

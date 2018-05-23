@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Heath
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1b181b" />
+    <option name="treeSelectionColor" value="516aec" />
+    <option name="highlightColor" value="695d69" />
+    <option name="secondBorderColor" value="1b181b" />
+    <option name="tableSelectedColor" value="516aec" />
+    <option name="contrastColor" value="292329" />
+    <option name="disabledColor" value="9e8f9e" />
+    <option name="secondaryBackgroundColor" value="292329" />
+    <option name="buttonColor" value="1b181b" />
+    <option name="selectionForegroundColor" value="d8cad8" />
+    <option name="selectionBackgroundColor" value="516aec" />
+    <option name="textColor" value="d8cad8" />
+    <option name="foregroundColor" value="ab9bab" />
+    <option name="backgroundColor" value="1b181b" />
+  </component>
+</application> 

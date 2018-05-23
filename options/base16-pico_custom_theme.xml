@@ -1,0 +1,21 @@
+<!--    Base16 Pico
+        Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="83769c" />
+    <option name="highlightColor" value="7e2553" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="83769c" />
+    <option name="contrastColor" value="1d2b53" />
+    <option name="disabledColor" value="ab5236" />
+    <option name="secondaryBackgroundColor" value="1d2b53" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="c2c3c7" />
+    <option name="selectionBackgroundColor" value="83769c" />
+    <option name="textColor" value="c2c3c7" />
+    <option name="foregroundColor" value="5f574f" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

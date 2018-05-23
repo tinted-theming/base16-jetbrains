@@ -1,0 +1,21 @@
+<!--    Base16 Solar Flare
+        Author: Chuck Harmston (https://chuck.harmston.ch)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="18262F" />
+    <option name="treeSelectionColor" value="33B5E1" />
+    <option name="highlightColor" value="586875" />
+    <option name="secondBorderColor" value="18262F" />
+    <option name="tableSelectedColor" value="33B5E1" />
+    <option name="contrastColor" value="222E38" />
+    <option name="disabledColor" value="85939E" />
+    <option name="secondaryBackgroundColor" value="222E38" />
+    <option name="buttonColor" value="18262F" />
+    <option name="selectionForegroundColor" value="E8E9ED" />
+    <option name="selectionBackgroundColor" value="33B5E1" />
+    <option name="textColor" value="E8E9ED" />
+    <option name="foregroundColor" value="A6AFB8" />
+    <option name="backgroundColor" value="18262F" />
+  </component>
+</application> 

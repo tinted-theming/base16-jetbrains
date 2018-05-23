@@ -1,0 +1,21 @@
+<!--    Base16 Material Arc Dark
+        Author: Markus Re1   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="383C4A" />
+    <option name="treeSelectionColor" value="82AAFF" />
+    <option name="highlightColor" value="505666" />
+    <option name="secondBorderColor" value="383C4A" />
+    <option name="tableSelectedColor" value="82AAFF" />
+    <option name="contrastColor" value="404552" />
+    <option name="disabledColor" value="D2DAE3" />
+    <option name="secondaryBackgroundColor" value="404552" />
+    <option name="buttonColor" value="383C4A" />
+    <option name="selectionForegroundColor" value="E3E5E8" />
+    <option name="selectionBackgroundColor" value="82AAFF" />
+    <option name="textColor" value="E3E5E8" />
+    <option name="foregroundColor" value="D2DAE3" />
+    <option name="backgroundColor" value="383C4A" />
+  </component>
+</application> 

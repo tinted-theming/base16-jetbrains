@@ -1,0 +1,21 @@
+<!--    Base16 Arcoy Dark
+        Author: Markus Re1   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2F343F" />
+    <option name="treeSelectionColor" value="5294E2" />
+    <option name="highlightColor" value="404552" />
+    <option name="secondBorderColor" value="2F343F" />
+    <option name="tableSelectedColor" value="5294E2" />
+    <option name="contrastColor" value="383C4A" />
+    <option name="disabledColor" value="D2DAE3" />
+    <option name="secondaryBackgroundColor" value="383C4A" />
+    <option name="buttonColor" value="2F343F" />
+    <option name="selectionForegroundColor" value="E3E5E8" />
+    <option name="selectionBackgroundColor" value="5294E2" />
+    <option name="textColor" value="E3E5E8" />
+    <option name="foregroundColor" value="D2DAE3" />
+    <option name="backgroundColor" value="2F343F" />
+  </component>
+</application> 

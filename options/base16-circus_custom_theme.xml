@@ -1,0 +1,21 @@
+<!--    Base16 Circus
+        Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="191919" />
+    <option name="treeSelectionColor" value="639ee4" />
+    <option name="highlightColor" value="303030" />
+    <option name="secondBorderColor" value="191919" />
+    <option name="tableSelectedColor" value="639ee4" />
+    <option name="contrastColor" value="202020" />
+    <option name="disabledColor" value="505050" />
+    <option name="secondaryBackgroundColor" value="202020" />
+    <option name="buttonColor" value="191919" />
+    <option name="selectionForegroundColor" value="808080" />
+    <option name="selectionBackgroundColor" value="639ee4" />
+    <option name="textColor" value="808080" />
+    <option name="foregroundColor" value="a7a7a7" />
+    <option name="backgroundColor" value="191919" />
+  </component>
+</application> 

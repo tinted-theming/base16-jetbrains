@@ -1,0 +1,21 @@
+<!--    Base16 Unikitty Dark
+        Author: Josh W Lewis (@joshwlewis)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2e2a31" />
+    <option name="treeSelectionColor" value="796af5" />
+    <option name="highlightColor" value="666369" />
+    <option name="secondBorderColor" value="2e2a31" />
+    <option name="tableSelectedColor" value="796af5" />
+    <option name="contrastColor" value="4a464d" />
+    <option name="disabledColor" value="9f9da2" />
+    <option name="secondaryBackgroundColor" value="4a464d" />
+    <option name="buttonColor" value="2e2a31" />
+    <option name="selectionForegroundColor" value="d8d7da" />
+    <option name="selectionBackgroundColor" value="796af5" />
+    <option name="textColor" value="d8d7da" />
+    <option name="foregroundColor" value="bcbabe" />
+    <option name="backgroundColor" value="2e2a31" />
+  </component>
+</application> 

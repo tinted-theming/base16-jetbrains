@@ -1,0 +1,21 @@
+<!--    Base16 Paraiso
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2f1e2e" />
+    <option name="treeSelectionColor" value="06b6ef" />
+    <option name="highlightColor" value="4f424c" />
+    <option name="secondBorderColor" value="2f1e2e" />
+    <option name="tableSelectedColor" value="06b6ef" />
+    <option name="contrastColor" value="41323f" />
+    <option name="disabledColor" value="8d8687" />
+    <option name="secondaryBackgroundColor" value="41323f" />
+    <option name="buttonColor" value="2f1e2e" />
+    <option name="selectionForegroundColor" value="b9b6b0" />
+    <option name="selectionBackgroundColor" value="06b6ef" />
+    <option name="textColor" value="b9b6b0" />
+    <option name="foregroundColor" value="a39e9b" />
+    <option name="backgroundColor" value="2f1e2e" />
+  </component>
+</application> 

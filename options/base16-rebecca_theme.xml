@@ -1,0 +1,12 @@
+<!--    Base16 Rebecca
+        Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="2de0a7" />
+    <option name="accentColor" value="2de0a7" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Railscasts
+        Author: Ryan Bates (http://railscasts.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2b2b2b" />
+    <option name="treeSelectionColor" value="6d9cbe" />
+    <option name="highlightColor" value="3a4055" />
+    <option name="secondBorderColor" value="2b2b2b" />
+    <option name="tableSelectedColor" value="6d9cbe" />
+    <option name="contrastColor" value="272935" />
+    <option name="disabledColor" value="d4cfc9" />
+    <option name="secondaryBackgroundColor" value="272935" />
+    <option name="buttonColor" value="2b2b2b" />
+    <option name="selectionForegroundColor" value="f4f1ed" />
+    <option name="selectionBackgroundColor" value="6d9cbe" />
+    <option name="textColor" value="f4f1ed" />
+    <option name="foregroundColor" value="e6e1dc" />
+    <option name="backgroundColor" value="2b2b2b" />
+  </component>
+</application> 

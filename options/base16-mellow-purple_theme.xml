@@ -1,0 +1,12 @@
+<!--    Base16 Mellow Purple
+        Author: gidsi   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="550068" />
+    <option name="accentColor" value="550068" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Green Screen
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="001100" />
+    <option name="treeSelectionColor" value="009900" />
+    <option name="highlightColor" value="005500" />
+    <option name="secondBorderColor" value="001100" />
+    <option name="tableSelectedColor" value="009900" />
+    <option name="contrastColor" value="003300" />
+    <option name="disabledColor" value="009900" />
+    <option name="secondaryBackgroundColor" value="003300" />
+    <option name="buttonColor" value="001100" />
+    <option name="selectionForegroundColor" value="00dd00" />
+    <option name="selectionBackgroundColor" value="009900" />
+    <option name="textColor" value="00dd00" />
+    <option name="foregroundColor" value="00bb00" />
+    <option name="backgroundColor" value="001100" />
+  </component>
+</application> 

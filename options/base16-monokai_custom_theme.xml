@@ -1,0 +1,21 @@
+<!--    Base16 Monokai
+        Author: Wimer Hazenberg (http://www.monokai.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="272822" />
+    <option name="treeSelectionColor" value="66d9ef" />
+    <option name="highlightColor" value="49483e" />
+    <option name="secondBorderColor" value="272822" />
+    <option name="tableSelectedColor" value="66d9ef" />
+    <option name="contrastColor" value="383830" />
+    <option name="disabledColor" value="a59f85" />
+    <option name="secondaryBackgroundColor" value="383830" />
+    <option name="buttonColor" value="272822" />
+    <option name="selectionForegroundColor" value="f5f4f1" />
+    <option name="selectionBackgroundColor" value="66d9ef" />
+    <option name="textColor" value="f5f4f1" />
+    <option name="foregroundColor" value="f8f8f2" />
+    <option name="backgroundColor" value="272822" />
+  </component>
+</application> 

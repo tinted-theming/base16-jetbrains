@@ -1,0 +1,21 @@
+<!--    Base16 Embers
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="16130F" />
+    <option name="treeSelectionColor" value="6D5782" />
+    <option name="highlightColor" value="433B32" />
+    <option name="secondBorderColor" value="16130F" />
+    <option name="tableSelectedColor" value="6D5782" />
+    <option name="contrastColor" value="2C2620" />
+    <option name="disabledColor" value="8A8075" />
+    <option name="secondaryBackgroundColor" value="2C2620" />
+    <option name="buttonColor" value="16130F" />
+    <option name="selectionForegroundColor" value="BEB6AE" />
+    <option name="selectionBackgroundColor" value="6D5782" />
+    <option name="textColor" value="BEB6AE" />
+    <option name="foregroundColor" value="A39A90" />
+    <option name="backgroundColor" value="16130F" />
+  </component>
+</application> 

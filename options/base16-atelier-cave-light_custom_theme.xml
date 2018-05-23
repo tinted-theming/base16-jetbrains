@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Cave Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="efecf4" />
+    <option name="treeSelectionColor" value="576ddb" />
+    <option name="highlightColor" value="8b8792" />
+    <option name="secondBorderColor" value="efecf4" />
+    <option name="tableSelectedColor" value="576ddb" />
+    <option name="contrastColor" value="e2dfe7" />
+    <option name="disabledColor" value="655f6d" />
+    <option name="secondaryBackgroundColor" value="e2dfe7" />
+    <option name="buttonColor" value="efecf4" />
+    <option name="selectionForegroundColor" value="26232a" />
+    <option name="selectionBackgroundColor" value="576ddb" />
+    <option name="textColor" value="26232a" />
+    <option name="foregroundColor" value="585260" />
+    <option name="backgroundColor" value="efecf4" />
+  </component>
+</application> 

@@ -1,0 +1,2 @@
+#!/bin/sh
+rm -f colors.jar && touch 'IntelliJ IDEA Global Settings' && zip colors.jar colors -r 'IntelliJ IDEA Global Settings' && rm -f 'IntelliJ IDEA Global Settings'

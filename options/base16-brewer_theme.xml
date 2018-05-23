@@ -1,0 +1,12 @@
+<!--    Base16 Brewer
+        Author: Timothée Poisot (http://github.com/tpoisot)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="3182bd" />
+    <option name="accentColor" value="3182bd" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

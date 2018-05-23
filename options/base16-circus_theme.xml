@@ -1,0 +1,12 @@
+<!--    Base16 Circus
+        Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="639ee4" />
+    <option name="accentColor" value="639ee4" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>
