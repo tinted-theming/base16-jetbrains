@@ -1,0 +1,21 @@
+<!--    Base16 Summerfruit Light
+        Author: Christopher Corley (http://christop.club/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="FFFFFF" />
+    <option name="treeSelectionColor" value="3777E6" />
+    <option name="highlightColor" value="D0D0D0" />
+    <option name="secondBorderColor" value="FFFFFF" />
+    <option name="tableSelectedColor" value="3777E6" />
+    <option name="contrastColor" value="E0E0E0" />
+    <option name="disabledColor" value="000000" />
+    <option name="secondaryBackgroundColor" value="E0E0E0" />
+    <option name="buttonColor" value="FFFFFF" />
+    <option name="selectionForegroundColor" value="151515" />
+    <option name="selectionBackgroundColor" value="3777E6" />
+    <option name="textColor" value="151515" />
+    <option name="foregroundColor" value="101010" />
+    <option name="backgroundColor" value="FFFFFF" />
+  </component>
+</application> 

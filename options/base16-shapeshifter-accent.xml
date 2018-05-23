@@ -1,0 +1,12 @@
+<!--    Base16 Shapeshifter
+        Author: Tyler Benziger (http://tybenz.com)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="3b48e3" />
+    <option name="accentColor" value="3b48e3" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

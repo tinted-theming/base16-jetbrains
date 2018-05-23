@@ -1,0 +1,21 @@
+<!--    Base16 Darktooth
+        Author: Jason Milkins (https://github.com/jasonm23)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1D2021" />
+    <option name="treeSelectionColor" value="0D6678" />
+    <option name="highlightColor" value="504945" />
+    <option name="secondBorderColor" value="1D2021" />
+    <option name="tableSelectedColor" value="0D6678" />
+    <option name="contrastColor" value="32302F" />
+    <option name="disabledColor" value="928374" />
+    <option name="secondaryBackgroundColor" value="32302F" />
+    <option name="buttonColor" value="1D2021" />
+    <option name="selectionForegroundColor" value="D5C4A1" />
+    <option name="selectionBackgroundColor" value="0D6678" />
+    <option name="textColor" value="D5C4A1" />
+    <option name="foregroundColor" value="A89984" />
+    <option name="backgroundColor" value="1D2021" />
+  </component>
+</application> 

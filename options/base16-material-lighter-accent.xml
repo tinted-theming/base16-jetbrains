@@ -1,0 +1,12 @@
+<!--    Base16 Material Lighter
+        Author: Nate Peterson   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6182B8" />
+    <option name="accentColor" value="6182B8" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

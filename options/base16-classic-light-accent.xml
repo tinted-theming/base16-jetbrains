@@ -1,0 +1,12 @@
+<!--    Base16 Classic Light
+        Author: Jason Heeris (http://heeris.id.au)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6A9FB5" />
+    <option name="accentColor" value="6A9FB5" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

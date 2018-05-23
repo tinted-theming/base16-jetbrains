@@ -1,0 +1,12 @@
+<!--    Base16 Gruvbox dark, medium
+        Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="83a598" />
+    <option name="accentColor" value="83a598" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Dune
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="20201d" />
+    <option name="treeSelectionColor" value="6684e1" />
+    <option name="highlightColor" value="6e6b5e" />
+    <option name="secondBorderColor" value="20201d" />
+    <option name="tableSelectedColor" value="6684e1" />
+    <option name="contrastColor" value="292824" />
+    <option name="disabledColor" value="999580" />
+    <option name="secondaryBackgroundColor" value="292824" />
+    <option name="buttonColor" value="20201d" />
+    <option name="selectionForegroundColor" value="e8e4cf" />
+    <option name="selectionBackgroundColor" value="6684e1" />
+    <option name="textColor" value="e8e4cf" />
+    <option name="foregroundColor" value="a6a28c" />
+    <option name="backgroundColor" value="20201d" />
+  </component>
+</application> 

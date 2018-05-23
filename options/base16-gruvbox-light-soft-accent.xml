@@ -1,0 +1,12 @@
+<!--    Base16 Gruvbox light, soft
+        Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="076678" />
+    <option name="accentColor" value="076678" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

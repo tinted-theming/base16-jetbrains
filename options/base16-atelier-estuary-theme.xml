@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Estuary
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="22221b" />
+    <option name="treeSelectionColor" value="36a166" />
+    <option name="highlightColor" value="5f5e4e" />
+    <option name="secondBorderColor" value="22221b" />
+    <option name="tableSelectedColor" value="36a166" />
+    <option name="contrastColor" value="302f27" />
+    <option name="disabledColor" value="878573" />
+    <option name="secondaryBackgroundColor" value="302f27" />
+    <option name="buttonColor" value="22221b" />
+    <option name="selectionForegroundColor" value="e7e6df" />
+    <option name="selectionBackgroundColor" value="36a166" />
+    <option name="textColor" value="e7e6df" />
+    <option name="foregroundColor" value="929181" />
+    <option name="backgroundColor" value="22221b" />
+  </component>
+</application> 

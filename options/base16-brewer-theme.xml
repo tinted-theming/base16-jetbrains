@@ -1,0 +1,21 @@
+<!--    Base16 Brewer
+        Author: Timothée Poisot (http://github.com/tpoisot)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="0c0d0e" />
+    <option name="treeSelectionColor" value="3182bd" />
+    <option name="highlightColor" value="515253" />
+    <option name="secondBorderColor" value="0c0d0e" />
+    <option name="tableSelectedColor" value="3182bd" />
+    <option name="contrastColor" value="2e2f30" />
+    <option name="disabledColor" value="959697" />
+    <option name="secondaryBackgroundColor" value="2e2f30" />
+    <option name="buttonColor" value="0c0d0e" />
+    <option name="selectionForegroundColor" value="dadbdc" />
+    <option name="selectionBackgroundColor" value="3182bd" />
+    <option name="textColor" value="dadbdc" />
+    <option name="foregroundColor" value="b7b8b9" />
+    <option name="backgroundColor" value="0c0d0e" />
+  </component>
+</application> 

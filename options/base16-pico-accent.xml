@@ -1,0 +1,12 @@
+<!--    Base16 Pico
+        Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="83769c" />
+    <option name="accentColor" value="83769c" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

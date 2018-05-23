@@ -1,0 +1,21 @@
+<!--    Base16 Woodland
+        Author: Jay Cornwall (https://jcornwall.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="231e18" />
+    <option name="treeSelectionColor" value="88a4d3" />
+    <option name="highlightColor" value="48413a" />
+    <option name="secondBorderColor" value="231e18" />
+    <option name="tableSelectedColor" value="88a4d3" />
+    <option name="contrastColor" value="302b25" />
+    <option name="disabledColor" value="b4a490" />
+    <option name="secondaryBackgroundColor" value="302b25" />
+    <option name="buttonColor" value="231e18" />
+    <option name="selectionForegroundColor" value="d7c8bc" />
+    <option name="selectionBackgroundColor" value="88a4d3" />
+    <option name="textColor" value="d7c8bc" />
+    <option name="foregroundColor" value="cabcb1" />
+    <option name="backgroundColor" value="231e18" />
+  </component>
+</application> 

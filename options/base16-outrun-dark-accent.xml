@@ -1,0 +1,12 @@
+<!--    Base16 Outrun Dark
+        Author: Hugo Delahousse (http://github.com/hugodelahousse/)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="66B0FF" />
+    <option name="accentColor" value="66B0FF" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

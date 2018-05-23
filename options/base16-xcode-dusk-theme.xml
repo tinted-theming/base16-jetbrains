@@ -1,0 +1,21 @@
+<!--    Base16 XCode Dusk
+        Author: Elsa Gonsiorowski (https://github.com/gonsie)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282B35" />
+    <option name="treeSelectionColor" value="790EAD" />
+    <option name="highlightColor" value="53555D" />
+    <option name="secondBorderColor" value="282B35" />
+    <option name="tableSelectedColor" value="790EAD" />
+    <option name="contrastColor" value="3D4048" />
+    <option name="disabledColor" value="7E8086" />
+    <option name="secondaryBackgroundColor" value="3D4048" />
+    <option name="buttonColor" value="282B35" />
+    <option name="selectionForegroundColor" value="A9AAAE" />
+    <option name="selectionBackgroundColor" value="790EAD" />
+    <option name="textColor" value="A9AAAE" />
+    <option name="foregroundColor" value="939599" />
+    <option name="backgroundColor" value="282B35" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Google Dark
+        Author: Seth Wright (http://sethawright.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1d1f21" />
+    <option name="treeSelectionColor" value="3971ED" />
+    <option name="highlightColor" value="373b41" />
+    <option name="secondBorderColor" value="1d1f21" />
+    <option name="tableSelectedColor" value="3971ED" />
+    <option name="contrastColor" value="282a2e" />
+    <option name="disabledColor" value="b4b7b4" />
+    <option name="secondaryBackgroundColor" value="282a2e" />
+    <option name="buttonColor" value="1d1f21" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="3971ED" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="c5c8c6" />
+    <option name="backgroundColor" value="1d1f21" />
+  </component>
+</application> 

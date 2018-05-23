@@ -1,0 +1,21 @@
+<!--    Base16 Spacemacs
+        Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1f2022" />
+    <option name="treeSelectionColor" value="4f97d7" />
+    <option name="highlightColor" value="444155" />
+    <option name="secondBorderColor" value="1f2022" />
+    <option name="tableSelectedColor" value="4f97d7" />
+    <option name="contrastColor" value="282828" />
+    <option name="disabledColor" value="b8b8b8" />
+    <option name="secondaryBackgroundColor" value="282828" />
+    <option name="buttonColor" value="1f2022" />
+    <option name="selectionForegroundColor" value="e8e8e8" />
+    <option name="selectionBackgroundColor" value="4f97d7" />
+    <option name="textColor" value="e8e8e8" />
+    <option name="foregroundColor" value="a3a3a3" />
+    <option name="backgroundColor" value="1f2022" />
+  </component>
+</application> 

@@ -1,0 +1,12 @@
+<!--    Base16 OceanicNext
+        Author: https://github.com/voronianski/oceanic-next-color-scheme   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6699CC" />
+    <option name="accentColor" value="6699CC" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

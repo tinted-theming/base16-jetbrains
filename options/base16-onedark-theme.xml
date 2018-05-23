@@ -1,0 +1,21 @@
+<!--    Base16 OneDark
+        Author: Lalit Magant (http://github.com/tilal6991)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282c34" />
+    <option name="treeSelectionColor" value="61afef" />
+    <option name="highlightColor" value="3e4451" />
+    <option name="secondBorderColor" value="282c34" />
+    <option name="tableSelectedColor" value="61afef" />
+    <option name="contrastColor" value="353b45" />
+    <option name="disabledColor" value="565c64" />
+    <option name="secondaryBackgroundColor" value="353b45" />
+    <option name="buttonColor" value="282c34" />
+    <option name="selectionForegroundColor" value="b6bdca" />
+    <option name="selectionBackgroundColor" value="61afef" />
+    <option name="textColor" value="b6bdca" />
+    <option name="foregroundColor" value="abb2bf" />
+    <option name="backgroundColor" value="282c34" />
+  </component>
+</application> 

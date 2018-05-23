@@ -1,0 +1,21 @@
+<!--    Base16 Apathy
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="031A16" />
+    <option name="treeSelectionColor" value="96883E" />
+    <option name="highlightColor" value="184E45" />
+    <option name="secondBorderColor" value="031A16" />
+    <option name="tableSelectedColor" value="96883E" />
+    <option name="contrastColor" value="0B342D" />
+    <option name="disabledColor" value="5F9C92" />
+    <option name="secondaryBackgroundColor" value="0B342D" />
+    <option name="buttonColor" value="031A16" />
+    <option name="selectionForegroundColor" value="A7CEC8" />
+    <option name="selectionBackgroundColor" value="96883E" />
+    <option name="textColor" value="A7CEC8" />
+    <option name="foregroundColor" value="81B5AC" />
+    <option name="backgroundColor" value="031A16" />
+  </component>
+</application> 

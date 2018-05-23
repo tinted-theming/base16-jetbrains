@@ -1,0 +1,21 @@
+<!--    Base16 Outrun Dark
+        Author: Hugo Delahousse (http://github.com/hugodelahousse/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="00002A" />
+    <option name="treeSelectionColor" value="66B0FF" />
+    <option name="highlightColor" value="30305A" />
+    <option name="secondBorderColor" value="00002A" />
+    <option name="tableSelectedColor" value="66B0FF" />
+    <option name="contrastColor" value="20204A" />
+    <option name="disabledColor" value="B0B0DA" />
+    <option name="secondaryBackgroundColor" value="20204A" />
+    <option name="buttonColor" value="00002A" />
+    <option name="selectionForegroundColor" value="E0E0FF" />
+    <option name="selectionBackgroundColor" value="66B0FF" />
+    <option name="textColor" value="E0E0FF" />
+    <option name="foregroundColor" value="D0D0FA" />
+    <option name="backgroundColor" value="00002A" />
+  </component>
+</application> 

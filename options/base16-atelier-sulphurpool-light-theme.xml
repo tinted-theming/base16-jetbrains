@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Sulphurpool Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f5f7ff" />
+    <option name="treeSelectionColor" value="3d8fd1" />
+    <option name="highlightColor" value="979db4" />
+    <option name="secondBorderColor" value="f5f7ff" />
+    <option name="tableSelectedColor" value="3d8fd1" />
+    <option name="contrastColor" value="dfe2f1" />
+    <option name="disabledColor" value="6b7394" />
+    <option name="secondaryBackgroundColor" value="dfe2f1" />
+    <option name="buttonColor" value="f5f7ff" />
+    <option name="selectionForegroundColor" value="293256" />
+    <option name="selectionBackgroundColor" value="3d8fd1" />
+    <option name="textColor" value="293256" />
+    <option name="foregroundColor" value="5e6687" />
+    <option name="backgroundColor" value="f5f7ff" />
+  </component>
+</application> 

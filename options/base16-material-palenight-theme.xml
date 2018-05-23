@@ -1,0 +1,21 @@
+<!--    Base16 Material Palenight
+        Author: Nate Peterson   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="292D3E" />
+    <option name="treeSelectionColor" value="82AAFF" />
+    <option name="highlightColor" value="32374D" />
+    <option name="secondBorderColor" value="292D3E" />
+    <option name="tableSelectedColor" value="82AAFF" />
+    <option name="contrastColor" value="444267" />
+    <option name="disabledColor" value="8796B0" />
+    <option name="secondaryBackgroundColor" value="444267" />
+    <option name="buttonColor" value="292D3E" />
+    <option name="selectionForegroundColor" value="959DCB" />
+    <option name="selectionBackgroundColor" value="82AAFF" />
+    <option name="textColor" value="959DCB" />
+    <option name="foregroundColor" value="959DCB" />
+    <option name="backgroundColor" value="292D3E" />
+  </component>
+</application> 

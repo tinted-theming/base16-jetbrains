@@ -1,0 +1,21 @@
+<!--    Base16 Gruvbox dark, pale
+        Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="262626" />
+    <option name="treeSelectionColor" value="83adad" />
+    <option name="highlightColor" value="4e4e4e" />
+    <option name="secondBorderColor" value="262626" />
+    <option name="tableSelectedColor" value="83adad" />
+    <option name="contrastColor" value="3a3a3a" />
+    <option name="disabledColor" value="949494" />
+    <option name="secondaryBackgroundColor" value="3a3a3a" />
+    <option name="buttonColor" value="262626" />
+    <option name="selectionForegroundColor" value="d5c4a1" />
+    <option name="selectionBackgroundColor" value="83adad" />
+    <option name="textColor" value="d5c4a1" />
+    <option name="foregroundColor" value="dab997" />
+    <option name="backgroundColor" value="262626" />
+  </component>
+</application> 

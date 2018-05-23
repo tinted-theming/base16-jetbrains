@@ -1,0 +1,21 @@
+<!--    Base16 Mellow Purple
+        Author: gidsi   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1e0528" />
+    <option name="treeSelectionColor" value="550068" />
+    <option name="highlightColor" value="331354" />
+    <option name="secondBorderColor" value="1e0528" />
+    <option name="tableSelectedColor" value="550068" />
+    <option name="contrastColor" value="1A092D" />
+    <option name="disabledColor" value="873582" />
+    <option name="secondaryBackgroundColor" value="1A092D" />
+    <option name="buttonColor" value="1e0528" />
+    <option name="selectionForegroundColor" value="ffeeff" />
+    <option name="selectionBackgroundColor" value="550068" />
+    <option name="textColor" value="ffeeff" />
+    <option name="foregroundColor" value="ffeeff" />
+    <option name="backgroundColor" value="1e0528" />
+  </component>
+</application> 
