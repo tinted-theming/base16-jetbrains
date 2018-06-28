@@ -1,0 +1,38 @@
+#!/bin/sh
+touch 'IntelliJ IDEA Global Settings'
+zip colors.jar colors -r 'IntelliJ IDEA Global Settings'
+
+if [ $# -eq 0 ]; then
+    rm -rf builder options
+    git clone https://github.com/obahareth/base16-builder-ruby.git builder
+
+    mkdir -p builder/templates/jetbrains
+    cp .git -r builder/templates/jetbrains
+    cp templates -r builder/templates/jetbrains
+
+    cd builder && bundle install && ./builder
+    cp out/options -r ../ && cd ../
+
+    rm -rf builder
+fi
+
+mv 'IntelliJ IDEA Global Settings' options
+mkdir -p options/colors
+mkdir -p options/options
+
+for path in $(find options -name '*.theme.xml'); do
+    file=$(basename "$path")
+    name="${file%.*.*}"
+    cp colors/$name.icls options/colors
+    cd options
+    cp $file options/material_custom_theme.xml
+    cp $name.accent.xml options/material_theme.xml
+    cp $name.scheme.xml options/colors.scheme.xml
+    zip -r $name.jar options colors 'IntelliJ IDEA Global Settings'
+    cd ../
+done
+
+rm -f options/*.xml
+rm -f options/'IntelliJ IDEA Global Settings'
+rm -rf options/colors
+rm -rf options/options
