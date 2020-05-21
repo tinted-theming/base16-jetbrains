@@ -1,8 +1,0 @@
-<!--    Base16 Gruvbox Material Dark, Hard
-        Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)   -->
-
-<application>
-  <component name="EditorColorsManagerImpl">
-    <global_color_scheme name="Base16 Gruvbox Material Dark, Hard" />
-  </component>
-</application>

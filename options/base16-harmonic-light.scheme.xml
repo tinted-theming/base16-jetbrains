@@ -1,8 +1,0 @@
-<!--    Base16 Harmonic16 Light
-        Author: Jannik Siebert (https://github.com/janniks)   -->
-
-<application>
-  <component name="EditorColorsManagerImpl">
-    <global_color_scheme name="Base16 Harmonic16 Light" />
-  </component>
-</application>

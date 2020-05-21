@@ -1,8 +1,0 @@
-<!--    Base16 Windows 10
-        Author: Fergus Collins (https://github.com/C-Fergus)   -->
-
-<application>
-  <component name="EditorColorsManagerImpl">
-    <global_color_scheme name="Base16 Windows 10" />
-  </component>
-</application>

@@ -1,8 +1,0 @@
-<!--    Base16 Tokyodark Terminal
-        Author: Tiagovla (https://github.com/tiagovla/)   -->
-
-<application>
-  <component name="EditorColorsManagerImpl">
-    <global_color_scheme name="Base16 Tokyodark Terminal" />
-  </component>
-</application>

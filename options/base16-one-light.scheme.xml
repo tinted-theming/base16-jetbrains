@@ -1,8 +1,0 @@
-<!--    Base16 One Light
-        Author: Daniel Pfeifer (http://github.com/purpleKarrot)   -->
-
-<application>
-  <component name="EditorColorsManagerImpl">
-    <global_color_scheme name="Base16 One Light" />
-  </component>
-</application>
