@@ -2,5 +2,5 @@ ide-theme:
   extension: .theme.json
   output: ide-themes
 editor-theme:
-  extension: .icls
+  extension: .xml
   output: editor-themes
