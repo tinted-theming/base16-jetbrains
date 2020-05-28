@@ -57,7 +57,6 @@
 
       "errorForeground": "base08",
 
-      "borderColor": "base00",
       "disabledBorderColor": "base03",
 
       "focusColor": "base03",
@@ -114,8 +113,7 @@
     "ComboPopup.border": "1,1,1,1,base02",
 
     "CompletionPopup":  {
-      "matchForeground": "base0E",
-      "matchSelectionForeground": "base0E"
+      "matchForeground": "base0E"
     },
 
     "Component": {
@@ -153,9 +151,7 @@
     "EditorTabs": {
       "underlinedTabBackground": "base02",
       "inactiveUnderlineColor": "base03",
-      "selectedForeground": "base05",
       "underlineColor": "base04",
-      "inactiveMaskColor": "base01",
       "borderColor": "base00"
     },
 
