@@ -883,8 +883,8 @@
         <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="DF5273" />
-                <option name="ERROR_STRIPE_COLOR" value="DF5273" />
+                <option name="EFFECT_COLOR" value="E93C58" />
+                <option name="ERROR_STRIPE_COLOR" value="E93C58" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
