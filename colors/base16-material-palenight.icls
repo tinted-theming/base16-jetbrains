@@ -1,67 +1,38 @@
+<!--    Base16 Material Palenight
+        Author: Nate Peterson   -->
+
 <scheme name="Base16 Material Palenight" version="142" parent_scheme="Darcula">
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="LINE_SPACING" value="1.4" />
-    <font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </font>
-    <font>
-        <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-        <option name="EDITOR_FONT_SIZE" value="12" />
-    </font>
-    <option name="CONSOLE_FONT_NAME" value="Menlo" />
     <colors>
         <option name="ADDED_LINES_COLOR" value="C3E88D" />
         <option name="ANNOTATIONS_COLOR" value="959DCB" />
         <option name="BORDER_LINES_COLOR" value="" />
         <option name="CARET_COLOR" value="959DCB" />
-        <option name="CARET_ROW_COLOR" value="1b2529" />
+        <option name="CARET_ROW_COLOR" value="444267" />
         <option name="CONSOLE_BACKGROUND_KEY" value="292D3E" />
         <option name="DELETED_LINES_COLOR" value="F07178" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
         <option name="DOCUMENTATION_COLOR" value="292D3E" />
-        <option name="FILESTATUS_ADDED" value="80cbc4" />
-        <option name="FILESTATUS_COPIED" value="659d9a" />
-        <option name="FILESTATUS_DELETED" value="F07178" />
-        <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="F07178" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="676E95" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F07178" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F07178" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F07178" />
-        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="C3E88D" />
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="676E95" />
-        <option name="FILESTATUS_MERGED" value="65738e" />
-        <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-        <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-        <option name="FILESTATUS_SUPPRESSED" value="3c3f41" />
-        <option name="FILESTATUS_UNKNOWN" value="F07178" />
-        <option name="FILESTATUS_addedOutside" value="629755" />
-        <option name="FILESTATUS_changelistConflict" value="F07178" />
-        <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
         <option name="GUTTER_BACKGROUND" value="292D3E" />
-        <option name="INDENT_GUIDE" value="37474f" />
+        <option name="INDENT_GUIDE" value="32374D" />
         <option name="INFORMATION_HINT" value="292D3E" />
-        <option name="LINE_NUMBERS_COLOR" value="475f63" />
+        <option name="LINE_NUMBERS_COLOR" value="676E95" />
         <option name="METHOD_SEPARATORS_COLOR" value="676E95" />
         <option name="MODIFIED_LINES_COLOR" value="FFCB6B" />
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
         <option name="QUESTION_HINT" value="292D3E" />
-        <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-        <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
         <option name="RIGHT_MARGIN_COLOR" value="676E95" />
-        <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
-        <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
+        <option name="SELECTED_INDENT_GUIDE" value="8796B0" />
+        <option name="SELECTED_TEARLINE_COLOR" value="8796B0" />
         <option name="SELECTION_BACKGROUND" value="32374D" />
         <option name="SELECTION_FOREGROUND" value="959DCB"/>
+		<option name="SEPARATOR_BELOW_COLOR" value="32374D"/>
+		<option name="SEPARATOR_LINE_BELOW_FOREGROUND" value="0"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-        <option name="TEARLINE_COLOR" value="3b4950" />
+        <option name="TEARLINE_COLOR" value="32374D" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="676E95" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="676E95" />
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="32374D" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="F07178" />
         <option name="WHITESPACES" value="676E95" />
@@ -201,20 +172,20 @@
         </option>
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="ffffff" />
+                <option name="FOREGROUND" value="959DCB" />
                 <option name="BACKGROUND" value="676E95" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
-                <option name="FOREGROUND" value="607d8b"/>
+                <option name="FOREGROUND" value="8796B0"/>
                 <option name="BACKGROUND" value="292D3E"/>
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="ffffff" />
-                <option name="BACKGROUND" value="80cbcf" />
+                <option name="FOREGROUND" value="292D3E" />
+                <option name="BACKGROUND" value="8796B0" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -428,7 +399,7 @@
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="FF5370" />
+                <option name="FOREGROUND" value="959DCB" />
             </value>
         </option>
         <option name="CONSOLE_OUTPUT">
@@ -514,7 +485,7 @@
         </option>
         <option name="CSS.PROPERTY_NAME">
             <value>
-                <option name="FOREGROUND" value="80cbc4" />
+                <option name="FOREGROUND" value="8796B0" />
             </value>
         </option>
         <option name="CSS.PROPERTY_VALUE">
@@ -912,8 +883,8 @@
         <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="82AAFF" />
-                <option name="ERROR_STRIPE_COLOR" value="82AAFF" />
+                <option name="EFFECT_COLOR" value="F07178" />
+                <option name="ERROR_STRIPE_COLOR" value="F07178" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -934,8 +905,8 @@
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="80cbc4" />
-                <option name="EFFECT_COLOR" value="80cbc4" />
+                <option name="FOREGROUND" value="8796B0" />
+                <option name="EFFECT_COLOR" value="8796B0" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -3245,7 +3216,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="FF5370" />
+                <option name="FOREGROUND" value="959DCB" />
                 <option name="BACKGROUND" value="292D3E" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
