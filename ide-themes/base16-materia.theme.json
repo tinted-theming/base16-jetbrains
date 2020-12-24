@@ -2,7 +2,7 @@
   "name": "Base16 Materia",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Defman21",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-materia.xml",
   "colors": {
     "base00": "#263238",
     "base01": "#2C393F",

@@ -2,7 +2,7 @@
   "name": "Base16 One Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Daniel Pfeifer (http://github.com/purpleKarrot)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-one-light.xml",
   "colors": {
     "base00": "#fafafa",
     "base01": "#f0f0f1",

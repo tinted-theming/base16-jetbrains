@@ -2,7 +2,7 @@
   "name": "Base16 iA Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by iA Inc. (modified by aramisgithub)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-ia-light.xml",
   "colors": {
     "base00": "#f6f6f6",
     "base01": "#dedede",

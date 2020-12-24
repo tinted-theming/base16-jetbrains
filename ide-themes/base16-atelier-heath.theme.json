@@ -2,7 +2,7 @@
   "name": "Base16 Atelier Heath",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Bram de Haan (http://atelierbramdehaan.nl)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-atelier-heath.xml",
   "colors": {
     "base00": "#1b181b",
     "base01": "#292329",

@@ -2,7 +2,7 @@
   "name": "Base16 Brush Trees Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Abraham White &lt;abelincoln.white@gmail.com&gt;",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-brushtrees-dark.xml",
   "colors": {
     "base00": "#485867",
     "base01": "#5A6D7A",

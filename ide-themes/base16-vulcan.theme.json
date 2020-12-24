@@ -2,7 +2,7 @@
   "name": "Base16 vulcan",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Andrey Varfolomeev",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-vulcan.xml",
   "colors": {
     "base00": "#041523",
     "base01": "#122339",

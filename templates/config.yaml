@@ -4,3 +4,6 @@ ide-theme:
 editor-theme:
   extension: .xml
   output: editor-themes
+plugin:
+  extension: .xml
+  output: plugin

@@ -2,7 +2,7 @@
   "name": "Base16 Edge Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by cjayross (https://github.com/cjayross)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-edge-dark.xml",
   "colors": {
     "base00": "#262729",
     "base01": "#88909f",

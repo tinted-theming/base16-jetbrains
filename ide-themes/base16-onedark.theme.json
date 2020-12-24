@@ -2,7 +2,7 @@
   "name": "Base16 OneDark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Lalit Magant (http://github.com/tilal6991)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-onedark.xml",
   "colors": {
     "base00": "#282c34",
     "base01": "#353b45",

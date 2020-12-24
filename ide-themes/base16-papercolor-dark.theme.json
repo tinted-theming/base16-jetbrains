@@ -2,7 +2,7 @@
   "name": "Base16 PaperColor Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-papercolor-dark.xml",
   "colors": {
     "base00": "#1c1c1c",
     "base01": "#af005f",

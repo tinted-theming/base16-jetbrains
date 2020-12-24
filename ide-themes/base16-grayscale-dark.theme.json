@@ -2,7 +2,7 @@
   "name": "Base16 Grayscale Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Alexandre Gavioli (https://github.com/Alexx2/)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-grayscale-dark.xml",
   "colors": {
     "base00": "#101010",
     "base01": "#252525",

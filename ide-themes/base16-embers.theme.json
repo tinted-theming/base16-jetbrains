@@ -2,7 +2,7 @@
   "name": "Base16 Embers",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jannik Siebert (https://github.com/janniks)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-embers.xml",
   "colors": {
     "base00": "#16130F",
     "base01": "#2C2620",

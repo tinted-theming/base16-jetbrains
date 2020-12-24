@@ -2,7 +2,7 @@
   "name": "Base16 Humanoid dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Thomas (tasmo) Friese",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-humanoid-dark.xml",
   "colors": {
     "base00": "#232629",
     "base01": "#333b3d",

@@ -2,7 +2,7 @@
   "name": "Base16 Material",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Nate Peterson",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-material.xml",
   "colors": {
     "base00": "#263238",
     "base01": "#2E3C43",

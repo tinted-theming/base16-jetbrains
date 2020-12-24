@@ -2,7 +2,7 @@
   "name": "Base16 Heetch Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Geoffrey Teale (tealeg@gmail.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-heetch-light.xml",
   "colors": {
     "base00": "#feffff",
     "base01": "#392551",

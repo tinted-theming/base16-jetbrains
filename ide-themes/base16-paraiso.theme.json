@@ -2,7 +2,7 @@
   "name": "Base16 Paraiso",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jan T. Sott",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-paraiso.xml",
   "colors": {
     "base00": "#2f1e2e",
     "base01": "#41323f",

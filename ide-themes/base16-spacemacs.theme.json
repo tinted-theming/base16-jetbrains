@@ -2,7 +2,7 @@
   "name": "Base16 Spacemacs",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-spacemacs.xml",
   "colors": {
     "base00": "#1f2022",
     "base01": "#282828",

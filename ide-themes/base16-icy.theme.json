@@ -2,7 +2,7 @@
   "name": "Base16 Icy Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by icyphox (https://icyphox.ga)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-icy.xml",
   "colors": {
     "base00": "#021012",
     "base01": "#031619",

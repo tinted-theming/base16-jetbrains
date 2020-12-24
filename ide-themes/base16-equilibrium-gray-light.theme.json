@@ -2,7 +2,7 @@
   "name": "Base16 Equilibrium Gray Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Carlo Abelli",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-equilibrium-gray-light.xml",
   "colors": {
     "base00": "#f1f1f1",
     "base01": "#e2e2e2",

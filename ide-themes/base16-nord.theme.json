@@ -2,7 +2,7 @@
   "name": "Base16 Nord",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by arcticicestudio",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-nord.xml",
   "colors": {
     "base00": "#2E3440",
     "base01": "#3B4252",

@@ -2,7 +2,7 @@
   "name": "Base16 Silk Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Gabriel Fontes (https://github.com/Misterio77)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-silk-dark.xml",
   "colors": {
     "base00": "#0e3c46",
     "base01": "#1D494E",

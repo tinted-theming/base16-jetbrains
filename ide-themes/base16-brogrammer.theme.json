@@ -2,7 +2,7 @@
   "name": "Base16 Brogrammer",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Vik Ramanujam (http://github.com/piggyslasher)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-brogrammer.xml",
   "colors": {
     "base00": "#1f1f1f",
     "base01": "#f81118",

@@ -2,7 +2,7 @@
   "name": "Base16 Atelier Forest",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Bram de Haan (http://atelierbramdehaan.nl)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-atelier-forest.xml",
   "colors": {
     "base00": "#1b1918",
     "base01": "#2c2421",

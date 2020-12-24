@@ -2,7 +2,7 @@
   "name": "Base16 Shapeshifter",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Tyler Benziger (http://tybenz.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-shapeshifter.xml",
   "colors": {
     "base00": "#f9f9f9",
     "base01": "#e0e0e0",

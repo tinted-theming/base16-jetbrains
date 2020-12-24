@@ -2,7 +2,7 @@
   "name": "Base16 Macintosh",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Rebecca Bettencourt (http://www.kreativekorp.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-macintosh.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#404040",

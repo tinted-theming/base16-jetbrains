@@ -2,7 +2,7 @@
   "name": "Base16 Github",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Defman21",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-github.xml",
   "colors": {
     "base00": "#ffffff",
     "base01": "#f5f5f5",

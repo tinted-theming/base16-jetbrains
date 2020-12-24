@@ -2,7 +2,7 @@
   "name": "Base16 Unikitty Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Josh W Lewis (@joshwlewis)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-unikitty-dark.xml",
   "colors": {
     "base00": "#2e2a31",
     "base01": "#4a464d",

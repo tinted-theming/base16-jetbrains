@@ -2,7 +2,7 @@
   "name": "Base16 Outrun Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Hugo Delahousse (http://github.com/hugodelahousse/)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-outrun-dark.xml",
   "colors": {
     "base00": "#00002A",
     "base01": "#20204A",

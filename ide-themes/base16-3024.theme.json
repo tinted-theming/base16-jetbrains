@@ -2,7 +2,7 @@
   "name": "Base16 3024",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jan T. Sott (http://github.com/idleberg)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-3024.xml",
   "colors": {
     "base00": "#090300",
     "base01": "#3a3432",

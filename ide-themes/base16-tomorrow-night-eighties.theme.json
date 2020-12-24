@@ -2,7 +2,7 @@
   "name": "Base16 Tomorrow Night",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-tomorrow-night-eighties.xml",
   "colors": {
     "base00": "#2d2d2d",
     "base01": "#393939",

@@ -2,7 +2,7 @@
   "name": "Base16 Harmonic16 Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jannik Siebert (https://github.com/janniks)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-harmonic-light.xml",
   "colors": {
     "base00": "#f7f9fb",
     "base01": "#e5ebf1",

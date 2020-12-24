@@ -2,7 +2,7 @@
   "name": "Base16 Pico",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by PICO-8 (http://www.lexaloffle.com/pico-8.php)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-pico.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#1d2b53",

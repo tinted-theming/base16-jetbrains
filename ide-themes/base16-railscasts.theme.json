@@ -2,7 +2,7 @@
   "name": "Base16 Railscasts",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Ryan Bates (http://railscasts.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-railscasts.xml",
   "colors": {
     "base00": "#2b2b2b",
     "base01": "#272935",

@@ -2,7 +2,7 @@
   "name": "Base16 Helios",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Alex Meyer (https://github.com/reyemxela)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-helios.xml",
   "colors": {
     "base00": "#1d2021",
     "base01": "#383c3e",

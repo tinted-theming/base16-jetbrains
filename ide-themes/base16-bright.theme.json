@@ -2,7 +2,7 @@
   "name": "Base16 Bright",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-bright.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#303030",

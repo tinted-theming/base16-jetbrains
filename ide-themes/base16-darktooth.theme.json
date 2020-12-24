@@ -2,7 +2,7 @@
   "name": "Base16 Darktooth",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jason Milkins (https://github.com/jasonm23)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-darktooth.xml",
   "colors": {
     "base00": "#1D2021",
     "base01": "#32302F",

@@ -2,7 +2,7 @@
   "name": "Base16 Classic Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jason Heeris (http://heeris.id.au)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-classic-light.xml",
   "colors": {
     "base00": "#F5F5F5",
     "base01": "#E0E0E0",

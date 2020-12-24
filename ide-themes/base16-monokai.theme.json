@@ -2,7 +2,7 @@
   "name": "Base16 Monokai",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Wimer Hazenberg (http://www.monokai.nl)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-monokai.xml",
   "colors": {
     "base00": "#272822",
     "base01": "#383830",

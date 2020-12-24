@@ -2,7 +2,7 @@
   "name": "Base16 Horizon Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Michaël Ball (http://github.com/michael-ball/)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-horizon-terminal-light.xml",
   "colors": {
     "base00": "#FDF0ED",
     "base01": "#FADAD1",

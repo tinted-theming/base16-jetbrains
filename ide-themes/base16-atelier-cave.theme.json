@@ -2,7 +2,7 @@
   "name": "Base16 Atelier Cave",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Bram de Haan (http://atelierbramdehaan.nl)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-atelier-cave.xml",
   "colors": {
     "base00": "#19171c",
     "base01": "#26232a",

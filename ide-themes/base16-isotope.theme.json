@@ -2,7 +2,7 @@
   "name": "Base16 Isotope",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jan T. Sott",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-isotope.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#404040",

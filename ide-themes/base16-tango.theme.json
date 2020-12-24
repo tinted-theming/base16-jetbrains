@@ -2,7 +2,7 @@
   "name": "Base16 Tango",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by @Schnouki, based on the Tango Desktop Project",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-tango.xml",
   "colors": {
     "base00": "#2e3436",
     "base01": "#8ae234",

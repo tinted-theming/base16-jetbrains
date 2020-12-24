@@ -2,7 +2,7 @@
   "name": "Base16 Atlas",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Alex Lende (https://ajlende.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-atlas.xml",
   "colors": {
     "base00": "#002635",
     "base01": "#00384d",

@@ -2,7 +2,7 @@
   "name": "Base16 Pop",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-pop.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#202020",

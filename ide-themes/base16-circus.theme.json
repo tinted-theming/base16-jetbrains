@@ -2,7 +2,7 @@
   "name": "Base16 Circus",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-circus.xml",
   "colors": {
     "base00": "#191919",
     "base01": "#202020",

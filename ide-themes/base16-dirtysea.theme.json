@@ -2,7 +2,7 @@
   "name": "Base16 dirtysea",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Kahlil (Kal) Hodgson",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-dirtysea.xml",
   "colors": {
     "base00": "#e0e0e0",
     "base01": "#d0d0d0",

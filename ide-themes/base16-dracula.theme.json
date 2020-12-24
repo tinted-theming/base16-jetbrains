@@ -2,7 +2,7 @@
   "name": "Base16 Dracula",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-dracula.xml",
   "colors": {
     "base00": "#282936",
     "base01": "#3a3c4e",

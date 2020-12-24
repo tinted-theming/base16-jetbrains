@@ -2,7 +2,7 @@
   "name": "Base16 Nova",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-nova.xml",
   "colors": {
     "base00": "#3C4C55",
     "base01": "#556873",

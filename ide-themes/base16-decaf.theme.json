@@ -2,7 +2,7 @@
   "name": "Base16 Decaf",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Alex Mirrington (https://github.com/alexmirrington)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-decaf.xml",
   "colors": {
     "base00": "#2d2d2d",
     "base01": "#393939",

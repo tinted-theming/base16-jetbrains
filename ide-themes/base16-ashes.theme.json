@@ -2,7 +2,7 @@
   "name": "Base16 Ashes",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jannik Siebert (https://github.com/janniks)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-ashes.xml",
   "colors": {
     "base00": "#1C2023",
     "base01": "#393F45",

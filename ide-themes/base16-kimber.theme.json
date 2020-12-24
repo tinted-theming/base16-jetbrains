@@ -2,7 +2,7 @@
   "name": "Base16 Kimber",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Mishka Nguyen (https://github.com/akhsiM)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-kimber.xml",
   "colors": {
     "base00": "#222222",
     "base01": "#313131",

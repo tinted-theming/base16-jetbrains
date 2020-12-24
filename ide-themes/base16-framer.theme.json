@@ -2,7 +2,7 @@
   "name": "Base16 Framer",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Framer (Maintained by Jesse Hoyos)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-framer.xml",
   "colors": {
     "base00": "#181818",
     "base01": "#151515",

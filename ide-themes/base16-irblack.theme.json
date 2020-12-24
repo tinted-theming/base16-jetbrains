@@ -2,7 +2,7 @@
   "name": "Base16 IR Black",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Timothée Poisot (http://timotheepoisot.fr)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-irblack.xml",
   "colors": {
     "base00": "#000000",
     "base01": "#242422",

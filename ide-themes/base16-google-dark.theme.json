@@ -2,7 +2,7 @@
   "name": "Base16 Google Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Seth Wright (http://sethawright.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-google-dark.xml",
   "colors": {
     "base00": "#1d1f21",
     "base01": "#282a2e",

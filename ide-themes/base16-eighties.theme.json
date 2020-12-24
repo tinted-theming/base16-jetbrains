@@ -2,7 +2,7 @@
   "name": "Base16 Eighties",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-eighties.xml",
   "colors": {
     "base00": "#2d2d2d",
     "base01": "#393939",

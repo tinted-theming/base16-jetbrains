@@ -2,7 +2,7 @@
   "name": "Base16 Marrakesh",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Alexandre Gavioli (http://github.com/Alexx2/)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-marrakesh.xml",
   "colors": {
     "base00": "#201602",
     "base01": "#302e00",

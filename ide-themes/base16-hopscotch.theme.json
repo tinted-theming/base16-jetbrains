@@ -2,7 +2,7 @@
   "name": "Base16 Hopscotch",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jan T. Sott",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-hopscotch.xml",
   "colors": {
     "base00": "#322931",
     "base01": "#433b42",

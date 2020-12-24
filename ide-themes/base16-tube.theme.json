@@ -2,7 +2,7 @@
   "name": "Base16 London Tube",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Jan T. Sott",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-tube.xml",
   "colors": {
     "base00": "#231f20",
     "base01": "#1c3f95",

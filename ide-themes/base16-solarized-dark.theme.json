@@ -2,7 +2,7 @@
   "name": "Base16 Solarized Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Ethan Schoonover (modified by aramisgithub)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-solarized-dark.xml",
   "colors": {
     "base00": "#002b36",
     "base01": "#073642",

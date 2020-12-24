@@ -2,7 +2,7 @@
   "name": "Base16 Synth Midnight Terminal Dark",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Michaël Ball (http://github.com/michael-ball/)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-synth-midnight-dark.xml",
   "colors": {
     "base00": "#050608",
     "base01": "#1a1b1c",

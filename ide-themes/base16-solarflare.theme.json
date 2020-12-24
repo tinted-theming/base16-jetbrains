@@ -2,7 +2,7 @@
   "name": "Base16 Solar Flare",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Chuck Harmston (https://chuck.harmston.ch)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-solarflare.xml",
   "colors": {
     "base00": "#18262F",
     "base01": "#222E38",

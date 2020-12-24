@@ -2,7 +2,7 @@
   "name": "Base16 Atelier Estuary Light",
   "dark": true,
   "author": "Template by Shirom Makkad. Colors by Bram de Haan (http://atelierbramdehaan.nl)",
-  "editorScheme": "<relative path to editor scheme>",
+  "editorScheme": "/base16-atelier-estuary-light.xml",
   "colors": {
     "base00": "#f4f3ec",
     "base01": "#e7e6df",
