@@ -1,7 +1,7 @@
 {
   "name": "Base16 Snazzy",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
+  "author": "Template by Shirom Makkad. Colors by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
   "editorScheme": "/base16-snazzy.xml",
   "colors": {
     "base00": "#282a36",
