@@ -1,0 +1,21 @@
+<!--    Base16 better-contrast
+        Author: Ben Mayoras   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="182430" />
+    <option name="treeSelectionColor" value="82aaff" />
+    <option name="highlightColor" value="46290a" />
+    <option name="secondBorderColor" value="182430" />
+    <option name="tableSelectedColor" value="82aaff" />
+    <option name="contrastColor" value="243c54" />
+    <option name="disabledColor" value="74afe7" />
+    <option name="secondaryBackgroundColor" value="243c54" />
+    <option name="buttonColor" value="182430" />
+    <option name="selectionForegroundColor" value="ddeaf6" />
+    <option name="selectionBackgroundColor" value="82aaff" />
+    <option name="textColor" value="ddeaf6" />
+    <option name="foregroundColor" value="c8e1f8" />
+    <option name="backgroundColor" value="182430" />
+  </component>
+</application> 

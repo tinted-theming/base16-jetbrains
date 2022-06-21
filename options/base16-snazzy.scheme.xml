@@ -1,0 +1,8 @@
+<!--    Base16 Snazzy
+        Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Snazzy" />
+  </component>
+</application>

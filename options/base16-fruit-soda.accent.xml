@@ -1,0 +1,12 @@
+<!--    Base16 Fruit Soda
+        Author: jozip   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="2931df" />
+    <option name="accentColor" value="2931df" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<!--    Base16 Da One Sea
+        Author: NNB (https://github.com/NNBnh)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6bb8ff" />
+    <option name="accentColor" value="6bb8ff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

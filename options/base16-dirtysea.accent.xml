@@ -1,0 +1,12 @@
+<!--    Base16 dirtysea
+        Author: Kahlil (Kal) Hodgson   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="007300" />
+    <option name="accentColor" value="007300" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

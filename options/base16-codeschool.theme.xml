@@ -1,0 +1,21 @@
+<!--    Base16 Codeschool
+        Author: blockloop   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="232c31" />
+    <option name="treeSelectionColor" value="484d79" />
+    <option name="highlightColor" value="2a343a" />
+    <option name="secondBorderColor" value="232c31" />
+    <option name="tableSelectedColor" value="484d79" />
+    <option name="contrastColor" value="1c3657" />
+    <option name="disabledColor" value="84898c" />
+    <option name="secondaryBackgroundColor" value="1c3657" />
+    <option name="buttonColor" value="232c31" />
+    <option name="selectionForegroundColor" value="a7cfa3" />
+    <option name="selectionBackgroundColor" value="484d79" />
+    <option name="textColor" value="a7cfa3" />
+    <option name="foregroundColor" value="9ea7a6" />
+    <option name="backgroundColor" value="232c31" />
+  </component>
+</application> 

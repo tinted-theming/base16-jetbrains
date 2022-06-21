@@ -1,0 +1,8 @@
+<!--    Base16 Atelier Seaside Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Atelier Seaside Light" />
+  </component>
+</application>

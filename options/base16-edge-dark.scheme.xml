@@ -1,0 +1,8 @@
+<!--    Base16 Edge Dark
+        Author: cjayross (https://github.com/cjayross)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Edge Dark" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Classic Dark
+        Author: Jason Heeris (http://heeris.id.au)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="151515" />
+    <option name="treeSelectionColor" value="6a9fb5" />
+    <option name="highlightColor" value="303030" />
+    <option name="secondBorderColor" value="151515" />
+    <option name="tableSelectedColor" value="6a9fb5" />
+    <option name="contrastColor" value="202020" />
+    <option name="disabledColor" value="b0b0b0" />
+    <option name="secondaryBackgroundColor" value="202020" />
+    <option name="buttonColor" value="151515" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="6a9fb5" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="d0d0d0" />
+    <option name="backgroundColor" value="151515" />
+  </component>
+</application> 

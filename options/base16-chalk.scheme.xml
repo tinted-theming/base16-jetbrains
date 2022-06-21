@@ -1,0 +1,8 @@
+<!--    Base16 Chalk
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Chalk" />
+  </component>
+</application>

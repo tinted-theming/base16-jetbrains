@@ -1,0 +1,21 @@
+<!--    Base16 Edge Light
+        Author: cjayross (https://github.com/cjayross)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fafafa" />
+    <option name="treeSelectionColor" value="6587bf" />
+    <option name="highlightColor" value="d69822" />
+    <option name="secondBorderColor" value="fafafa" />
+    <option name="tableSelectedColor" value="6587bf" />
+    <option name="contrastColor" value="7c9f4b" />
+    <option name="disabledColor" value="6587bf" />
+    <option name="secondaryBackgroundColor" value="7c9f4b" />
+    <option name="buttonColor" value="fafafa" />
+    <option name="selectionForegroundColor" value="b870ce" />
+    <option name="selectionBackgroundColor" value="6587bf" />
+    <option name="textColor" value="b870ce" />
+    <option name="foregroundColor" value="5e646f" />
+    <option name="backgroundColor" value="fafafa" />
+  </component>
+</application> 

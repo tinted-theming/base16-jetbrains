@@ -1,0 +1,21 @@
+<!--    Base16 Porple
+        Author: Niek den Breeje (https://github.com/AuditeMarlow)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="292c36" />
+    <option name="treeSelectionColor" value="8485ce" />
+    <option name="highlightColor" value="474160" />
+    <option name="secondBorderColor" value="292c36" />
+    <option name="tableSelectedColor" value="8485ce" />
+    <option name="contrastColor" value="333344" />
+    <option name="disabledColor" value="b8b8b8" />
+    <option name="secondaryBackgroundColor" value="333344" />
+    <option name="buttonColor" value="292c36" />
+    <option name="selectionForegroundColor" value="e8e8e8" />
+    <option name="selectionBackgroundColor" value="8485ce" />
+    <option name="textColor" value="e8e8e8" />
+    <option name="foregroundColor" value="d8d8d8" />
+    <option name="backgroundColor" value="292c36" />
+  </component>
+</application> 

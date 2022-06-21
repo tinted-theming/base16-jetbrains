@@ -1,0 +1,21 @@
+<!--    Base16 Eighties
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2d2d2d" />
+    <option name="treeSelectionColor" value="6699cc" />
+    <option name="highlightColor" value="515151" />
+    <option name="secondBorderColor" value="2d2d2d" />
+    <option name="tableSelectedColor" value="6699cc" />
+    <option name="contrastColor" value="393939" />
+    <option name="disabledColor" value="a09f93" />
+    <option name="secondaryBackgroundColor" value="393939" />
+    <option name="buttonColor" value="2d2d2d" />
+    <option name="selectionForegroundColor" value="e8e6df" />
+    <option name="selectionBackgroundColor" value="6699cc" />
+    <option name="textColor" value="e8e6df" />
+    <option name="foregroundColor" value="d3d0c8" />
+    <option name="backgroundColor" value="2d2d2d" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Seaside
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="131513" />
+    <option name="treeSelectionColor" value="3d62f5" />
+    <option name="highlightColor" value="5e6e5e" />
+    <option name="secondBorderColor" value="131513" />
+    <option name="tableSelectedColor" value="3d62f5" />
+    <option name="contrastColor" value="242924" />
+    <option name="disabledColor" value="809980" />
+    <option name="secondaryBackgroundColor" value="242924" />
+    <option name="buttonColor" value="131513" />
+    <option name="selectionForegroundColor" value="cfe8cf" />
+    <option name="selectionBackgroundColor" value="3d62f5" />
+    <option name="textColor" value="cfe8cf" />
+    <option name="foregroundColor" value="8ca68c" />
+    <option name="backgroundColor" value="131513" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Gruvbox Material Dark, Soft
+        Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="32302f" />
+    <option name="treeSelectionColor" value="7daea3" />
+    <option name="highlightColor" value="5a524c" />
+    <option name="secondBorderColor" value="32302f" />
+    <option name="tableSelectedColor" value="7daea3" />
+    <option name="contrastColor" value="3c3836" />
+    <option name="disabledColor" value="bdae93" />
+    <option name="secondaryBackgroundColor" value="3c3836" />
+    <option name="buttonColor" value="32302f" />
+    <option name="selectionForegroundColor" value="ebdbb2" />
+    <option name="selectionBackgroundColor" value="7daea3" />
+    <option name="textColor" value="ebdbb2" />
+    <option name="foregroundColor" value="ddc7a1" />
+    <option name="backgroundColor" value="32302f" />
+  </component>
+</application> 

@@ -1,0 +1,8 @@
+<!--    Base16 Gruber
+        Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Gruber" />
+  </component>
+</application>

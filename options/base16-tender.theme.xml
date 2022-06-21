@@ -1,0 +1,21 @@
+<!--    Base16 tender
+        Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282828" />
+    <option name="treeSelectionColor" value="b3deef" />
+    <option name="highlightColor" value="484848" />
+    <option name="secondBorderColor" value="282828" />
+    <option name="tableSelectedColor" value="b3deef" />
+    <option name="contrastColor" value="383838" />
+    <option name="disabledColor" value="b8b8b8" />
+    <option name="secondaryBackgroundColor" value="383838" />
+    <option name="buttonColor" value="282828" />
+    <option name="selectionForegroundColor" value="e8e8e8" />
+    <option name="selectionBackgroundColor" value="b3deef" />
+    <option name="textColor" value="e8e8e8" />
+    <option name="foregroundColor" value="eeeeee" />
+    <option name="backgroundColor" value="282828" />
+  </component>
+</application> 

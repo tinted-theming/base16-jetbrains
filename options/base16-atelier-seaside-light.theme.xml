@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Seaside Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f4fbf4" />
+    <option name="treeSelectionColor" value="3d62f5" />
+    <option name="highlightColor" value="8ca68c" />
+    <option name="secondBorderColor" value="f4fbf4" />
+    <option name="tableSelectedColor" value="3d62f5" />
+    <option name="contrastColor" value="cfe8cf" />
+    <option name="disabledColor" value="687d68" />
+    <option name="secondaryBackgroundColor" value="cfe8cf" />
+    <option name="buttonColor" value="f4fbf4" />
+    <option name="selectionForegroundColor" value="242924" />
+    <option name="selectionBackgroundColor" value="3d62f5" />
+    <option name="textColor" value="242924" />
+    <option name="foregroundColor" value="5e6e5e" />
+    <option name="backgroundColor" value="f4fbf4" />
+  </component>
+</application> 

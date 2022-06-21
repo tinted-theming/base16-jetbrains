@@ -1,0 +1,21 @@
+<!--    Base16 Atlas
+        Author: Alex Lende (https://ajlende.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="002635" />
+    <option name="treeSelectionColor" value="5dd7b9" />
+    <option name="highlightColor" value="517f8d" />
+    <option name="secondBorderColor" value="002635" />
+    <option name="tableSelectedColor" value="5dd7b9" />
+    <option name="contrastColor" value="00384d" />
+    <option name="disabledColor" value="869696" />
+    <option name="secondaryBackgroundColor" value="00384d" />
+    <option name="buttonColor" value="002635" />
+    <option name="selectionForegroundColor" value="e6e6dc" />
+    <option name="selectionBackgroundColor" value="5dd7b9" />
+    <option name="textColor" value="e6e6dc" />
+    <option name="foregroundColor" value="a1a19a" />
+    <option name="backgroundColor" value="002635" />
+  </component>
+</application> 

@@ -1,0 +1,8 @@
+<!--    Base16 Humanoid light
+        Author: Thomas (tasmo) Friese   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Humanoid light" />
+  </component>
+</application>

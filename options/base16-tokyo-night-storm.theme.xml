@@ -1,0 +1,21 @@
+<!--    Base16 Tokyo Night Storm
+        Author: Michaël Ball   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="24283b" />
+    <option name="treeSelectionColor" value="2ac3de" />
+    <option name="highlightColor" value="343a52" />
+    <option name="secondBorderColor" value="24283b" />
+    <option name="tableSelectedColor" value="2ac3de" />
+    <option name="contrastColor" value="16161e" />
+    <option name="disabledColor" value="787c99" />
+    <option name="secondaryBackgroundColor" value="16161e" />
+    <option name="buttonColor" value="24283b" />
+    <option name="selectionForegroundColor" value="cbccd1" />
+    <option name="selectionBackgroundColor" value="2ac3de" />
+    <option name="textColor" value="cbccd1" />
+    <option name="foregroundColor" value="a9b1d6" />
+    <option name="backgroundColor" value="24283b" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 One Light
+        Author: Daniel Pfeifer (http://github.com/purpleKarrot)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fafafa" />
+    <option name="treeSelectionColor" value="4078f2" />
+    <option name="highlightColor" value="e5e5e6" />
+    <option name="secondBorderColor" value="fafafa" />
+    <option name="tableSelectedColor" value="4078f2" />
+    <option name="contrastColor" value="f0f0f1" />
+    <option name="disabledColor" value="696c77" />
+    <option name="secondaryBackgroundColor" value="f0f0f1" />
+    <option name="buttonColor" value="fafafa" />
+    <option name="selectionForegroundColor" value="202227" />
+    <option name="selectionBackgroundColor" value="4078f2" />
+    <option name="textColor" value="202227" />
+    <option name="foregroundColor" value="383a42" />
+    <option name="backgroundColor" value="fafafa" />
+  </component>
+</application> 

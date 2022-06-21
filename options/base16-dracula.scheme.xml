@@ -1,0 +1,8 @@
+<!--    Base16 Dracula
+        Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Dracula" />
+  </component>
+</application>

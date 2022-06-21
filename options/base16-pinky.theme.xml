@@ -1,0 +1,21 @@
+<!--    Base16 pinky
+        Author: Benjamin (https://github.com/b3nj5m1n)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="171517" />
+    <option name="treeSelectionColor" value="00ffff" />
+    <option name="highlightColor" value="1d1b1d" />
+    <option name="secondBorderColor" value="171517" />
+    <option name="tableSelectedColor" value="00ffff" />
+    <option name="contrastColor" value="1b181b" />
+    <option name="disabledColor" value="e7dbdb" />
+    <option name="secondaryBackgroundColor" value="1b181b" />
+    <option name="buttonColor" value="171517" />
+    <option name="selectionForegroundColor" value="ffffff" />
+    <option name="selectionBackgroundColor" value="00ffff" />
+    <option name="textColor" value="ffffff" />
+    <option name="foregroundColor" value="f5f5f5" />
+    <option name="backgroundColor" value="171517" />
+  </component>
+</application> 

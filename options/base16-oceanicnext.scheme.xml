@@ -1,0 +1,8 @@
+<!--    Base16 OceanicNext
+        Author: https://github.com/voronianski/oceanic-next-color-scheme   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 OceanicNext" />
+  </component>
+</application>

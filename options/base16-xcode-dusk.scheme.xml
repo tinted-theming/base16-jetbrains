@@ -1,0 +1,8 @@
+<!--    Base16 XCode Dusk
+        Author: Elsa Gonsiorowski (https://github.com/gonsie)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 XCode Dusk" />
+  </component>
+</application>

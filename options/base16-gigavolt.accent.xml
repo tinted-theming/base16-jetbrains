@@ -1,0 +1,12 @@
+<!--    Base16 Gigavolt
+        Author: Aidan Swope (http://github.com/Whillikers)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="40bfff" />
+    <option name="accentColor" value="40bfff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

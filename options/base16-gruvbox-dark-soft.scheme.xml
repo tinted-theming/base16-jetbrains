@@ -1,0 +1,8 @@
+<!--    Base16 Gruvbox dark, soft
+        Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Gruvbox dark, soft" />
+  </component>
+</application>

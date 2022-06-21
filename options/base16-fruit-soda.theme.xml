@@ -1,0 +1,21 @@
+<!--    Base16 Fruit Soda
+        Author: jozip   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f1ecf1" />
+    <option name="treeSelectionColor" value="2931df" />
+    <option name="highlightColor" value="d8d5d5" />
+    <option name="secondBorderColor" value="f1ecf1" />
+    <option name="tableSelectedColor" value="2931df" />
+    <option name="contrastColor" value="e0dee0" />
+    <option name="disabledColor" value="979598" />
+    <option name="secondaryBackgroundColor" value="e0dee0" />
+    <option name="buttonColor" value="f1ecf1" />
+    <option name="selectionForegroundColor" value="474545" />
+    <option name="selectionBackgroundColor" value="2931df" />
+    <option name="textColor" value="474545" />
+    <option name="foregroundColor" value="515151" />
+    <option name="backgroundColor" value="f1ecf1" />
+  </component>
+</application> 

@@ -1,0 +1,12 @@
+<!--    Base16 PhD
+        Author: Hennig Hasemann (http://leetless.de/vim.html)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="5299bf" />
+    <option name="accentColor" value="5299bf" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

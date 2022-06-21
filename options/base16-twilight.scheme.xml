@@ -1,0 +1,8 @@
+<!--    Base16 Twilight
+        Author: David Hart (https://github.com/hartbit)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Twilight" />
+  </component>
+</application>

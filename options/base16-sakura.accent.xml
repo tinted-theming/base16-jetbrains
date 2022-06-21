@@ -1,0 +1,12 @@
+<!--    Base16 Sakura
+        Author: Misterio77 (http://github.com/Misterio77)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="006e93" />
+    <option name="accentColor" value="006e93" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

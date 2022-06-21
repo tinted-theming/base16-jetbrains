@@ -1,0 +1,12 @@
+<!--    Base16 Tokyodark
+        Author: Tiagovla (https://github.com/tiagovla/)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="95c561" />
+    <option name="accentColor" value="95c561" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

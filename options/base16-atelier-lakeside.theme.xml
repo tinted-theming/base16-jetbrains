@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Lakeside
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="161b1d" />
+    <option name="treeSelectionColor" value="257fad" />
+    <option name="highlightColor" value="516d7b" />
+    <option name="secondBorderColor" value="161b1d" />
+    <option name="tableSelectedColor" value="257fad" />
+    <option name="contrastColor" value="1f292e" />
+    <option name="disabledColor" value="7195a8" />
+    <option name="secondaryBackgroundColor" value="1f292e" />
+    <option name="buttonColor" value="161b1d" />
+    <option name="selectionForegroundColor" value="c1e4f6" />
+    <option name="selectionBackgroundColor" value="257fad" />
+    <option name="textColor" value="c1e4f6" />
+    <option name="foregroundColor" value="7ea2b4" />
+    <option name="backgroundColor" value="161b1d" />
+  </component>
+</application> 

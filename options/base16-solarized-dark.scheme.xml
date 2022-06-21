@@ -1,0 +1,8 @@
+<!--    Base16 Solarized Dark
+        Author: Ethan Schoonover (modified by aramisgithub)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Solarized Dark" />
+  </component>
+</application>

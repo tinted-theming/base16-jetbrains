@@ -1,0 +1,12 @@
+<!--    Base16 Spacemacs
+        Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="4f97d7" />
+    <option name="accentColor" value="4f97d7" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

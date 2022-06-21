@@ -1,0 +1,21 @@
+<!--    Base16 Material Darker
+        Author: Nate Peterson   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="212121" />
+    <option name="treeSelectionColor" value="82aaff" />
+    <option name="highlightColor" value="353535" />
+    <option name="secondBorderColor" value="212121" />
+    <option name="tableSelectedColor" value="82aaff" />
+    <option name="contrastColor" value="303030" />
+    <option name="disabledColor" value="b2ccd6" />
+    <option name="secondaryBackgroundColor" value="303030" />
+    <option name="buttonColor" value="212121" />
+    <option name="selectionForegroundColor" value="eeffff" />
+    <option name="selectionBackgroundColor" value="82aaff" />
+    <option name="textColor" value="eeffff" />
+    <option name="foregroundColor" value="eeffff" />
+    <option name="backgroundColor" value="212121" />
+  </component>
+</application> 

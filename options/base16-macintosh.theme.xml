@@ -1,0 +1,21 @@
+<!--    Base16 Macintosh
+        Author: Rebecca Bettencourt (http://www.kreativekorp.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="0000d3" />
+    <option name="highlightColor" value="404040" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="0000d3" />
+    <option name="contrastColor" value="404040" />
+    <option name="disabledColor" value="808080" />
+    <option name="secondaryBackgroundColor" value="404040" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="c0c0c0" />
+    <option name="selectionBackgroundColor" value="0000d3" />
+    <option name="textColor" value="c0c0c0" />
+    <option name="foregroundColor" value="c0c0c0" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

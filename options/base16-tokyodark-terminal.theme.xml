@@ -1,0 +1,21 @@
+<!--    Base16 Tokyodark Terminal
+        Author: Tiagovla (https://github.com/tiagovla/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="11121d" />
+    <option name="treeSelectionColor" value="7199ee" />
+    <option name="highlightColor" value="212234" />
+    <option name="secondBorderColor" value="11121d" />
+    <option name="tableSelectedColor" value="7199ee" />
+    <option name="contrastColor" value="1a1b2a" />
+    <option name="disabledColor" value="4a5057" />
+    <option name="secondaryBackgroundColor" value="1a1b2a" />
+    <option name="buttonColor" value="11121d" />
+    <option name="selectionForegroundColor" value="a0a8cd" />
+    <option name="selectionBackgroundColor" value="7199ee" />
+    <option name="textColor" value="a0a8cd" />
+    <option name="foregroundColor" value="a0a8cd" />
+    <option name="backgroundColor" value="11121d" />
+  </component>
+</application> 

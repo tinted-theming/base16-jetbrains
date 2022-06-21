@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Cave
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="19171c" />
+    <option name="treeSelectionColor" value="576ddb" />
+    <option name="highlightColor" value="585260" />
+    <option name="secondBorderColor" value="19171c" />
+    <option name="tableSelectedColor" value="576ddb" />
+    <option name="contrastColor" value="26232a" />
+    <option name="disabledColor" value="7e7887" />
+    <option name="secondaryBackgroundColor" value="26232a" />
+    <option name="buttonColor" value="19171c" />
+    <option name="selectionForegroundColor" value="e2dfe7" />
+    <option name="selectionBackgroundColor" value="576ddb" />
+    <option name="textColor" value="e2dfe7" />
+    <option name="foregroundColor" value="8b8792" />
+    <option name="backgroundColor" value="19171c" />
+  </component>
+</application> 

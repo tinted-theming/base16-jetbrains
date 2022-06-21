@@ -1,0 +1,21 @@
+<!--    Base16 Heetch Dark
+        Author: Geoffrey Teale (tealeg@gmail.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="190134" />
+    <option name="treeSelectionColor" value="bd0152" />
+    <option name="highlightColor" value="5a496e" />
+    <option name="secondBorderColor" value="190134" />
+    <option name="tableSelectedColor" value="bd0152" />
+    <option name="contrastColor" value="392551" />
+    <option name="disabledColor" value="9c92a8" />
+    <option name="secondaryBackgroundColor" value="392551" />
+    <option name="buttonColor" value="190134" />
+    <option name="selectionForegroundColor" value="dedae2" />
+    <option name="selectionBackgroundColor" value="bd0152" />
+    <option name="textColor" value="dedae2" />
+    <option name="foregroundColor" value="bdb6c5" />
+    <option name="backgroundColor" value="190134" />
+  </component>
+</application> 

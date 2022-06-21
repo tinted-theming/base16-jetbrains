@@ -1,0 +1,21 @@
+<!--    Base16 Tokyo Night Terminal Dark
+        Author: Michaël Ball   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="16161e" />
+    <option name="treeSelectionColor" value="7aa2f7" />
+    <option name="highlightColor" value="2f3549" />
+    <option name="secondBorderColor" value="16161e" />
+    <option name="tableSelectedColor" value="7aa2f7" />
+    <option name="contrastColor" value="1a1b26" />
+    <option name="disabledColor" value="787c99" />
+    <option name="secondaryBackgroundColor" value="1a1b26" />
+    <option name="buttonColor" value="16161e" />
+    <option name="selectionForegroundColor" value="cbccd1" />
+    <option name="selectionBackgroundColor" value="7aa2f7" />
+    <option name="textColor" value="cbccd1" />
+    <option name="foregroundColor" value="787c99" />
+    <option name="backgroundColor" value="16161e" />
+  </component>
+</application> 

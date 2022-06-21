@@ -1,0 +1,21 @@
+<!--    Base16 Blue Forest
+        Author: alonsodomin (https://github.com/alonsodomin)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="141f2e" />
+    <option name="treeSelectionColor" value="a2cff5" />
+    <option name="highlightColor" value="273e5c" />
+    <option name="secondBorderColor" value="141f2e" />
+    <option name="tableSelectedColor" value="a2cff5" />
+    <option name="contrastColor" value="1e5c1e" />
+    <option name="disabledColor" value="1e5c1e" />
+    <option name="secondaryBackgroundColor" value="1e5c1e" />
+    <option name="buttonColor" value="141f2e" />
+    <option name="selectionForegroundColor" value="91ccff" />
+    <option name="selectionBackgroundColor" value="a2cff5" />
+    <option name="textColor" value="91ccff" />
+    <option name="foregroundColor" value="ffcc33" />
+    <option name="backgroundColor" value="141f2e" />
+  </component>
+</application> 

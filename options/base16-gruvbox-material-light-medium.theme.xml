@@ -1,0 +1,21 @@
+<!--    Base16 Gruvbox Material Light, Medium
+        Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fbf1c7" />
+    <option name="treeSelectionColor" value="45707a" />
+    <option name="highlightColor" value="d5c4a1" />
+    <option name="secondBorderColor" value="fbf1c7" />
+    <option name="tableSelectedColor" value="45707a" />
+    <option name="contrastColor" value="f2e5bc" />
+    <option name="disabledColor" value="665c54" />
+    <option name="secondaryBackgroundColor" value="f2e5bc" />
+    <option name="buttonColor" value="fbf1c7" />
+    <option name="selectionForegroundColor" value="3c3836" />
+    <option name="selectionBackgroundColor" value="45707a" />
+    <option name="textColor" value="3c3836" />
+    <option name="foregroundColor" value="654735" />
+    <option name="backgroundColor" value="fbf1c7" />
+  </component>
+</application> 

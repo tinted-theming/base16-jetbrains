@@ -1,0 +1,8 @@
+<!--    Base16 Marrakesh
+        Author: Alexandre Gavioli (http://github.com/Alexx2/)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Marrakesh" />
+  </component>
+</application>

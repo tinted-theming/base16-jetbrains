@@ -1,0 +1,21 @@
+<!--    Base16 Icy Dark
+        Author: icyphox (https://icyphox.ga)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="021012" />
+    <option name="treeSelectionColor" value="00bcd4" />
+    <option name="highlightColor" value="041f23" />
+    <option name="secondBorderColor" value="021012" />
+    <option name="tableSelectedColor" value="00bcd4" />
+    <option name="contrastColor" value="031619" />
+    <option name="disabledColor" value="064048" />
+    <option name="secondaryBackgroundColor" value="031619" />
+    <option name="buttonColor" value="021012" />
+    <option name="selectionForegroundColor" value="0c7c8c" />
+    <option name="selectionBackgroundColor" value="00bcd4" />
+    <option name="textColor" value="0c7c8c" />
+    <option name="foregroundColor" value="095b67" />
+    <option name="backgroundColor" value="021012" />
+  </component>
+</application> 

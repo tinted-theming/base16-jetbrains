@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Forest Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f1efee" />
+    <option name="treeSelectionColor" value="407ee7" />
+    <option name="highlightColor" value="a8a19f" />
+    <option name="secondBorderColor" value="f1efee" />
+    <option name="tableSelectedColor" value="407ee7" />
+    <option name="contrastColor" value="e6e2e0" />
+    <option name="disabledColor" value="766e6b" />
+    <option name="secondaryBackgroundColor" value="e6e2e0" />
+    <option name="buttonColor" value="f1efee" />
+    <option name="selectionForegroundColor" value="2c2421" />
+    <option name="selectionBackgroundColor" value="407ee7" />
+    <option name="textColor" value="2c2421" />
+    <option name="foregroundColor" value="68615e" />
+    <option name="backgroundColor" value="f1efee" />
+  </component>
+</application> 

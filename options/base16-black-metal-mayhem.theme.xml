@@ -1,0 +1,21 @@
+<!--    Base16 Black Metal (Mayhem)
+        Author: metalelf0 (https://github.com/metalelf0)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="888888" />
+    <option name="highlightColor" value="222222" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="888888" />
+    <option name="contrastColor" value="121212" />
+    <option name="disabledColor" value="999999" />
+    <option name="secondaryBackgroundColor" value="121212" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="999999" />
+    <option name="selectionBackgroundColor" value="888888" />
+    <option name="textColor" value="999999" />
+    <option name="foregroundColor" value="c1c1c1" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

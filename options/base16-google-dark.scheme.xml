@@ -1,0 +1,8 @@
+<!--    Base16 Google Dark
+        Author: Seth Wright (http://sethawright.com)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Google Dark" />
+  </component>
+</application>

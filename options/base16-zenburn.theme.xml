@@ -1,0 +1,21 @@
+<!--    Base16 Zenburn
+        Author: elnawe   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="383838" />
+    <option name="treeSelectionColor" value="7cb8bb" />
+    <option name="highlightColor" value="606060" />
+    <option name="secondBorderColor" value="383838" />
+    <option name="tableSelectedColor" value="7cb8bb" />
+    <option name="contrastColor" value="404040" />
+    <option name="disabledColor" value="808080" />
+    <option name="secondaryBackgroundColor" value="404040" />
+    <option name="buttonColor" value="383838" />
+    <option name="selectionForegroundColor" value="c0c0c0" />
+    <option name="selectionBackgroundColor" value="7cb8bb" />
+    <option name="textColor" value="c0c0c0" />
+    <option name="foregroundColor" value="dcdccc" />
+    <option name="backgroundColor" value="383838" />
+  </component>
+</application> 

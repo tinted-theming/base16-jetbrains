@@ -1,0 +1,12 @@
+<!--    Base16 Shades of Purple
+        Author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6943ff" />
+    <option name="accentColor" value="6943ff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

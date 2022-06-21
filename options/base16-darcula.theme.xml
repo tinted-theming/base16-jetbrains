@@ -1,0 +1,21 @@
+<!--    Base16 Darcula
+        Author: jetbrains   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2b2b2b" />
+    <option name="treeSelectionColor" value="9876aa" />
+    <option name="highlightColor" value="323232" />
+    <option name="secondBorderColor" value="2b2b2b" />
+    <option name="tableSelectedColor" value="9876aa" />
+    <option name="contrastColor" value="323232" />
+    <option name="disabledColor" value="a4a3a3" />
+    <option name="secondaryBackgroundColor" value="323232" />
+    <option name="buttonColor" value="2b2b2b" />
+    <option name="selectionForegroundColor" value="ffc66d" />
+    <option name="selectionBackgroundColor" value="9876aa" />
+    <option name="textColor" value="ffc66d" />
+    <option name="foregroundColor" value="a9b7c6" />
+    <option name="backgroundColor" value="2b2b2b" />
+  </component>
+</application> 

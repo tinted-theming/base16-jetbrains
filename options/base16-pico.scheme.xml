@@ -1,0 +1,8 @@
+<!--    Base16 Pico
+        Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Pico" />
+  </component>
+</application>

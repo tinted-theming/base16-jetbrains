@@ -1,0 +1,8 @@
+<!--    Base16 Decaf
+        Author: Alex Mirrington (https://github.com/alexmirrington)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Decaf" />
+  </component>
+</application>

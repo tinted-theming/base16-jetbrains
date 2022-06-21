@@ -1,0 +1,8 @@
+<!--    Base16 tender
+        Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 tender" />
+  </component>
+</application>

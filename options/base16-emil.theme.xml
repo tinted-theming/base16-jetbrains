@@ -1,0 +1,21 @@
+<!--    Base16 emil
+        Author: limelier   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="efefef" />
+    <option name="treeSelectionColor" value="471397" />
+    <option name="highlightColor" value="9e9eaf" />
+    <option name="secondBorderColor" value="efefef" />
+    <option name="tableSelectedColor" value="471397" />
+    <option name="contrastColor" value="bebed2" />
+    <option name="disabledColor" value="505063" />
+    <option name="secondaryBackgroundColor" value="bebed2" />
+    <option name="buttonColor" value="efefef" />
+    <option name="selectionForegroundColor" value="22223a" />
+    <option name="selectionBackgroundColor" value="471397" />
+    <option name="textColor" value="22223a" />
+    <option name="foregroundColor" value="313145" />
+    <option name="backgroundColor" value="efefef" />
+  </component>
+</application> 

@@ -1,0 +1,8 @@
+<!--    Base16 Tokyodark
+        Author: Tiagovla (https://github.com/tiagovla/)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Tokyodark" />
+  </component>
+</application>

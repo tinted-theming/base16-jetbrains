@@ -1,0 +1,21 @@
+<!--    Base16 Da One Paper
+        Author: NNB (https://github.com/NNBnh)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="faf0dc" />
+    <option name="treeSelectionColor" value="5890f8" />
+    <option name="highlightColor" value="888888" />
+    <option name="secondBorderColor" value="faf0dc" />
+    <option name="tableSelectedColor" value="5890f8" />
+    <option name="contrastColor" value="c8c8c8" />
+    <option name="disabledColor" value="282828" />
+    <option name="secondaryBackgroundColor" value="c8c8c8" />
+    <option name="buttonColor" value="faf0dc" />
+    <option name="selectionForegroundColor" value="000000" />
+    <option name="selectionBackgroundColor" value="5890f8" />
+    <option name="textColor" value="000000" />
+    <option name="foregroundColor" value="181818" />
+    <option name="backgroundColor" value="faf0dc" />
+  </component>
+</application> 

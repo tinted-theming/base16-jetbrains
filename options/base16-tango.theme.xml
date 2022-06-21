@@ -1,0 +1,21 @@
+<!--    Base16 Tango
+        Author: @Schnouki, based on the Tango Desktop Project   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2e3436" />
+    <option name="treeSelectionColor" value="3465a4" />
+    <option name="highlightColor" value="fce94f" />
+    <option name="secondBorderColor" value="2e3436" />
+    <option name="tableSelectedColor" value="3465a4" />
+    <option name="contrastColor" value="8ae234" />
+    <option name="disabledColor" value="729fcf" />
+    <option name="secondaryBackgroundColor" value="8ae234" />
+    <option name="buttonColor" value="2e3436" />
+    <option name="selectionForegroundColor" value="ad7fa8" />
+    <option name="selectionBackgroundColor" value="3465a4" />
+    <option name="textColor" value="ad7fa8" />
+    <option name="foregroundColor" value="d3d7cf" />
+    <option name="backgroundColor" value="2e3436" />
+  </component>
+</application> 

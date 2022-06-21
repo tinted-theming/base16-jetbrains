@@ -1,0 +1,21 @@
+<!--    Base16 lime
+        Author: limelier   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1a1a2f" />
+    <option name="treeSelectionColor" value="2b926f" />
+    <option name="highlightColor" value="2a2a3f" />
+    <option name="secondBorderColor" value="1a1a2f" />
+    <option name="tableSelectedColor" value="2b926f" />
+    <option name="contrastColor" value="202030" />
+    <option name="disabledColor" value="515155" />
+    <option name="secondaryBackgroundColor" value="202030" />
+    <option name="buttonColor" value="1a1a2f" />
+    <option name="selectionForegroundColor" value="fff2d1" />
+    <option name="selectionBackgroundColor" value="2b926f" />
+    <option name="textColor" value="fff2d1" />
+    <option name="foregroundColor" value="818175" />
+    <option name="backgroundColor" value="1a1a2f" />
+  </component>
+</application> 

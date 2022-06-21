@@ -1,0 +1,21 @@
+<!--    Base16 Nebula
+        Author: Gabriel Fontes (https://github.com/Misterio77)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="22273b" />
+    <option name="treeSelectionColor" value="4d6bb6" />
+    <option name="highlightColor" value="5a8380" />
+    <option name="secondBorderColor" value="22273b" />
+    <option name="tableSelectedColor" value="4d6bb6" />
+    <option name="contrastColor" value="414f60" />
+    <option name="disabledColor" value="87888b" />
+    <option name="secondaryBackgroundColor" value="414f60" />
+    <option name="buttonColor" value="22273b" />
+    <option name="selectionForegroundColor" value="c7c9cd" />
+    <option name="selectionBackgroundColor" value="4d6bb6" />
+    <option name="textColor" value="c7c9cd" />
+    <option name="foregroundColor" value="a4a6a9" />
+    <option name="backgroundColor" value="22273b" />
+  </component>
+</application> 

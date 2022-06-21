@@ -1,0 +1,12 @@
+<!--    Base16 Porple
+        Author: Niek den Breeje (https://github.com/AuditeMarlow)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="8485ce" />
+    <option name="accentColor" value="8485ce" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

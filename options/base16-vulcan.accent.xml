@@ -1,0 +1,12 @@
+<!--    Base16 vulcan
+        Author: Andrey Varfolomeev   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="977d7c" />
+    <option name="accentColor" value="977d7c" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<!--    Base16 Edge Dark
+        Author: cjayross (https://github.com/cjayross)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="73b3e7" />
+    <option name="accentColor" value="73b3e7" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

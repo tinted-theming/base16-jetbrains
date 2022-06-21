@@ -1,0 +1,21 @@
+<!--    Base16 Windows High Contrast Light
+        Author: Fergus Collins (https://github.com/C-Fergus)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fcfcfc" />
+    <option name="treeSelectionColor" value="000080" />
+    <option name="highlightColor" value="d4d4d4" />
+    <option name="secondBorderColor" value="fcfcfc" />
+    <option name="tableSelectedColor" value="000080" />
+    <option name="contrastColor" value="e8e8e8" />
+    <option name="disabledColor" value="7e7e7e" />
+    <option name="secondaryBackgroundColor" value="e8e8e8" />
+    <option name="buttonColor" value="fcfcfc" />
+    <option name="selectionForegroundColor" value="2a2a2a" />
+    <option name="selectionBackgroundColor" value="000080" />
+    <option name="textColor" value="2a2a2a" />
+    <option name="foregroundColor" value="545454" />
+    <option name="backgroundColor" value="fcfcfc" />
+  </component>
+</application> 

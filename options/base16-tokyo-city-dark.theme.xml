@@ -1,0 +1,21 @@
+<!--    Base16 Tokyo City Dark
+        Author: Michaël Ball   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="171d23" />
+    <option name="treeSelectionColor" value="7aa2f7" />
+    <option name="highlightColor" value="28323a" />
+    <option name="secondBorderColor" value="171d23" />
+    <option name="tableSelectedColor" value="7aa2f7" />
+    <option name="contrastColor" value="1d252c" />
+    <option name="disabledColor" value="b7c5d3" />
+    <option name="secondaryBackgroundColor" value="1d252c" />
+    <option name="buttonColor" value="171d23" />
+    <option name="selectionForegroundColor" value="f6f6f8" />
+    <option name="selectionBackgroundColor" value="7aa2f7" />
+    <option name="textColor" value="f6f6f8" />
+    <option name="foregroundColor" value="d8e2ec" />
+    <option name="backgroundColor" value="171d23" />
+  </component>
+</application> 

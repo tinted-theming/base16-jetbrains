@@ -1,0 +1,21 @@
+<!--    Base16 Helios
+        Author: Alex Meyer (https://github.com/reyemxela)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1d2021" />
+    <option name="treeSelectionColor" value="1e8bac" />
+    <option name="highlightColor" value="53585b" />
+    <option name="secondBorderColor" value="1d2021" />
+    <option name="tableSelectedColor" value="1e8bac" />
+    <option name="contrastColor" value="383c3e" />
+    <option name="disabledColor" value="cdcdcd" />
+    <option name="secondaryBackgroundColor" value="383c3e" />
+    <option name="buttonColor" value="1d2021" />
+    <option name="selectionForegroundColor" value="dddddd" />
+    <option name="selectionBackgroundColor" value="1e8bac" />
+    <option name="textColor" value="dddddd" />
+    <option name="foregroundColor" value="d5d5d5" />
+    <option name="backgroundColor" value="1d2021" />
+  </component>
+</application> 

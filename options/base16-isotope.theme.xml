@@ -1,0 +1,21 @@
+<!--    Base16 Isotope
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="0066ff" />
+    <option name="highlightColor" value="606060" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="0066ff" />
+    <option name="contrastColor" value="404040" />
+    <option name="disabledColor" value="c0c0c0" />
+    <option name="secondaryBackgroundColor" value="404040" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="0066ff" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="d0d0d0" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

@@ -1,0 +1,12 @@
+<!--    Base16 Black Metal (Mayhem)
+        Author: metalelf0 (https://github.com/metalelf0)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="888888" />
+    <option name="accentColor" value="888888" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 summercamp
+        Author: zoe firi (zoefiri.github.io)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1c1810" />
+    <option name="treeSelectionColor" value="489bf0" />
+    <option name="highlightColor" value="3a3527" />
+    <option name="secondBorderColor" value="1c1810" />
+    <option name="tableSelectedColor" value="489bf0" />
+    <option name="contrastColor" value="2a261c" />
+    <option name="disabledColor" value="5f5b45" />
+    <option name="secondaryBackgroundColor" value="2a261c" />
+    <option name="buttonColor" value="1c1810" />
+    <option name="selectionForegroundColor" value="bab696" />
+    <option name="selectionBackgroundColor" value="489bf0" />
+    <option name="textColor" value="bab696" />
+    <option name="foregroundColor" value="736e55" />
+    <option name="backgroundColor" value="1c1810" />
+  </component>
+</application> 

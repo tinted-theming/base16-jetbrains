@@ -1,0 +1,21 @@
+<!--    Base16 Material Vivid
+        Author: joshyrobot   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="202124" />
+    <option name="treeSelectionColor" value="2196f3" />
+    <option name="highlightColor" value="323639" />
+    <option name="secondBorderColor" value="202124" />
+    <option name="tableSelectedColor" value="2196f3" />
+    <option name="contrastColor" value="27292c" />
+    <option name="disabledColor" value="676c71" />
+    <option name="secondaryBackgroundColor" value="27292c" />
+    <option name="buttonColor" value="202124" />
+    <option name="selectionForegroundColor" value="9e9e9e" />
+    <option name="selectionBackgroundColor" value="2196f3" />
+    <option name="textColor" value="9e9e9e" />
+    <option name="foregroundColor" value="80868b" />
+    <option name="backgroundColor" value="202124" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Humanoid light
+        Author: Thomas (tasmo) Friese   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f8f8f2" />
+    <option name="treeSelectionColor" value="0082c9" />
+    <option name="highlightColor" value="deded8" />
+    <option name="secondBorderColor" value="f8f8f2" />
+    <option name="tableSelectedColor" value="0082c9" />
+    <option name="contrastColor" value="efefe9" />
+    <option name="disabledColor" value="60615d" />
+    <option name="secondaryBackgroundColor" value="efefe9" />
+    <option name="buttonColor" value="f8f8f2" />
+    <option name="selectionForegroundColor" value="2f3337" />
+    <option name="selectionBackgroundColor" value="0082c9" />
+    <option name="textColor" value="2f3337" />
+    <option name="foregroundColor" value="232629" />
+    <option name="backgroundColor" value="f8f8f2" />
+  </component>
+</application> 

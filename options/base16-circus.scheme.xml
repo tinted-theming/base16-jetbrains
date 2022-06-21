@@ -1,0 +1,8 @@
+<!--    Base16 Circus
+        Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Circus" />
+  </component>
+</application>

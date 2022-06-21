@@ -1,0 +1,21 @@
+<!--    Base16 Rosé Pine Dawn
+        Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="faf4ed" />
+    <option name="treeSelectionColor" value="56949f" />
+    <option name="highlightColor" value="f2e9de" />
+    <option name="secondBorderColor" value="faf4ed" />
+    <option name="tableSelectedColor" value="56949f" />
+    <option name="contrastColor" value="fffaf3" />
+    <option name="disabledColor" value="6e6a86" />
+    <option name="secondaryBackgroundColor" value="fffaf3" />
+    <option name="buttonColor" value="faf4ed" />
+    <option name="selectionForegroundColor" value="555169" />
+    <option name="selectionBackgroundColor" value="56949f" />
+    <option name="textColor" value="555169" />
+    <option name="foregroundColor" value="575279" />
+    <option name="backgroundColor" value="faf4ed" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 IR Black
+        Author: Timothée Poisot (http://timotheepoisot.fr)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="96cbfe" />
+    <option name="highlightColor" value="484844" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="96cbfe" />
+    <option name="contrastColor" value="242422" />
+    <option name="disabledColor" value="918f88" />
+    <option name="secondaryBackgroundColor" value="242422" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="d9d7cc" />
+    <option name="selectionBackgroundColor" value="96cbfe" />
+    <option name="textColor" value="d9d7cc" />
+    <option name="foregroundColor" value="b5b3aa" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

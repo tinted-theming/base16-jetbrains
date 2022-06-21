@@ -1,0 +1,21 @@
+<!--    Base16 Chalk
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="151515" />
+    <option name="treeSelectionColor" value="6fc2ef" />
+    <option name="highlightColor" value="303030" />
+    <option name="secondBorderColor" value="151515" />
+    <option name="tableSelectedColor" value="6fc2ef" />
+    <option name="contrastColor" value="202020" />
+    <option name="disabledColor" value="b0b0b0" />
+    <option name="secondaryBackgroundColor" value="202020" />
+    <option name="buttonColor" value="151515" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="6fc2ef" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="d0d0d0" />
+    <option name="backgroundColor" value="151515" />
+  </component>
+</application> 
