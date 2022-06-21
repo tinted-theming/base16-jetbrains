@@ -1,0 +1,21 @@
+<!--    Base16 dirtysea
+        Author: Kahlil (Kal) Hodgson   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="e0e0e0" />
+    <option name="treeSelectionColor" value="007300" />
+    <option name="highlightColor" value="d0d0d0" />
+    <option name="secondBorderColor" value="e0e0e0" />
+    <option name="tableSelectedColor" value="007300" />
+    <option name="contrastColor" value="d0dad0" />
+    <option name="disabledColor" value="202020" />
+    <option name="secondaryBackgroundColor" value="d0dad0" />
+    <option name="buttonColor" value="e0e0e0" />
+    <option name="selectionForegroundColor" value="f8f8f8" />
+    <option name="selectionBackgroundColor" value="007300" />
+    <option name="textColor" value="f8f8f8" />
+    <option name="foregroundColor" value="000000" />
+    <option name="backgroundColor" value="e0e0e0" />
+  </component>
+</application> 

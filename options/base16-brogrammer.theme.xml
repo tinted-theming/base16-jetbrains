@@ -1,0 +1,21 @@
+<!--    Base16 Brogrammer
+        Author: Vik Ramanujam (http://github.com/piggyslasher)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1f1f1f" />
+    <option name="treeSelectionColor" value="5350b9" />
+    <option name="highlightColor" value="2dc55e" />
+    <option name="secondBorderColor" value="1f1f1f" />
+    <option name="tableSelectedColor" value="5350b9" />
+    <option name="contrastColor" value="f81118" />
+    <option name="disabledColor" value="2a84d2" />
+    <option name="secondaryBackgroundColor" value="f81118" />
+    <option name="buttonColor" value="1f1f1f" />
+    <option name="selectionForegroundColor" value="1081d6" />
+    <option name="selectionBackgroundColor" value="5350b9" />
+    <option name="textColor" value="1081d6" />
+    <option name="foregroundColor" value="4e5ab7" />
+    <option name="backgroundColor" value="1f1f1f" />
+  </component>
+</application> 

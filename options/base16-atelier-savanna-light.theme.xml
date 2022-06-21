@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Savanna Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="ecf4ee" />
+    <option name="treeSelectionColor" value="478c90" />
+    <option name="highlightColor" value="87928a" />
+    <option name="secondBorderColor" value="ecf4ee" />
+    <option name="tableSelectedColor" value="478c90" />
+    <option name="contrastColor" value="dfe7e2" />
+    <option name="disabledColor" value="5f6d64" />
+    <option name="secondaryBackgroundColor" value="dfe7e2" />
+    <option name="buttonColor" value="ecf4ee" />
+    <option name="selectionForegroundColor" value="232a25" />
+    <option name="selectionBackgroundColor" value="478c90" />
+    <option name="textColor" value="232a25" />
+    <option name="foregroundColor" value="526057" />
+    <option name="backgroundColor" value="ecf4ee" />
+  </component>
+</application> 

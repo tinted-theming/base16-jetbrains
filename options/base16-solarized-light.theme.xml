@@ -1,0 +1,21 @@
+<!--    Base16 Solarized Light
+        Author: Ethan Schoonover (modified by aramisgithub)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fdf6e3" />
+    <option name="treeSelectionColor" value="268bd2" />
+    <option name="highlightColor" value="93a1a1" />
+    <option name="secondBorderColor" value="fdf6e3" />
+    <option name="tableSelectedColor" value="268bd2" />
+    <option name="contrastColor" value="eee8d5" />
+    <option name="disabledColor" value="657b83" />
+    <option name="secondaryBackgroundColor" value="eee8d5" />
+    <option name="buttonColor" value="fdf6e3" />
+    <option name="selectionForegroundColor" value="073642" />
+    <option name="selectionBackgroundColor" value="268bd2" />
+    <option name="textColor" value="073642" />
+    <option name="foregroundColor" value="586e75" />
+    <option name="backgroundColor" value="fdf6e3" />
+  </component>
+</application> 

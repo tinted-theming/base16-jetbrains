@@ -1,0 +1,8 @@
+<!--    Base16 Brewer
+        Author: Timothée Poisot (http://github.com/tpoisot)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Brewer" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<!--    Base16 Still Alive
+        Author: Derrick McKee (derrick.mckee@gmail.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f0f0f0" />
+    <option name="treeSelectionColor" value="001878" />
+    <option name="highlightColor" value="fff018" />
+    <option name="secondBorderColor" value="f0f0f0" />
+    <option name="tableSelectedColor" value="001878" />
+    <option name="contrastColor" value="f0d848" />
+    <option name="disabledColor" value="f00000" />
+    <option name="secondaryBackgroundColor" value="f0d848" />
+    <option name="buttonColor" value="f0f0f0" />
+    <option name="selectionForegroundColor" value="489000" />
+    <option name="selectionBackgroundColor" value="001878" />
+    <option name="textColor" value="489000" />
+    <option name="foregroundColor" value="d80000" />
+    <option name="backgroundColor" value="f0f0f0" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Gigavolt
+        Author: Aidan Swope (http://github.com/Whillikers)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="202126" />
+    <option name="treeSelectionColor" value="40bfff" />
+    <option name="highlightColor" value="5a576e" />
+    <option name="secondBorderColor" value="202126" />
+    <option name="tableSelectedColor" value="40bfff" />
+    <option name="contrastColor" value="2d303d" />
+    <option name="disabledColor" value="cad3ff" />
+    <option name="secondaryBackgroundColor" value="2d303d" />
+    <option name="buttonColor" value="202126" />
+    <option name="selectionForegroundColor" value="eff0f9" />
+    <option name="selectionBackgroundColor" value="40bfff" />
+    <option name="textColor" value="eff0f9" />
+    <option name="foregroundColor" value="e9e7e1" />
+    <option name="backgroundColor" value="202126" />
+  </component>
+</application> 

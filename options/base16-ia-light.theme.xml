@@ -1,0 +1,21 @@
+<!--    Base16 iA Light
+        Author: iA Inc. (modified by aramisgithub)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f6f6f6" />
+    <option name="treeSelectionColor" value="48bac2" />
+    <option name="highlightColor" value="bde5f2" />
+    <option name="secondBorderColor" value="f6f6f6" />
+    <option name="tableSelectedColor" value="48bac2" />
+    <option name="contrastColor" value="dedede" />
+    <option name="disabledColor" value="767676" />
+    <option name="secondaryBackgroundColor" value="dedede" />
+    <option name="buttonColor" value="f6f6f6" />
+    <option name="selectionForegroundColor" value="e8e8e8" />
+    <option name="selectionBackgroundColor" value="48bac2" />
+    <option name="textColor" value="e8e8e8" />
+    <option name="foregroundColor" value="181818" />
+    <option name="backgroundColor" value="f6f6f6" />
+  </component>
+</application> 

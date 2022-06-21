@@ -1,0 +1,21 @@
+<!--    Base16 Brush Trees
+        Author: Abraham White &lt;abelincoln.white@gmail.com&gt;   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="e3efef" />
+    <option name="treeSelectionColor" value="868cb3" />
+    <option name="highlightColor" value="b0c5c8" />
+    <option name="secondBorderColor" value="e3efef" />
+    <option name="tableSelectedColor" value="868cb3" />
+    <option name="contrastColor" value="c9dbdc" />
+    <option name="disabledColor" value="8299a1" />
+    <option name="secondaryBackgroundColor" value="c9dbdc" />
+    <option name="buttonColor" value="e3efef" />
+    <option name="selectionForegroundColor" value="5a6d7a" />
+    <option name="selectionBackgroundColor" value="868cb3" />
+    <option name="textColor" value="5a6d7a" />
+    <option name="foregroundColor" value="6d828e" />
+    <option name="backgroundColor" value="e3efef" />
+  </component>
+</application> 

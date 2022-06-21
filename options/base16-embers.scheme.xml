@@ -1,0 +1,8 @@
+<!--    Base16 Embers
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Embers" />
+  </component>
+</application>

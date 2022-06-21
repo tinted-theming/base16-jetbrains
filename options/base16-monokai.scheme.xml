@@ -1,0 +1,8 @@
+<!--    Base16 Monokai
+        Author: Wimer Hazenberg (http://www.monokai.nl)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Monokai" />
+  </component>
+</application>

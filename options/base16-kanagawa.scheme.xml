@@ -1,0 +1,8 @@
+<!--    Base16 Kanagawa
+        Author: Tommaso Laurenzi (https://github.com/rebelot)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Kanagawa" />
+  </component>
+</application>

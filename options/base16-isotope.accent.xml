@@ -1,0 +1,12 @@
+<!--    Base16 Isotope
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="0066ff" />
+    <option name="accentColor" value="0066ff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

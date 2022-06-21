@@ -1,0 +1,8 @@
+<!--    Base16 pandora
+        Author: Cassandra Fox   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 pandora" />
+  </component>
+</application>

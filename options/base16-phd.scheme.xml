@@ -1,0 +1,8 @@
+<!--    Base16 PhD
+        Author: Hennig Hasemann (http://leetless.de/vim.html)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 PhD" />
+  </component>
+</application>

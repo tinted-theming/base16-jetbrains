@@ -1,0 +1,21 @@
+<!--    Base16 Mexico Light
+        Author: Sheldon Johnson   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f8f8f8" />
+    <option name="treeSelectionColor" value="7cafc2" />
+    <option name="highlightColor" value="d8d8d8" />
+    <option name="secondBorderColor" value="f8f8f8" />
+    <option name="tableSelectedColor" value="7cafc2" />
+    <option name="contrastColor" value="e8e8e8" />
+    <option name="disabledColor" value="585858" />
+    <option name="secondaryBackgroundColor" value="e8e8e8" />
+    <option name="buttonColor" value="f8f8f8" />
+    <option name="selectionForegroundColor" value="282828" />
+    <option name="selectionBackgroundColor" value="7cafc2" />
+    <option name="textColor" value="282828" />
+    <option name="foregroundColor" value="383838" />
+    <option name="backgroundColor" value="f8f8f8" />
+  </component>
+</application> 

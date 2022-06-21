@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Plateau Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f4ecec" />
+    <option name="treeSelectionColor" value="7272ca" />
+    <option name="highlightColor" value="8a8585" />
+    <option name="secondBorderColor" value="f4ecec" />
+    <option name="tableSelectedColor" value="7272ca" />
+    <option name="contrastColor" value="e7dfdf" />
+    <option name="disabledColor" value="655d5d" />
+    <option name="secondaryBackgroundColor" value="e7dfdf" />
+    <option name="buttonColor" value="f4ecec" />
+    <option name="selectionForegroundColor" value="292424" />
+    <option name="selectionBackgroundColor" value="7272ca" />
+    <option name="textColor" value="292424" />
+    <option name="foregroundColor" value="585050" />
+    <option name="backgroundColor" value="f4ecec" />
+  </component>
+</application> 

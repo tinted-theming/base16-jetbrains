@@ -1,0 +1,21 @@
+<!--    Base16 Equilibrium Gray Light
+        Author: Carlo Abelli   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f1f1f1" />
+    <option name="treeSelectionColor" value="0073b5" />
+    <option name="highlightColor" value="d4d4d4" />
+    <option name="secondBorderColor" value="f1f1f1" />
+    <option name="tableSelectedColor" value="0073b5" />
+    <option name="contrastColor" value="e2e2e2" />
+    <option name="disabledColor" value="5e5e5e" />
+    <option name="secondaryBackgroundColor" value="e2e2e2" />
+    <option name="buttonColor" value="f1f1f1" />
+    <option name="selectionForegroundColor" value="303030" />
+    <option name="selectionBackgroundColor" value="0073b5" />
+    <option name="textColor" value="303030" />
+    <option name="foregroundColor" value="474747" />
+    <option name="backgroundColor" value="f1f1f1" />
+  </component>
+</application> 

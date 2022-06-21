@@ -1,0 +1,21 @@
+<!--    Base16 Sandcastle
+        Author: George Essig (https://github.com/gessig)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282c34" />
+    <option name="treeSelectionColor" value="83a598" />
+    <option name="highlightColor" value="3e4451" />
+    <option name="secondBorderColor" value="282c34" />
+    <option name="tableSelectedColor" value="83a598" />
+    <option name="contrastColor" value="2c323b" />
+    <option name="disabledColor" value="928374" />
+    <option name="secondaryBackgroundColor" value="2c323b" />
+    <option name="buttonColor" value="282c34" />
+    <option name="selectionForegroundColor" value="d5c4a1" />
+    <option name="selectionBackgroundColor" value="83a598" />
+    <option name="textColor" value="d5c4a1" />
+    <option name="foregroundColor" value="a89984" />
+    <option name="backgroundColor" value="282c34" />
+  </component>
+</application> 

@@ -1,0 +1,8 @@
+<!--    Base16 Shapeshifter
+        Author: Tyler Benziger (http://tybenz.com)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Shapeshifter" />
+  </component>
+</application>

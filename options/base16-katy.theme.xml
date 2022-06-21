@@ -1,0 +1,21 @@
+<!--    Base16 Katy
+        Author: George Essig (https://github.com/gessig)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="292d3e" />
+    <option name="treeSelectionColor" value="82aaff" />
+    <option name="highlightColor" value="5c598b" />
+    <option name="secondBorderColor" value="292d3e" />
+    <option name="tableSelectedColor" value="82aaff" />
+    <option name="contrastColor" value="444267" />
+    <option name="disabledColor" value="8796b0" />
+    <option name="secondaryBackgroundColor" value="444267" />
+    <option name="buttonColor" value="292d3e" />
+    <option name="selectionForegroundColor" value="959dcb" />
+    <option name="selectionBackgroundColor" value="82aaff" />
+    <option name="textColor" value="959dcb" />
+    <option name="foregroundColor" value="959dcb" />
+    <option name="backgroundColor" value="292d3e" />
+  </component>
+</application> 

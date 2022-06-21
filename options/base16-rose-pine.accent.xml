@@ -1,0 +1,12 @@
+<!--    Base16 Rosé Pine
+        Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="9ccfd8" />
+    <option name="accentColor" value="9ccfd8" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

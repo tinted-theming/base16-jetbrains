@@ -1,0 +1,21 @@
+<!--    Base16 PhD
+        Author: Hennig Hasemann (http://leetless.de/vim.html)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="061229" />
+    <option name="treeSelectionColor" value="5299bf" />
+    <option name="highlightColor" value="4d5666" />
+    <option name="secondBorderColor" value="061229" />
+    <option name="tableSelectedColor" value="5299bf" />
+    <option name="contrastColor" value="2a3448" />
+    <option name="disabledColor" value="9a99a3" />
+    <option name="secondaryBackgroundColor" value="2a3448" />
+    <option name="buttonColor" value="061229" />
+    <option name="selectionForegroundColor" value="dbdde0" />
+    <option name="selectionBackgroundColor" value="5299bf" />
+    <option name="textColor" value="dbdde0" />
+    <option name="foregroundColor" value="b8bbc2" />
+    <option name="backgroundColor" value="061229" />
+  </component>
+</application> 

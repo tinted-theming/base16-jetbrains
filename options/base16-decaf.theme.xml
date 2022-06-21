@@ -1,0 +1,21 @@
+<!--    Base16 Decaf
+        Author: Alex Mirrington (https://github.com/alexmirrington)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2d2d2d" />
+    <option name="treeSelectionColor" value="90bee1" />
+    <option name="highlightColor" value="515151" />
+    <option name="secondBorderColor" value="2d2d2d" />
+    <option name="tableSelectedColor" value="90bee1" />
+    <option name="contrastColor" value="393939" />
+    <option name="disabledColor" value="b4b7b4" />
+    <option name="secondaryBackgroundColor" value="393939" />
+    <option name="buttonColor" value="2d2d2d" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="90bee1" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="cccccc" />
+    <option name="backgroundColor" value="2d2d2d" />
+  </component>
+</application> 

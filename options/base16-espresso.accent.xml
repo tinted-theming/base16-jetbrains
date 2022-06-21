@@ -1,0 +1,12 @@
+<!--    Base16 Espresso
+        Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6c99bb" />
+    <option name="accentColor" value="6c99bb" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

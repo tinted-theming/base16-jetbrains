@@ -1,0 +1,12 @@
+<!--    Base16 Tomorrow Night
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="6699cc" />
+    <option name="accentColor" value="6699cc" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

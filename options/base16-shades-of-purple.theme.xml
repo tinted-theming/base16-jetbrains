@@ -1,0 +1,21 @@
+<!--    Base16 Shades of Purple
+        Author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="1e1e3f" />
+    <option name="treeSelectionColor" value="6943ff" />
+    <option name="highlightColor" value="f1d000" />
+    <option name="secondBorderColor" value="1e1e3f" />
+    <option name="tableSelectedColor" value="6943ff" />
+    <option name="contrastColor" value="43d426" />
+    <option name="disabledColor" value="6871ff" />
+    <option name="secondaryBackgroundColor" value="43d426" />
+    <option name="buttonColor" value="1e1e3f" />
+    <option name="selectionForegroundColor" value="ff77ff" />
+    <option name="selectionBackgroundColor" value="6943ff" />
+    <option name="textColor" value="ff77ff" />
+    <option name="foregroundColor" value="c7c7c7" />
+    <option name="backgroundColor" value="1e1e3f" />
+  </component>
+</application> 

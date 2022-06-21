@@ -1,0 +1,21 @@
+<!--    Base16 Primer Light
+        Author: Jimmy Lin   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fafbfc" />
+    <option name="treeSelectionColor" value="0366d6" />
+    <option name="highlightColor" value="d1d5da" />
+    <option name="secondBorderColor" value="fafbfc" />
+    <option name="tableSelectedColor" value="0366d6" />
+    <option name="contrastColor" value="e1e4e8" />
+    <option name="disabledColor" value="444d56" />
+    <option name="secondaryBackgroundColor" value="e1e4e8" />
+    <option name="buttonColor" value="fafbfc" />
+    <option name="selectionForegroundColor" value="24292e" />
+    <option name="selectionBackgroundColor" value="0366d6" />
+    <option name="textColor" value="24292e" />
+    <option name="foregroundColor" value="2f363d" />
+    <option name="backgroundColor" value="fafbfc" />
+  </component>
+</application> 

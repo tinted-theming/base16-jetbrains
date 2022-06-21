@@ -1,0 +1,8 @@
+<!--    Base16 Sandcastle
+        Author: George Essig (https://github.com/gessig)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Sandcastle" />
+  </component>
+</application>

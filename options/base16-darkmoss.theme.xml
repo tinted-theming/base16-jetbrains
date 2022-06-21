@@ -1,0 +1,21 @@
+<!--    Base16 darkmoss
+        Author: Gabriel Avanzi (https://github.com/avanzzzi)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="171e1f" />
+    <option name="treeSelectionColor" value="498091" />
+    <option name="highlightColor" value="373c3d" />
+    <option name="secondBorderColor" value="171e1f" />
+    <option name="tableSelectedColor" value="498091" />
+    <option name="contrastColor" value="252c2d" />
+    <option name="disabledColor" value="818f80" />
+    <option name="secondaryBackgroundColor" value="252c2d" />
+    <option name="buttonColor" value="171e1f" />
+    <option name="selectionForegroundColor" value="e3e3c8" />
+    <option name="selectionBackgroundColor" value="498091" />
+    <option name="textColor" value="e3e3c8" />
+    <option name="foregroundColor" value="c7c7a5" />
+    <option name="backgroundColor" value="171e1f" />
+  </component>
+</application> 

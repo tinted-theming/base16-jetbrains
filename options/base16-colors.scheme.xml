@@ -1,0 +1,8 @@
+<!--    Base16 Colors
+        Author: mrmrs (http://clrs.cc)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Colors" />
+  </component>
+</application>

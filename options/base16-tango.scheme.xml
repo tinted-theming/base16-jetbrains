@@ -1,0 +1,8 @@
+<!--    Base16 Tango
+        Author: @Schnouki, based on the Tango Desktop Project   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Tango" />
+  </component>
+</application>

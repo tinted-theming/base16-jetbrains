@@ -1,0 +1,21 @@
+<!--    Base16 Bespin
+        Author: Jan T. Sott   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="28211c" />
+    <option name="treeSelectionColor" value="5ea6ea" />
+    <option name="highlightColor" value="5e5d5c" />
+    <option name="secondBorderColor" value="28211c" />
+    <option name="tableSelectedColor" value="5ea6ea" />
+    <option name="contrastColor" value="36312e" />
+    <option name="disabledColor" value="797977" />
+    <option name="secondaryBackgroundColor" value="36312e" />
+    <option name="buttonColor" value="28211c" />
+    <option name="selectionForegroundColor" value="9d9b97" />
+    <option name="selectionBackgroundColor" value="5ea6ea" />
+    <option name="textColor" value="9d9b97" />
+    <option name="foregroundColor" value="8a8986" />
+    <option name="backgroundColor" value="28211c" />
+  </component>
+</application> 

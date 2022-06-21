@@ -1,0 +1,21 @@
+<!--    Base16 Edge Dark
+        Author: cjayross (https://github.com/cjayross)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="262729" />
+    <option name="treeSelectionColor" value="73b3e7" />
+    <option name="highlightColor" value="b7bec9" />
+    <option name="secondBorderColor" value="262729" />
+    <option name="tableSelectedColor" value="73b3e7" />
+    <option name="contrastColor" value="88909f" />
+    <option name="disabledColor" value="73b3e7" />
+    <option name="secondaryBackgroundColor" value="88909f" />
+    <option name="buttonColor" value="262729" />
+    <option name="selectionForegroundColor" value="d390e7" />
+    <option name="selectionBackgroundColor" value="73b3e7" />
+    <option name="textColor" value="d390e7" />
+    <option name="foregroundColor" value="b7bec9" />
+    <option name="backgroundColor" value="262729" />
+  </component>
+</application> 

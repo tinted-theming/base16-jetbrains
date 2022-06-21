@@ -1,0 +1,21 @@
+<!--    Base16 Primer Dark
+        Author: Jimmy Lin   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="010409" />
+    <option name="treeSelectionColor" value="58a6ff" />
+    <option name="highlightColor" value="30363d" />
+    <option name="secondBorderColor" value="010409" />
+    <option name="tableSelectedColor" value="58a6ff" />
+    <option name="contrastColor" value="21262d" />
+    <option name="disabledColor" value="8b949e" />
+    <option name="secondaryBackgroundColor" value="21262d" />
+    <option name="buttonColor" value="010409" />
+    <option name="selectionForegroundColor" value="c9d1d9" />
+    <option name="selectionBackgroundColor" value="58a6ff" />
+    <option name="textColor" value="c9d1d9" />
+    <option name="foregroundColor" value="b1bac4" />
+    <option name="backgroundColor" value="010409" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Grayscale Light
+        Author: Alexandre Gavioli (https://github.com/Alexx2/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f7f7f7" />
+    <option name="treeSelectionColor" value="686868" />
+    <option name="highlightColor" value="b9b9b9" />
+    <option name="secondBorderColor" value="f7f7f7" />
+    <option name="tableSelectedColor" value="686868" />
+    <option name="contrastColor" value="e3e3e3" />
+    <option name="disabledColor" value="525252" />
+    <option name="secondaryBackgroundColor" value="e3e3e3" />
+    <option name="buttonColor" value="f7f7f7" />
+    <option name="selectionForegroundColor" value="252525" />
+    <option name="selectionBackgroundColor" value="686868" />
+    <option name="textColor" value="252525" />
+    <option name="foregroundColor" value="464646" />
+    <option name="backgroundColor" value="f7f7f7" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Dark Violet
+        Author: ruler501 (https://github.com/ruler501/base16-darkviolet)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="4136d9" />
+    <option name="highlightColor" value="432d59" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="4136d9" />
+    <option name="contrastColor" value="231a40" />
+    <option name="disabledColor" value="00ff00" />
+    <option name="secondaryBackgroundColor" value="231a40" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="9045e6" />
+    <option name="selectionBackgroundColor" value="4136d9" />
+    <option name="textColor" value="9045e6" />
+    <option name="foregroundColor" value="b08ae6" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

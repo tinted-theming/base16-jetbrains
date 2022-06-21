@@ -1,0 +1,21 @@
+<!--    Base16 PaperColor Light
+        Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="eeeeee" />
+    <option name="treeSelectionColor" value="d75f00" />
+    <option name="highlightColor" value="008700" />
+    <option name="secondBorderColor" value="eeeeee" />
+    <option name="tableSelectedColor" value="d75f00" />
+    <option name="contrastColor" value="af0000" />
+    <option name="disabledColor" value="0087af" />
+    <option name="secondaryBackgroundColor" value="af0000" />
+    <option name="buttonColor" value="eeeeee" />
+    <option name="selectionForegroundColor" value="005f87" />
+    <option name="selectionBackgroundColor" value="d75f00" />
+    <option name="textColor" value="005f87" />
+    <option name="foregroundColor" value="444444" />
+    <option name="backgroundColor" value="eeeeee" />
+  </component>
+</application> 

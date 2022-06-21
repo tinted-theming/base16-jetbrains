@@ -1,0 +1,12 @@
+<!--    Base16 Eva
+        Author: kjakapat (https://github.com/kjakapat)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="15f4ee" />
+    <option name="accentColor" value="15f4ee" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

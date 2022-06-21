@@ -1,0 +1,8 @@
+<!--    Base16 Nova
+        Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Nova" />
+  </component>
+</application>

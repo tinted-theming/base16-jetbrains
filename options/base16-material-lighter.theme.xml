@@ -1,0 +1,21 @@
+<!--    Base16 Material Lighter
+        Author: Nate Peterson   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fafafa" />
+    <option name="treeSelectionColor" value="6182b8" />
+    <option name="highlightColor" value="cceae7" />
+    <option name="secondBorderColor" value="fafafa" />
+    <option name="tableSelectedColor" value="6182b8" />
+    <option name="contrastColor" value="e7eaec" />
+    <option name="disabledColor" value="8796b0" />
+    <option name="secondaryBackgroundColor" value="e7eaec" />
+    <option name="buttonColor" value="fafafa" />
+    <option name="selectionForegroundColor" value="80cbc4" />
+    <option name="selectionBackgroundColor" value="6182b8" />
+    <option name="textColor" value="80cbc4" />
+    <option name="foregroundColor" value="80cbc4" />
+    <option name="backgroundColor" value="fafafa" />
+  </component>
+</application> 

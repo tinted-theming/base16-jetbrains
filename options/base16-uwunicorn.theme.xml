@@ -1,0 +1,21 @@
+<!--    Base16 UwUnicorn
+        Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="241b26" />
+    <option name="treeSelectionColor" value="6a9eb5" />
+    <option name="highlightColor" value="46354a" />
+    <option name="secondBorderColor" value="241b26" />
+    <option name="tableSelectedColor" value="6a9eb5" />
+    <option name="contrastColor" value="2f2a3f" />
+    <option name="disabledColor" value="7e5f83" />
+    <option name="secondaryBackgroundColor" value="2f2a3f" />
+    <option name="buttonColor" value="241b26" />
+    <option name="selectionForegroundColor" value="d9c2c6" />
+    <option name="selectionBackgroundColor" value="6a9eb5" />
+    <option name="textColor" value="d9c2c6" />
+    <option name="foregroundColor" value="eed5d9" />
+    <option name="backgroundColor" value="241b26" />
+  </component>
+</application> 

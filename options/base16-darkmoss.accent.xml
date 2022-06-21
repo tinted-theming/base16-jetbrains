@@ -1,0 +1,12 @@
+<!--    Base16 darkmoss
+        Author: Gabriel Avanzi (https://github.com/avanzzzi)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="498091" />
+    <option name="accentColor" value="498091" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<!--    Base16 Helios
+        Author: Alex Meyer (https://github.com/reyemxela)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="1e8bac" />
+    <option name="accentColor" value="1e8bac" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

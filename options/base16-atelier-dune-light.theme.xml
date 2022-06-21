@@ -1,0 +1,21 @@
+<!--    Base16 Atelier Dune Light
+        Author: Bram de Haan (http://atelierbramdehaan.nl)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fefbec" />
+    <option name="treeSelectionColor" value="6684e1" />
+    <option name="highlightColor" value="a6a28c" />
+    <option name="secondBorderColor" value="fefbec" />
+    <option name="tableSelectedColor" value="6684e1" />
+    <option name="contrastColor" value="e8e4cf" />
+    <option name="disabledColor" value="7d7a68" />
+    <option name="secondaryBackgroundColor" value="e8e4cf" />
+    <option name="buttonColor" value="fefbec" />
+    <option name="selectionForegroundColor" value="292824" />
+    <option name="selectionBackgroundColor" value="6684e1" />
+    <option name="textColor" value="292824" />
+    <option name="foregroundColor" value="6e6b5e" />
+    <option name="backgroundColor" value="fefbec" />
+  </component>
+</application> 

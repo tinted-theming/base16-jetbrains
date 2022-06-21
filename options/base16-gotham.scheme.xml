@@ -1,0 +1,8 @@
+<!--    Base16 Gotham
+        Author: Andrea Leopardi (arranged by Brett Jones)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Gotham" />
+  </component>
+</application>

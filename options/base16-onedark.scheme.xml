@@ -1,0 +1,8 @@
+<!--    Base16 OneDark
+        Author: Lalit Magant (http://github.com/tilal6991)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 OneDark" />
+  </component>
+</application>

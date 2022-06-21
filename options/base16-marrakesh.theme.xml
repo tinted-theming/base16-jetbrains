@@ -1,0 +1,21 @@
+<!--    Base16 Marrakesh
+        Author: Alexandre Gavioli (http://github.com/Alexx2/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="201602" />
+    <option name="treeSelectionColor" value="477ca1" />
+    <option name="highlightColor" value="5f5b17" />
+    <option name="secondBorderColor" value="201602" />
+    <option name="tableSelectedColor" value="477ca1" />
+    <option name="contrastColor" value="302e00" />
+    <option name="disabledColor" value="86813b" />
+    <option name="secondaryBackgroundColor" value="302e00" />
+    <option name="buttonColor" value="201602" />
+    <option name="selectionForegroundColor" value="ccc37a" />
+    <option name="selectionBackgroundColor" value="477ca1" />
+    <option name="textColor" value="ccc37a" />
+    <option name="foregroundColor" value="948e48" />
+    <option name="backgroundColor" value="201602" />
+  </component>
+</application> 

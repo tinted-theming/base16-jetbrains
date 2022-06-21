@@ -1,0 +1,21 @@
+<!--    Base16 Tomorrow
+        Author: Chris Kempson (http://chriskempson.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="ffffff" />
+    <option name="treeSelectionColor" value="4271ae" />
+    <option name="highlightColor" value="d6d6d6" />
+    <option name="secondBorderColor" value="ffffff" />
+    <option name="tableSelectedColor" value="4271ae" />
+    <option name="contrastColor" value="e0e0e0" />
+    <option name="disabledColor" value="969896" />
+    <option name="secondaryBackgroundColor" value="e0e0e0" />
+    <option name="buttonColor" value="ffffff" />
+    <option name="selectionForegroundColor" value="282a2e" />
+    <option name="selectionBackgroundColor" value="4271ae" />
+    <option name="textColor" value="282a2e" />
+    <option name="foregroundColor" value="4d4d4c" />
+    <option name="backgroundColor" value="ffffff" />
+  </component>
+</application> 

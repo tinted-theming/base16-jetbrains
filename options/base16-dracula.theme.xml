@@ -1,0 +1,21 @@
+<!--    Base16 Dracula
+        Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282936" />
+    <option name="treeSelectionColor" value="62d6e8" />
+    <option name="highlightColor" value="4d4f68" />
+    <option name="secondBorderColor" value="282936" />
+    <option name="tableSelectedColor" value="62d6e8" />
+    <option name="contrastColor" value="3a3c4e" />
+    <option name="disabledColor" value="62d6e8" />
+    <option name="secondaryBackgroundColor" value="3a3c4e" />
+    <option name="buttonColor" value="282936" />
+    <option name="selectionForegroundColor" value="f1f2f8" />
+    <option name="selectionBackgroundColor" value="62d6e8" />
+    <option name="textColor" value="f1f2f8" />
+    <option name="foregroundColor" value="e9e9f4" />
+    <option name="backgroundColor" value="282936" />
+  </component>
+</application> 

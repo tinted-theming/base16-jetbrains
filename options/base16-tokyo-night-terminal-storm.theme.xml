@@ -1,0 +1,21 @@
+<!--    Base16 Tokyo Night Terminal Storm
+        Author: Michaël Ball   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="24283b" />
+    <option name="treeSelectionColor" value="7aa2f7" />
+    <option name="highlightColor" value="343a52" />
+    <option name="secondBorderColor" value="24283b" />
+    <option name="tableSelectedColor" value="7aa2f7" />
+    <option name="contrastColor" value="1a1b26" />
+    <option name="disabledColor" value="787c99" />
+    <option name="secondaryBackgroundColor" value="1a1b26" />
+    <option name="buttonColor" value="24283b" />
+    <option name="selectionForegroundColor" value="cbccd1" />
+    <option name="selectionBackgroundColor" value="7aa2f7" />
+    <option name="textColor" value="cbccd1" />
+    <option name="foregroundColor" value="787c99" />
+    <option name="backgroundColor" value="24283b" />
+  </component>
+</application> 

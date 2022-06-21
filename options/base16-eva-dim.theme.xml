@@ -1,0 +1,21 @@
+<!--    Base16 Eva Dim
+        Author: kjakapat (https://github.com/kjakapat)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2a3b4d" />
+    <option name="treeSelectionColor" value="1ae1dc" />
+    <option name="highlightColor" value="4b6988" />
+    <option name="secondBorderColor" value="2a3b4d" />
+    <option name="tableSelectedColor" value="1ae1dc" />
+    <option name="contrastColor" value="3d566f" />
+    <option name="disabledColor" value="7e90a3" />
+    <option name="secondaryBackgroundColor" value="3d566f" />
+    <option name="buttonColor" value="2a3b4d" />
+    <option name="selectionForegroundColor" value="d6d7d9" />
+    <option name="selectionBackgroundColor" value="1ae1dc" />
+    <option name="textColor" value="d6d7d9" />
+    <option name="foregroundColor" value="9fa2a6" />
+    <option name="backgroundColor" value="2a3b4d" />
+  </component>
+</application> 

@@ -1,0 +1,12 @@
+<!--    Base16 One Light
+        Author: Daniel Pfeifer (http://github.com/purpleKarrot)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="4078f2" />
+    <option name="accentColor" value="4078f2" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

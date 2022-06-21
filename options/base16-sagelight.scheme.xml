@@ -1,0 +1,8 @@
+<!--    Base16 Sagelight
+        Author: Carter Veldhuizen   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Sagelight" />
+  </component>
+</application>

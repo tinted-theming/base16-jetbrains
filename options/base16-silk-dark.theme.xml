@@ -1,0 +1,21 @@
+<!--    Base16 Silk Dark
+        Author: Gabriel Fontes (https://github.com/Misterio77)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="0e3c46" />
+    <option name="treeSelectionColor" value="46bddd" />
+    <option name="highlightColor" value="2a5054" />
+    <option name="secondBorderColor" value="0e3c46" />
+    <option name="tableSelectedColor" value="46bddd" />
+    <option name="contrastColor" value="1d494e" />
+    <option name="disabledColor" value="9dc8cd" />
+    <option name="secondaryBackgroundColor" value="1d494e" />
+    <option name="buttonColor" value="0e3c46" />
+    <option name="selectionForegroundColor" value="cbf2f7" />
+    <option name="selectionBackgroundColor" value="46bddd" />
+    <option name="textColor" value="cbf2f7" />
+    <option name="foregroundColor" value="c7dbdd" />
+    <option name="backgroundColor" value="0e3c46" />
+  </component>
+</application> 

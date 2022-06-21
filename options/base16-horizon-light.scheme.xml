@@ -1,0 +1,8 @@
+<!--    Base16 Horizon Light
+        Author: Michaël Ball (http://github.com/michael-ball/)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Horizon Light" />
+  </component>
+</application>

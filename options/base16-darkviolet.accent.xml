@@ -1,0 +1,12 @@
+<!--    Base16 Dark Violet
+        Author: ruler501 (https://github.com/ruler501/base16-darkviolet)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="4136d9" />
+    <option name="accentColor" value="4136d9" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

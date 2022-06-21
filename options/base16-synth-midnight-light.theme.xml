@@ -1,0 +1,21 @@
+<!--    Base16 Synth Midnight Terminal Light
+        Author: Michaël Ball (http://github.com/michael-ball/)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="dddfe0" />
+    <option name="treeSelectionColor" value="03aeff" />
+    <option name="highlightColor" value="c1c3c4" />
+    <option name="secondBorderColor" value="dddfe0" />
+    <option name="tableSelectedColor" value="03aeff" />
+    <option name="contrastColor" value="cfd1d2" />
+    <option name="disabledColor" value="474849" />
+    <option name="secondaryBackgroundColor" value="cfd1d2" />
+    <option name="buttonColor" value="dddfe0" />
+    <option name="selectionForegroundColor" value="1a1b1c" />
+    <option name="selectionBackgroundColor" value="03aeff" />
+    <option name="textColor" value="1a1b1c" />
+    <option name="foregroundColor" value="28292a" />
+    <option name="backgroundColor" value="dddfe0" />
+  </component>
+</application> 

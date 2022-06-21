@@ -1,0 +1,8 @@
+<!--    Base16 Rebecca
+        Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Rebecca" />
+  </component>
+</application>

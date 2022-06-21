@@ -1,0 +1,21 @@
+<!--    Base16 Harmonic16 Dark
+        Author: Jannik Siebert (https://github.com/janniks)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="0b1c2c" />
+    <option name="treeSelectionColor" value="8b56bf" />
+    <option name="highlightColor" value="405c79" />
+    <option name="secondBorderColor" value="0b1c2c" />
+    <option name="tableSelectedColor" value="8b56bf" />
+    <option name="contrastColor" value="223b54" />
+    <option name="disabledColor" value="aabcce" />
+    <option name="secondaryBackgroundColor" value="223b54" />
+    <option name="buttonColor" value="0b1c2c" />
+    <option name="selectionForegroundColor" value="e5ebf1" />
+    <option name="selectionBackgroundColor" value="8b56bf" />
+    <option name="textColor" value="e5ebf1" />
+    <option name="foregroundColor" value="cbd6e2" />
+    <option name="backgroundColor" value="0b1c2c" />
+  </component>
+</application> 

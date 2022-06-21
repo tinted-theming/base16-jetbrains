@@ -1,0 +1,8 @@
+<!--    Base16 Grayscale Light
+        Author: Alexandre Gavioli (https://github.com/Alexx2/)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Grayscale Light" />
+  </component>
+</application>

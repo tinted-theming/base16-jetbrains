@@ -1,0 +1,21 @@
+<!--    Base16 Sakura
+        Author: Misterio77 (http://github.com/Misterio77)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="feedf3" />
+    <option name="treeSelectionColor" value="006e93" />
+    <option name="highlightColor" value="e0ccd1" />
+    <option name="secondBorderColor" value="feedf3" />
+    <option name="tableSelectedColor" value="006e93" />
+    <option name="contrastColor" value="f8e2e7" />
+    <option name="disabledColor" value="665055" />
+    <option name="secondaryBackgroundColor" value="f8e2e7" />
+    <option name="buttonColor" value="feedf3" />
+    <option name="selectionForegroundColor" value="42383a" />
+    <option name="selectionBackgroundColor" value="006e93" />
+    <option name="textColor" value="42383a" />
+    <option name="foregroundColor" value="564448" />
+    <option name="backgroundColor" value="feedf3" />
+  </component>
+</application> 

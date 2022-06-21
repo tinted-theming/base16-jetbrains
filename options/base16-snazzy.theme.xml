@@ -1,0 +1,21 @@
+<!--    Base16 Snazzy
+        Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="282a36" />
+    <option name="treeSelectionColor" value="57c7ff" />
+    <option name="highlightColor" value="43454f" />
+    <option name="secondBorderColor" value="282a36" />
+    <option name="tableSelectedColor" value="57c7ff" />
+    <option name="contrastColor" value="34353e" />
+    <option name="disabledColor" value="a5a5a9" />
+    <option name="secondaryBackgroundColor" value="34353e" />
+    <option name="buttonColor" value="282a36" />
+    <option name="selectionForegroundColor" value="eff0eb" />
+    <option name="selectionBackgroundColor" value="57c7ff" />
+    <option name="textColor" value="eff0eb" />
+    <option name="foregroundColor" value="e2e4e5" />
+    <option name="backgroundColor" value="282a36" />
+  </component>
+</application> 

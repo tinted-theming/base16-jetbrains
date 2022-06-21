@@ -1,0 +1,21 @@
+<!--    Base16 Windows 10 Light
+        Author: Fergus Collins (https://github.com/C-Fergus)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f2f2f2" />
+    <option name="treeSelectionColor" value="0037da" />
+    <option name="highlightColor" value="d9d9d9" />
+    <option name="secondBorderColor" value="f2f2f2" />
+    <option name="tableSelectedColor" value="0037da" />
+    <option name="contrastColor" value="e5e5e5" />
+    <option name="disabledColor" value="ababab" />
+    <option name="secondaryBackgroundColor" value="e5e5e5" />
+    <option name="buttonColor" value="f2f2f2" />
+    <option name="selectionForegroundColor" value="414141" />
+    <option name="selectionBackgroundColor" value="0037da" />
+    <option name="textColor" value="414141" />
+    <option name="foregroundColor" value="767676" />
+    <option name="backgroundColor" value="f2f2f2" />
+  </component>
+</application> 

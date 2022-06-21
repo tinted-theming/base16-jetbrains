@@ -1,0 +1,21 @@
+<!--    Base16 Windows NT
+        Author: Fergus Collins (https://github.com/C-Fergus)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="0000ff" />
+    <option name="highlightColor" value="555555" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="0000ff" />
+    <option name="contrastColor" value="2a2a2a" />
+    <option name="disabledColor" value="a1a1a1" />
+    <option name="secondaryBackgroundColor" value="2a2a2a" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="e0e0e0" />
+    <option name="selectionBackgroundColor" value="0000ff" />
+    <option name="textColor" value="e0e0e0" />
+    <option name="foregroundColor" value="c0c0c0" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

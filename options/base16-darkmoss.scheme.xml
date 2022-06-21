@@ -1,0 +1,8 @@
+<!--    Base16 darkmoss
+        Author: Gabriel Avanzi (https://github.com/avanzzzi)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 darkmoss" />
+  </component>
+</application>

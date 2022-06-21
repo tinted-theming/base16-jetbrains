@@ -1,0 +1,12 @@
+<!--    Base16 Ayu Dark
+        Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="59c2ff" />
+    <option name="accentColor" value="59c2ff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

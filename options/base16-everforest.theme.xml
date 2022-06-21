@@ -1,0 +1,21 @@
+<!--    Base16 EverForest
+        Author: sainnhe   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2b3339" />
+    <option name="treeSelectionColor" value="7fbbb3" />
+    <option name="highlightColor" value="3a4248" />
+    <option name="secondBorderColor" value="2b3339" />
+    <option name="tableSelectedColor" value="7fbbb3" />
+    <option name="contrastColor" value="323c41" />
+    <option name="disabledColor" value="a59572" />
+    <option name="secondaryBackgroundColor" value="323c41" />
+    <option name="buttonColor" value="2b3339" />
+    <option name="selectionForegroundColor" value="e9e8d2" />
+    <option name="selectionBackgroundColor" value="7fbbb3" />
+    <option name="textColor" value="e9e8d2" />
+    <option name="foregroundColor" value="d3c6aa" />
+    <option name="backgroundColor" value="2b3339" />
+  </component>
+</application> 

@@ -1,0 +1,21 @@
+<!--    Base16 Tokyo City Light
+        Author: Michaël Ball   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fbfbfd" />
+    <option name="treeSelectionColor" value="34548a" />
+    <option name="highlightColor" value="edeff6" />
+    <option name="secondBorderColor" value="fbfbfd" />
+    <option name="tableSelectedColor" value="34548a" />
+    <option name="contrastColor" value="f6f6f8" />
+    <option name="disabledColor" value="4c505e" />
+    <option name="secondaryBackgroundColor" value="f6f6f8" />
+    <option name="buttonColor" value="fbfbfd" />
+    <option name="selectionForegroundColor" value="1d252c" />
+    <option name="selectionBackgroundColor" value="34548a" />
+    <option name="textColor" value="1d252c" />
+    <option name="foregroundColor" value="343b59" />
+    <option name="backgroundColor" value="fbfbfd" />
+  </component>
+</application> 

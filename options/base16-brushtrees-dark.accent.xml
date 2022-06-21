@@ -1,0 +1,12 @@
+<!--    Base16 Brush Trees Dark
+        Author: Abraham White &lt;abelincoln.white@gmail.com&gt;   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="868cb3" />
+    <option name="accentColor" value="868cb3" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>
