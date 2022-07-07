@@ -1,35 +1,53 @@
 # Base16 JetBrains
-Base16 themes for JetBrains' IDEs - such as IntelliJ, PyCharm and Webstorm - and the [Material Theme](https://github.com/ChrisRM/material-theme-jetbrains) plugin.
 
-See the [Base16](https://github.com/chriskempson/base16) repository for more information.
+Base16 themes for JetBrains' IDEs - such as IntelliJ, PyCharm and
+Webstorm - and the [Material Theme][1] plugin.
+
+See the [Base16][2] repository for more information.
 
 ## Usage
 
 ### Color schemes
 
-All color scheme files are bundled in the `colors.jar` [file](https://github.com/adilosa/base16-jetbrains/blob/master/colors.jar?raw=true) and can easily be imported using the `File > Import Settings` menu.
+All color scheme files are bundled in the `colors.jar` [file][3] and can
+easily be imported using the `File > Import Settings` menu.
 
-Individual [schemes](https://github.com/adilosa/base16-jetbrains/tree/master/colors) are located as `.icls` files in the `colors` directory and can be installed by
+Individual [schemes][4] are located as `.icls` files in the `colors`
+directory and can be installed by
 
-1. downloading an `.icls` [file](https://github.com/adilosa/base16-jetbrains/tree/master/colors)
+1. downloading an `.icls` [file][4]
 2. navigating to `File > Settings > Editor > Color Scheme` and
-3. importing the scheme using the `Import Scheme` menu from the gear icon
+3. importing the scheme using the `Import Scheme` menu from the gear
+   icon
 
-It is also possible to download a scheme into the IDE's config directory (e.g. `~/.PyCharm2018.1/config/colors`) from the command line.
-```
-curl https://raw.githubusercontent.com/adilosa/base16-jetbrains/master/colors/base16-eighties.icls > ~/.PyCharm2018.1/config/colors/base16-eighties.icls
+It is also possible to download a scheme into the IDE's config directory
+(e.g. `~/.PyCharm2018.1/config/colors`) from the command line.
+
+```shell
+curl \
+  https://raw.githubusercontent.com/base16-project/base16-jetbrains/main/colors/base16-eighties.icls \
+  > ~/.PyCharm2018.1/config/colors/base16-eighties.icls
 ```
 
 ### Material themes
 
-All Material [themes](https://github.com/adilosa/base16-jetbrains/tree/master/options) are located in the `options` directory where a `.jar` file bundles the theme, accent and editor settings.
+All Material [themes][5] are located in the `options` directory where a
+`.jar` file bundles the theme, accent and editor settings.
 
-Individual themes can be imported using the `File > Import Settings` menu after downloading their `.jar` files.
+Individual themes can be imported using the `File > Import Settings`
+menu after downloading their `.jar` files.
 
-### Contribution
+## Contributing
 
-Changes should be made by editing the `*.mustache` template files found in the `templates` directory.
+See [`CONTRIBUTING.md`][9], which contains building and contributing
+instructions.
 
-The templates can be built using a [base16-builder](https://github.com/chriskempson/base16#builder-repositories) like [base16-builder-ruby](https://github.com/obahareth/base16-builder-ruby). The resulting `*.icls` files shall then be copied into the `colors` directory while all option XML files (`*.theme.xml`, `*.scheme.xml` and `*.accent.xml` are to be saved in the `options` folder.
-
-Finally, run `./build` to compile all color schemes and into a single JAR and clean up the repository.
+[1]: https://github.com/ChrisRM/material-theme-jetbrains
+[2]: https://github.com/base16-project/base16
+[3]: colors.jar?raw=true
+[4]: colors
+[5]: options
+[6]: https://github.com/base16-project/base16#builder-repositories
+[7]: .github/workflows/update.yml
+[8]: https://github.com/obahareth/base16-builder-ruby
+[9]: CONTRIBUTING.md
