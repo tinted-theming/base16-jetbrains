@@ -43,11 +43,11 @@ See [`CONTRIBUTING.md`][9], which contains building and contributing
 instructions.
 
 [1]: https://github.com/ChrisRM/material-theme-jetbrains
-[2]: https://github.com/base16-project/base16
+[2]: https://github.com/base16-project/home
 [3]: colors.jar?raw=true
 [4]: colors
 [5]: options
-[6]: https://github.com/base16-project/base16#builder-repositories
+[6]: https://github.com/base16-project/home#builder-repositories
 [7]: .github/workflows/update.yml
 [8]: https://github.com/obahareth/base16-builder-ruby
 [9]: CONTRIBUTING.md
