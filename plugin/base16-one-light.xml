@@ -2,7 +2,7 @@
 <id>com.base16.one-light</id>
 <name>Base16 One Light</name>
 <version>1.0.0</version>
-<vendor>Daniel Pfeifer (http://github.com/purpleKarrot), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Daniel Pfeifer (http://github.com/purpleKarrot), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 One Light for Jetbrains IDE</p>

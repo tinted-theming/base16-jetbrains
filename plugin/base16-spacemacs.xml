@@ -2,7 +2,7 @@
 <id>com.base16.spacemacs</id>
 <name>Base16 Spacemacs</name>
 <version>1.0.0</version>
-<vendor>Nasser Alshammari (https://github.com/nashamri/spacemacs-theme), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Nasser Alshammari (https://github.com/nashamri/spacemacs-theme), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Spacemacs for Jetbrains IDE</p>

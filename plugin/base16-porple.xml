@@ -2,7 +2,7 @@
 <id>com.base16.porple</id>
 <name>Base16 Porple</name>
 <version>1.0.0</version>
-<vendor>Niek den Breeje (https://github.com/AuditeMarlow), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Niek den Breeje (https://github.com/AuditeMarlow), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Porple for Jetbrains IDE</p>

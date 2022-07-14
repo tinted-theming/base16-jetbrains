@@ -18,7 +18,7 @@
         <option name="INFORMATION_HINT" value="e0e0e0" />
         <option name="LINE_NUMBERS_COLOR" value="707070" />
         <option name="METHOD_SEPARATORS_COLOR" value="707070" />
-        <option name="MODIFIED_LINES_COLOR" value="755B00" />
+        <option name="MODIFIED_LINES_COLOR" value="755b00" />
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
         <option name="QUESTION_HINT" value="e0e0e0" />
         <option name="RIGHT_MARGIN_COLOR" value="707070" />
@@ -83,7 +83,7 @@
         </option>
         <option name="Anonymous class name">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="Anotation attribute name">
@@ -93,13 +93,13 @@
         </option>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300" />
+                <option name="EFFECT_COLOR" value="840000" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -133,7 +133,7 @@
         <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BLADE_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -201,7 +201,7 @@
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -228,7 +228,7 @@
         </option>
         <option name="COFFEESCRIPT.BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -256,7 +256,7 @@
         </option>
         <option name="COFFEESCRIPT.CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="COFFEESCRIPT.COLON">
@@ -412,7 +412,7 @@
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="CONSOLE_USER_INPUT">
@@ -468,7 +468,7 @@
         </option>
         <option name="CSS.IDENT">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="CSS.IMPORTANT">
@@ -510,7 +510,7 @@
         </option>
         <option name="CTRL_CLICKABLE">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -548,12 +548,12 @@
         </option>
         <option name="Class">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="DEFAULT_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -575,7 +575,7 @@
         </option>
         <option name="DEFAULT_CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="DEFAULT_CLASS_REFERENCE">
@@ -665,7 +665,7 @@
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
             <value>
-                <option name="EFFECT_COLOR" value="755B00" />
+                <option name="EFFECT_COLOR" value="755b00" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -765,7 +765,7 @@
         </option>
         <option name="DEPRECATED_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="755B00"/>
+                <option name="EFFECT_COLOR" value="755b00"/>
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1065,7 +1065,7 @@
         </option>
         <option name="GO_PACKAGE_EXPORTED_STRUCT">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="GO_PACKAGE_EXPORTED_VARIABLE">
@@ -1085,7 +1085,7 @@
         </option>
         <option name="GO_PACKAGE_LOCAL_STRUCT">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="GO_PACKAGE_LOCAL_VARIABLE">
@@ -1131,12 +1131,12 @@
         </option>
         <option name="GO_TYPE_SPECIFICATION">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="HAML_CLASS">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="HAML_ID">
@@ -1162,7 +1162,7 @@
         </option>
         <option name="HOCON_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1269,7 +1269,7 @@
         </option>
         <option name="HTML_ATTRIBUTE_NAME">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1316,7 +1316,7 @@
         <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="INFO_ATTRIBUTES">
@@ -1594,7 +1594,7 @@
         </option>
         <option name="MARKDOWN.TEXT">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="MARKDOWN_AUTO_LINK">
@@ -1731,7 +1731,7 @@
         </option>
         <option name="MARKDOWN_LINK_LABEL">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="MARKDOWN_LINK_TEXT">
@@ -1823,7 +1823,7 @@
         </option>
         <option name="OC.CLASS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="OC.COMMA">
@@ -1935,7 +1935,7 @@
         </option>
         <option name="OC.NAMESPACE_LIKE">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="OC.NUMBER">
@@ -2002,12 +2002,12 @@
         </option>
         <option name="OC.STRUCT_LIKE">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="OC.TEMPLATE_TYPE">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="OC.TEMPLATE_VALUE">
@@ -2055,7 +2055,7 @@
         <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
         <option name="PHP_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2071,7 +2071,7 @@
         </option>
         <option name="PHP_CLASS">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="PHP_COMMA">
@@ -2280,7 +2280,7 @@
         </option>
         <option name="PY.CLASS_DEFINITION">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -2410,7 +2410,7 @@
         </option>
         <option name="QL_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2431,7 +2431,7 @@
         </option>
         <option name="QL_ENTITY">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="QL_FUNCTION">
@@ -2542,7 +2542,7 @@
         </option>
         <option name="RHTML_OMIT_NEW_LINE_ID">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2563,7 +2563,7 @@
         </option>
         <option name="RUBY_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="007300" />
+                <option name="EFFECT_COLOR" value="840000" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -2595,12 +2595,12 @@
         </option>
         <option name="RUBY_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="RUBY_CONSTANT_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
             </value>
         </option>
         <option name="RUBY_CVAR">
@@ -2635,7 +2635,7 @@
         </option>
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
-                <option name="FOREGROUND" value="755B00" />
+                <option name="FOREGROUND" value="755b00" />
                 <option name="BACKGROUND" value="e0e0e0" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
@@ -2780,7 +2780,7 @@
         </option>
         <option name="ReSharper.ASP_NET_MVC_CONTROLLER">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -2792,7 +2792,7 @@
         </option>
         <option name="ReSharper.ASP_NET_MVC_VIEW_COMPONENT">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -2842,12 +2842,12 @@
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="ReSharper.STRUCT_IDENTIFIER">
@@ -2922,7 +2922,7 @@
         </option>
         <option name="Scala Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="007300"/>
+                <option name="EFFECT_COLOR" value="840000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2944,7 +2944,7 @@
         </option>
         <option name="Scala Class">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="Scala Class method call">
@@ -3029,7 +3029,7 @@
         </option>
         <option name="Scala Object">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
             </value>
         </option>
         <option name="Scala Object method call">
@@ -3103,7 +3103,7 @@
         </option>
         <option name="Scala XML attribute name">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -3292,8 +3292,8 @@
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="755B00" />
-                <option name="ERROR_STRIPE_COLOR" value="755B00" />
+                <option name="EFFECT_COLOR" value="755b00" />
+                <option name="ERROR_STRIPE_COLOR" value="755b00" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -3316,7 +3316,7 @@
         </option>
         <option name="XML_ATTRIBUTE_NAME">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -3327,7 +3327,7 @@
         </option>
         <option name="XML_PROLOGUE">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="BACKGROUND" value="e0e0e0"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
@@ -3339,7 +3339,7 @@
         </option>
         <option name="XML_TAG_DATA">
             <value>
-                <option name="FOREGROUND" value="755B00"/>
+                <option name="FOREGROUND" value="755b00"/>
                 <option name="BACKGROUND" value="e0e0e0"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>

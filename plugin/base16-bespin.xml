@@ -2,7 +2,7 @@
 <id>com.base16.bespin</id>
 <name>Base16 Bespin</name>
 <version>1.0.0</version>
-<vendor>Jan T. Sott, Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Jan T. Sott, Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Bespin for Jetbrains IDE</p>

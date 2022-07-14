@@ -2,7 +2,7 @@
 <id>com.base16.oceanicnext</id>
 <name>Base16 OceanicNext</name>
 <version>1.0.0</version>
-<vendor>https://github.com/voronianski/oceanic-next-color-scheme, Chris Kempson, and Shirom Makkad</vendor>
+<vendor>https://github.com/voronianski/oceanic-next-color-scheme, Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 OceanicNext for Jetbrains IDE</p>

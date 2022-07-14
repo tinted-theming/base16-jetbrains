@@ -2,7 +2,7 @@
 <id>com.base16.windows-95</id>
 <name>Base16 Windows 95</name>
 <version>1.0.0</version>
-<vendor>Fergus Collins (https://github.com/C-Fergus), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Fergus Collins (https://github.com/C-Fergus), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Windows 95 for Jetbrains IDE</p>

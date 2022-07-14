@@ -2,7 +2,7 @@
 <id>com.base16.irblack</id>
 <name>Base16 IR Black</name>
 <version>1.0.0</version>
-<vendor>Timothée Poisot (http://timotheepoisot.fr), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Timothée Poisot (http://timotheepoisot.fr), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 IR Black for Jetbrains IDE</p>

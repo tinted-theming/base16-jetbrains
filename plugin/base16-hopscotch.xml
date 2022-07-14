@@ -2,7 +2,7 @@
 <id>com.base16.hopscotch</id>
 <name>Base16 Hopscotch</name>
 <version>1.0.0</version>
-<vendor>Jan T. Sott, Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Jan T. Sott, Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Hopscotch for Jetbrains IDE</p>

@@ -2,7 +2,7 @@
 <id>com.base16.windows-highcontrast</id>
 <name>Base16 Windows High Contrast</name>
 <version>1.0.0</version>
-<vendor>Fergus Collins (https://github.com/C-Fergus), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Fergus Collins (https://github.com/C-Fergus), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Windows High Contrast for Jetbrains IDE</p>

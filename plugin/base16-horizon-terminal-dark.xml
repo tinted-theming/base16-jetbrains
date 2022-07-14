@@ -2,7 +2,7 @@
 <id>com.base16.horizon-terminal-dark</id>
 <name>Base16 Horizon Dark</name>
 <version>1.0.0</version>
-<vendor>Michaël Ball (http://github.com/michael-ball/), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Michaël Ball (http://github.com/michael-ball/), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Horizon Dark for Jetbrains IDE</p>

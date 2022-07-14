@@ -2,7 +2,7 @@
 <id>com.base16.shades-of-purple</id>
 <name>Base16 Shades of Purple</name>
 <version>1.0.0</version>
-<vendor>Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)., Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)., Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Shades of Purple for Jetbrains IDE</p>

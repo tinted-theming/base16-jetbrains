@@ -93,13 +93,13 @@
         </option>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef" />
+                <option name="EFFECT_COLOR" value="f92672" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -133,7 +133,7 @@
         <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BLADE_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -201,7 +201,7 @@
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -228,7 +228,7 @@
         </option>
         <option name="COFFEESCRIPT.BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1162,7 +1162,7 @@
         </option>
         <option name="HOCON_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2055,7 +2055,7 @@
         <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
         <option name="PHP_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2410,7 +2410,7 @@
         </option>
         <option name="QL_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2563,7 +2563,7 @@
         </option>
         <option name="RUBY_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef" />
+                <option name="EFFECT_COLOR" value="f92672" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -2922,7 +2922,7 @@
         </option>
         <option name="Scala Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="66d9ef"/>
+                <option name="EFFECT_COLOR" value="f92672"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>

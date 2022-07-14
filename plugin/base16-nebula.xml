@@ -2,7 +2,7 @@
 <id>com.base16.nebula</id>
 <name>Base16 Nebula</name>
 <version>1.0.0</version>
-<vendor>Gabriel Fontes (https://github.com/Misterio77), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Gabriel Fontes (https://github.com/Misterio77), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Nebula for Jetbrains IDE</p>

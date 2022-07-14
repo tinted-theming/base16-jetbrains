@@ -2,7 +2,7 @@
 <id>com.base16.gigavolt</id>
 <name>Base16 Gigavolt</name>
 <version>1.0.0</version>
-<vendor>Aidan Swope (http://github.com/Whillikers), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Aidan Swope (http://github.com/Whillikers), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Gigavolt for Jetbrains IDE</p>

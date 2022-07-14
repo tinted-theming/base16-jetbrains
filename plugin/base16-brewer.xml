@@ -2,7 +2,7 @@
 <id>com.base16.brewer</id>
 <name>Base16 Brewer</name>
 <version>1.0.0</version>
-<vendor>Timothée Poisot (http://github.com/tpoisot), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Timothée Poisot (http://github.com/tpoisot), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Brewer for Jetbrains IDE</p>

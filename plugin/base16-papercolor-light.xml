@@ -2,7 +2,7 @@
 <id>com.base16.papercolor-light</id>
 <name>Base16 PaperColor Light</name>
 <version>1.0.0</version>
-<vendor>Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 PaperColor Light for Jetbrains IDE</p>

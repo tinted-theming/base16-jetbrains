@@ -2,7 +2,7 @@
 <id>com.base16.shapeshifter</id>
 <name>Base16 Shapeshifter</name>
 <version>1.0.0</version>
-<vendor>Tyler Benziger (http://tybenz.com), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Tyler Benziger (http://tybenz.com), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Shapeshifter for Jetbrains IDE</p>

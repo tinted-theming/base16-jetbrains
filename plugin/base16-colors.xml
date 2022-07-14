@@ -2,7 +2,7 @@
 <id>com.base16.colors</id>
 <name>Base16 Colors</name>
 <version>1.0.0</version>
-<vendor>mrmrs (http://clrs.cc), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>mrmrs (http://clrs.cc), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Colors for Jetbrains IDE</p>

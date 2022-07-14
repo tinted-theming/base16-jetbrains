@@ -2,7 +2,7 @@
 <id>com.base16.marrakesh</id>
 <name>Base16 Marrakesh</name>
 <version>1.0.0</version>
-<vendor>Alexandre Gavioli (http://github.com/Alexx2/), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Alexandre Gavioli (http://github.com/Alexx2/), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Marrakesh for Jetbrains IDE</p>

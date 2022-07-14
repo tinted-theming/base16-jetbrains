@@ -2,7 +2,7 @@
 <id>com.base16.phd</id>
 <name>Base16 PhD</name>
 <version>1.0.0</version>
-<vendor>Hennig Hasemann (http://leetless.de/vim.html), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Hennig Hasemann (http://leetless.de/vim.html), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 PhD for Jetbrains IDE</p>

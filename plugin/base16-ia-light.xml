@@ -2,7 +2,7 @@
 <id>com.base16.ia-light</id>
 <name>Base16 iA Light</name>
 <version>1.0.0</version>
-<vendor>iA Inc. (modified by aramisgithub), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>iA Inc. (modified by aramisgithub), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 iA Light for Jetbrains IDE</p>

@@ -2,7 +2,7 @@
 <id>com.base16.tender</id>
 <name>Base16 tender</name>
 <version>1.0.0</version>
-<vendor>Jacobo Tabernero (https://github/com/jacoborus/tender.vim), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Jacobo Tabernero (https://github/com/jacoborus/tender.vim), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 tender for Jetbrains IDE</p>

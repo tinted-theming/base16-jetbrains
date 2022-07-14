@@ -2,7 +2,7 @@
 <id>com.base16.xcode-dusk</id>
 <name>Base16 XCode Dusk</name>
 <version>1.0.0</version>
-<vendor>Elsa Gonsiorowski (https://github.com/gonsie), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Elsa Gonsiorowski (https://github.com/gonsie), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 XCode Dusk for Jetbrains IDE</p>

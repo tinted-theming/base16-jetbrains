@@ -2,7 +2,7 @@
 <id>com.base16.brogrammer</id>
 <name>Base16 Brogrammer</name>
 <version>1.0.0</version>
-<vendor>Vik Ramanujam (http://github.com/piggyslasher), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Vik Ramanujam (http://github.com/piggyslasher), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Brogrammer for Jetbrains IDE</p>

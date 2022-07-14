@@ -2,7 +2,7 @@
 <id>com.base16.sandcastle</id>
 <name>Base16 Sandcastle</name>
 <version>1.0.0</version>
-<vendor>George Essig (https://github.com/gessig), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>George Essig (https://github.com/gessig), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Sandcastle for Jetbrains IDE</p>

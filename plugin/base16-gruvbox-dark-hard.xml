@@ -2,7 +2,7 @@
 <id>com.base16.gruvbox-dark-hard</id>
 <name>Base16 Gruvbox dark, hard</name>
 <version>1.0.0</version>
-<vendor>Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Gruvbox dark, hard for Jetbrains IDE</p>
@@ -22,6 +22,6 @@
 <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="880af550-1bf2-4e04-abca-b84594a8fbaa" path="/base16-gruvbox-dark-hard.theme.json"/>
+    <themeProvider id="base16-gruvbox-dark-hard" path="/base16-gruvbox-dark-hard.theme.json"/>
   </extensions>
 </idea-plugin>

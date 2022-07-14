@@ -2,7 +2,7 @@
 <id>com.base16.default-light</id>
 <name>Base16 Default Light</name>
 <version>1.0.0</version>
-<vendor>Chris Kempson (http://chriskempson.com), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Chris Kempson (http://chriskempson.com), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Default Light for Jetbrains IDE</p>

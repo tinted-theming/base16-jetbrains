@@ -2,7 +2,7 @@
 <id>com.base16.pico</id>
 <name>Base16 Pico</name>
 <version>1.0.0</version>
-<vendor>PICO-8 (http://www.lexaloffle.com/pico-8.php), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>PICO-8 (http://www.lexaloffle.com/pico-8.php), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Pico for Jetbrains IDE</p>

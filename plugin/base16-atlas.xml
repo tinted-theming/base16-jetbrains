@@ -2,7 +2,7 @@
 <id>com.base16.atlas</id>
 <name>Base16 Atlas</name>
 <version>1.0.0</version>
-<vendor>Alex Lende (https://ajlende.com), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Alex Lende (https://ajlende.com), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Atlas for Jetbrains IDE</p>

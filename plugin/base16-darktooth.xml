@@ -2,7 +2,7 @@
 <id>com.base16.darktooth</id>
 <name>Base16 Darktooth</name>
 <version>1.0.0</version>
-<vendor>Jason Milkins (https://github.com/jasonm23), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Jason Milkins (https://github.com/jasonm23), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Darktooth for Jetbrains IDE</p>

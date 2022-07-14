@@ -2,7 +2,7 @@
 <id>com.base16.pinky</id>
 <name>Base16 pinky</name>
 <version>1.0.0</version>
-<vendor>Benjamin (https://github.com/b3nj5m1n), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Benjamin (https://github.com/b3nj5m1n), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 pinky for Jetbrains IDE</p>

@@ -2,7 +2,7 @@
 <id>com.base16.rebecca</id>
 <name>Base16 Rebecca</name>
 <version>1.0.0</version>
-<vendor>Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Rebecca for Jetbrains IDE</p>

@@ -2,7 +2,7 @@
 <id>com.base16.decaf</id>
 <name>Base16 Decaf</name>
 <version>1.0.0</version>
-<vendor>Alex Mirrington (https://github.com/alexmirrington), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Alex Mirrington (https://github.com/alexmirrington), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Decaf for Jetbrains IDE</p>

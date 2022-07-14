@@ -2,7 +2,7 @@
 <id>com.base16.edge-light</id>
 <name>Base16 Edge Light</name>
 <version>1.0.0</version>
-<vendor>cjayross (https://github.com/cjayross), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>cjayross (https://github.com/cjayross), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Edge Light for Jetbrains IDE</p>

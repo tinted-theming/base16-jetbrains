@@ -2,7 +2,7 @@
 <id>com.base16.twilight</id>
 <name>Base16 Twilight</name>
 <version>1.0.0</version>
-<vendor>David Hart (https://github.com/hartbit), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>David Hart (https://github.com/hartbit), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Twilight for Jetbrains IDE</p>

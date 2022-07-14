@@ -2,7 +2,7 @@
 <id>com.base16.apprentice</id>
 <name>Base16 Apprentice</name>
 <version>1.0.0</version>
-<vendor>romainl, Chris Kempson, and Shirom Makkad</vendor>
+<vendor>romainl, Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Apprentice for Jetbrains IDE</p>

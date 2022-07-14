@@ -2,7 +2,7 @@
 <id>com.base16.monokai</id>
 <name>Base16 Monokai</name>
 <version>1.0.0</version>
-<vendor>Wimer Hazenberg (http://www.monokai.nl), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Wimer Hazenberg (http://www.monokai.nl), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Monokai for Jetbrains IDE</p>

@@ -2,7 +2,7 @@
 <id>com.base16.grayscale-dark</id>
 <name>Base16 Grayscale Dark</name>
 <version>1.0.0</version>
-<vendor>Alexandre Gavioli (https://github.com/Alexx2/), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Alexandre Gavioli (https://github.com/Alexx2/), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Grayscale Dark for Jetbrains IDE</p>

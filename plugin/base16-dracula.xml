@@ -2,7 +2,7 @@
 <id>com.base16.dracula</id>
 <name>Base16 Dracula</name>
 <version>1.0.0</version>
-<vendor>Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Dracula for Jetbrains IDE</p>

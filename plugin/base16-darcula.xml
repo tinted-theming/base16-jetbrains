@@ -2,7 +2,7 @@
 <id>com.base16.darcula</id>
 <name>Base16 Darcula</name>
 <version>1.0.0</version>
-<vendor>jetbrains, Chris Kempson, and Shirom Makkad</vendor>
+<vendor>jetbrains, Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Darcula for Jetbrains IDE</p>

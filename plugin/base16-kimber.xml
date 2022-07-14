@@ -2,7 +2,7 @@
 <id>com.base16.kimber</id>
 <name>Base16 Kimber</name>
 <version>1.0.0</version>
-<vendor>Mishka Nguyen (https://github.com/akhsiM), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Mishka Nguyen (https://github.com/akhsiM), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Kimber for Jetbrains IDE</p>

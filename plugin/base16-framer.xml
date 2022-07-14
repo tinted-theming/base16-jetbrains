@@ -2,7 +2,7 @@
 <id>com.base16.framer</id>
 <name>Base16 Framer</name>
 <version>1.0.0</version>
-<vendor>Framer (Maintained by Jesse Hoyos), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Framer (Maintained by Jesse Hoyos), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Framer for Jetbrains IDE</p>

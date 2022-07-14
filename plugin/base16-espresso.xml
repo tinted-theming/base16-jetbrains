@@ -2,7 +2,7 @@
 <id>com.base16.espresso</id>
 <name>Base16 Espresso</name>
 <version>1.0.0</version>
-<vendor>Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Espresso for Jetbrains IDE</p>

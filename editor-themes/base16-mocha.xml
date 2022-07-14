@@ -8,19 +8,19 @@
         <option name="BORDER_LINES_COLOR" value="" />
         <option name="CARET_COLOR" value="d0c8c6" />
         <option name="CARET_ROW_COLOR" value="534636" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="3B3228" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="3b3228" />
         <option name="DELETED_LINES_COLOR" value="cb6077" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-        <option name="DOCUMENTATION_COLOR" value="3B3228" />
-        <option name="GUTTER_BACKGROUND" value="3B3228" />
+        <option name="DOCUMENTATION_COLOR" value="3b3228" />
+        <option name="GUTTER_BACKGROUND" value="3b3228" />
         <option name="INDENT_GUIDE" value="645240" />
-        <option name="INFORMATION_HINT" value="3B3228" />
+        <option name="INFORMATION_HINT" value="3b3228" />
         <option name="LINE_NUMBERS_COLOR" value="7e705a" />
         <option name="METHOD_SEPARATORS_COLOR" value="7e705a" />
         <option name="MODIFIED_LINES_COLOR" value="f4bc87" />
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-        <option name="QUESTION_HINT" value="3B3228" />
+        <option name="QUESTION_HINT" value="3b3228" />
         <option name="RIGHT_MARGIN_COLOR" value="7e705a" />
         <option name="SELECTED_INDENT_GUIDE" value="b8afad" />
         <option name="SELECTED_TEARLINE_COLOR" value="b8afad" />
@@ -93,13 +93,13 @@
         </option>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5" />
+                <option name="EFFECT_COLOR" value="cb6077" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -133,7 +133,7 @@
         <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BLADE_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -179,19 +179,19 @@
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="b8afad"/>
-                <option name="BACKGROUND" value="3B3228"/>
+                <option name="BACKGROUND" value="3b3228"/>
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="3B3228" />
+                <option name="FOREGROUND" value="3b3228" />
                 <option name="BACKGROUND" value="b8afad" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
                 <option name="FOREGROUND" value="425b67"/>
-                <option name="BACKGROUND" value="3B3228"/>
+                <option name="BACKGROUND" value="3b3228"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -201,7 +201,7 @@
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -228,7 +228,7 @@
         </option>
         <option name="COFFEESCRIPT.BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1162,7 +1162,7 @@
         </option>
         <option name="HOCON_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2055,7 +2055,7 @@
         <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
         <option name="PHP_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2410,7 +2410,7 @@
         </option>
         <option name="QL_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2563,7 +2563,7 @@
         </option>
         <option name="RUBY_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5" />
+                <option name="EFFECT_COLOR" value="cb6077" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -2636,7 +2636,7 @@
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
                 <option name="FOREGROUND" value="bb9584" />
-                <option name="BACKGROUND" value="3B3228" />
+                <option name="BACKGROUND" value="3b3228" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -2922,7 +2922,7 @@
         </option>
         <option name="Scala Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="8ab3b5"/>
+                <option name="EFFECT_COLOR" value="cb6077"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -3217,7 +3217,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="d0c8c6" />
-                <option name="BACKGROUND" value="3B3228" />
+                <option name="BACKGROUND" value="3b3228" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -3328,7 +3328,7 @@
         <option name="XML_PROLOGUE">
             <value>
                 <option name="FOREGROUND" value="bb9584"/>
-                <option name="BACKGROUND" value="3B3228"/>
+                <option name="BACKGROUND" value="3b3228"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -3340,7 +3340,7 @@
         <option name="XML_TAG_DATA">
             <value>
                 <option name="FOREGROUND" value="bb9584"/>
-                <option name="BACKGROUND" value="3B3228"/>
+                <option name="BACKGROUND" value="3b3228"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>

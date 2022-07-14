@@ -2,7 +2,7 @@
 <id>com.base16.railscasts</id>
 <name>Base16 Railscasts</name>
 <version>1.0.0</version>
-<vendor>Ryan Bates (http://railscasts.com), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Ryan Bates (http://railscasts.com), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Railscasts for Jetbrains IDE</p>

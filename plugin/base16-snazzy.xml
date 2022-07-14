@@ -2,7 +2,7 @@
 <id>com.base16.snazzy</id>
 <name>Base16 Snazzy</name>
 <version>1.0.0</version>
-<vendor>Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 Snazzy for Jetbrains IDE</p>

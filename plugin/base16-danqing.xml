@@ -2,7 +2,7 @@
 <id>com.base16.danqing</id>
 <name>Base16 DanQing</name>
 <version>1.0.0</version>
-<vendor>Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com), Chris Kempson, and Shirom Makkad</vendor>
+<vendor>Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com), Shirom Makkad, and the Base16 project</vendor>
 
 <description><![CDATA[
   <p>Base 16 DanQing for Jetbrains IDE</p>
