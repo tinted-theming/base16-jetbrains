@@ -1,0 +1,21 @@
+<!--    Base16 DanQing Light
+        Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="fcfefd" />
+    <option name="treeSelectionColor" value="b0a4e3" />
+    <option name="highlightColor" value="e0f0ef" />
+    <option name="secondBorderColor" value="fcfefd" />
+    <option name="tableSelectedColor" value="b0a4e3" />
+    <option name="contrastColor" value="ecf6f2" />
+    <option name="disabledColor" value="9da8a3" />
+    <option name="secondaryBackgroundColor" value="ecf6f2" />
+    <option name="buttonColor" value="fcfefd" />
+    <option name="selectionForegroundColor" value="434846" />
+    <option name="selectionBackgroundColor" value="b0a4e3" />
+    <option name="textColor" value="434846" />
+    <option name="foregroundColor" value="5a605d" />
+    <option name="backgroundColor" value="fcfefd" />
+  </component>
+</application> 
