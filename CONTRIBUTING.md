@@ -24,7 +24,7 @@ Or the above steps represented in shell commands:
 
 ```shell 
 cd /path/to/base16-jetbrains/../ # This repos parent dir 
-git clone git@github.com:base16-project/base16-builder-go.git
+git clone git@github.com:tinted-theming/base16-builder-go.git
 cd base16-builder-go
 go build ./base16-builder-go/base16-builder-go \
   -template-dir ../base16-jetbrains
@@ -59,8 +59,8 @@ Please follow the instructions in the issue templates:
 - [Issue template for bug reports][5]
 - [Issue template for feature requests][6]
 
-[1]: https://github.com/base16-project/base16-builder-go
-[2]: https://github.com/base16-project/base16-schemes
+[1]: https://github.com/tinted-theming/base16-builder-go
+[2]: https://github.com/tinted-theming/base16-schemes
 [3]: .github/workflows/update.yml
 [4]: .github/pull_request_template.md
 [5]: .github/ISSUE_TEMPLATE/bug_report.md

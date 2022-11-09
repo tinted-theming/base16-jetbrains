@@ -25,7 +25,7 @@ It is also possible to download a scheme into the IDE's config directory
 
 ```shell
 curl \
-  https://raw.githubusercontent.com/base16-project/base16-jetbrains/main/colors/base16-eighties.icls \
+  https://raw.githubusercontent.com/tinted-theming/base16-jetbrains/main/colors/base16-eighties.icls \
   > ~/.PyCharm2018.1/config/colors/base16-eighties.icls
 ```
 
@@ -43,11 +43,11 @@ See [`CONTRIBUTING.md`][9], which contains building and contributing
 instructions.
 
 [1]: https://github.com/ChrisRM/material-theme-jetbrains
-[2]: https://github.com/base16-project/home
+[2]: https://github.com/tinted-theming/home
 [3]: colors.jar?raw=true
 [4]: colors
 [5]: options
-[6]: https://github.com/base16-project/home#builder-repositories
+[6]: https://github.com/tinted-theming/home#builder-repositories
 [7]: .github/workflows/update.yml
 [8]: https://github.com/obahareth/base16-builder-ruby
 [9]: CONTRIBUTING.md
