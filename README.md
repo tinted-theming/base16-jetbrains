@@ -11,7 +11,7 @@ See the [base16] repository for more information.
 2. In IntelliJ (or another Jetbrains IDE), Go to `File > Settings >
    Plugins`
 3. At the top, there should be a `marketplace` tab, an `installed` tab,
-   and three dots, click on the three dots
+   and three dots or a gear icon, click on the three dots or gear icon
 4. Click `Install Plugin from Disk...`
 5. Navigate to the `.jar` file and install it
 6. Restart your IDE
@@ -28,7 +28,9 @@ renamed `.zip` files, so we don't even need Java to compile the themes!
 All you need is the `zip` command. Simply run `build.sh` and it will
 compile every theme properly. You may want to update the themes though
 in case any new ones got added or updated since I last compiled them.
-For that, you'll need to use a [base16-builder-go].
+For that, you'll need to use [base16-builder-go] - have a look at
+[CONTRIBUTING.md] for more information about building base16-jetbrains
+templates.
 
 You could also create an IntelliJ project with it and compile it
 straight from IntelliJ. For that, follow [Creating Custom UI Themes] and
