@@ -1,7 +1,7 @@
 {
   "name": "Base16 Gruvbox light, medium",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+  "author": "Template by Tinted Theming. Colors by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
   "editorScheme": "/base16-gruvbox-light-medium.xml",
   "colors": {
     "base00": "#fbf1c7",

@@ -1,7 +1,7 @@
 {
   "name": "Base16 Kanagawa",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Tommaso Laurenzi (https://github.com/rebelot)",
+  "author": "Template by Tinted Theming. Colors by Tommaso Laurenzi (https://github.com/rebelot)",
   "editorScheme": "/base16-kanagawa.xml",
   "colors": {
     "base00": "#1f1f28",

@@ -1,7 +1,7 @@
-<!--    Base16 Tomorrow Night
+<!--    Base16 Tomorrow Night Eighties
         Author: Chris Kempson (http://chriskempson.com)   -->
 
-<scheme name="Base16 Tomorrow Night" version="142" parent_scheme="Darcula">
+<scheme name="Base16 Tomorrow Night Eighties" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="99cc99" />
         <option name="ANNOTATIONS_COLOR" value="cccccc" />

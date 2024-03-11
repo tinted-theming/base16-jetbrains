@@ -1,7 +1,7 @@
 {
   "name": "Base16 Tokyodark Terminal",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Tiagovla (https://github.com/tiagovla/)",
+  "author": "Template by Tinted Theming. Colors by Tiagovla (https://github.com/tiagovla/)",
   "editorScheme": "/base16-tokyodark-terminal.xml",
   "colors": {
     "base00": "#11121d",

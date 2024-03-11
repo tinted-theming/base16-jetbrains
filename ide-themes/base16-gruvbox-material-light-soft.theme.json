@@ -1,7 +1,7 @@
 {
   "name": "Base16 Gruvbox Material Light, Soft",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
+  "author": "Template by Tinted Theming. Colors by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
   "editorScheme": "/base16-gruvbox-material-light-soft.xml",
   "colors": {
     "base00": "#f2e5bc",

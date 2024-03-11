@@ -1,7 +1,7 @@
 {
   "name": "Base16 Apathy",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Jannik Siebert (https://github.com/janniks)",
+  "author": "Template by Tinted Theming. Colors by Jannik Siebert (https://github.com/janniks)",
   "editorScheme": "/base16-apathy.xml",
   "colors": {
     "base00": "#031a16",

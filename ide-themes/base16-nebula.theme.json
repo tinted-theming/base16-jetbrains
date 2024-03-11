@@ -1,7 +1,7 @@
 {
   "name": "Base16 Nebula",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Gabriel Fontes (https://github.com/Misterio77)",
+  "author": "Template by Tinted Theming. Colors by Gabriel Fontes (https://github.com/Misterio77)",
   "editorScheme": "/base16-nebula.xml",
   "colors": {
     "base00": "#22273b",

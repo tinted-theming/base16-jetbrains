@@ -1,7 +1,7 @@
 {
   "name": "Base16 Ocean",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
+  "author": "Template by Tinted Theming. Colors by Chris Kempson (http://chriskempson.com)",
   "editorScheme": "/base16-ocean.xml",
   "colors": {
     "base00": "#2b303b",

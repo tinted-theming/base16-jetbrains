@@ -1,7 +1,7 @@
 {
   "name": "Base16 Darcula",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by jetbrains",
+  "author": "Template by Tinted Theming. Colors by jetbrains",
   "editorScheme": "/base16-darcula.xml",
   "colors": {
     "base00": "#2b2b2b",

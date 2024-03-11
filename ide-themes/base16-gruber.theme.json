@@ -1,7 +1,7 @@
 {
   "name": "Base16 Gruber",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
+  "author": "Template by Tinted Theming. Colors by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
   "editorScheme": "/base16-gruber.xml",
   "colors": {
     "base00": "#181818",

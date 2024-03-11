@@ -1,7 +1,7 @@
 {
   "name": "Base16 Solarized Light",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Ethan Schoonover (modified by aramisgithub)",
+  "author": "Template by Tinted Theming. Colors by Ethan Schoonover (modified by aramisgithub)",
   "editorScheme": "/base16-solarized-light.xml",
   "colors": {
     "base00": "#fdf6e3",

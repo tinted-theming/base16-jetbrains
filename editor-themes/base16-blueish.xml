@@ -1,7 +1,7 @@
-<!--    Base16 better-contrast
+<!--    Base16 Blueish
         Author: Ben Mayoras   -->
 
-<scheme name="Base16 better-contrast" version="142" parent_scheme="Darcula">
+<scheme name="Base16 Blueish" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="c3e88d" />
         <option name="ANNOTATIONS_COLOR" value="c8e1f8" />

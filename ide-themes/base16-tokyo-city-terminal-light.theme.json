@@ -1,7 +1,7 @@
 {
   "name": "Base16 Tokyo City Terminal Light",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Michaël Ball",
+  "author": "Template by Tinted Theming. Colors by Michaël Ball",
   "editorScheme": "/base16-tokyo-city-terminal-light.xml",
   "colors": {
     "base00": "#fbfbfd",

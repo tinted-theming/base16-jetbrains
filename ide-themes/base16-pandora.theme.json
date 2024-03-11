@@ -1,7 +1,7 @@
 {
   "name": "Base16 pandora",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Cassandra Fox",
+  "author": "Template by Tinted Theming. Colors by Cassandra Fox",
   "editorScheme": "/base16-pandora.xml",
   "colors": {
     "base00": "#131213",

@@ -1,7 +1,7 @@
 {
   "name": "Base16 Tango",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by @Schnouki, based on the Tango Desktop Project",
+  "author": "Template by Tinted Theming. Colors by @Schnouki, based on the Tango Desktop Project",
   "editorScheme": "/base16-tango.xml",
   "colors": {
     "base00": "#2e3436",

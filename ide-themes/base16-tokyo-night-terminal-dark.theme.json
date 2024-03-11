@@ -1,7 +1,7 @@
 {
   "name": "Base16 Tokyo Night Terminal Dark",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Michaël Ball",
+  "author": "Template by Tinted Theming. Colors by Michaël Ball",
   "editorScheme": "/base16-tokyo-night-terminal-dark.xml",
   "colors": {
     "base00": "#16161e",

@@ -1,7 +1,7 @@
 {
   "name": "Base16 darkmoss",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Gabriel Avanzi (https://github.com/avanzzzi)",
+  "author": "Template by Tinted Theming. Colors by Gabriel Avanzi (https://github.com/avanzzzi)",
   "editorScheme": "/base16-darkmoss.xml",
   "colors": {
     "base00": "#171e1f",

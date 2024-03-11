@@ -1,7 +1,7 @@
 {
   "name": "Base16 Twilight",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by David Hart (https://github.com/hartbit)",
+  "author": "Template by Tinted Theming. Colors by David Hart (https://github.com/hartbit)",
   "editorScheme": "/base16-twilight.xml",
   "colors": {
     "base00": "#1e1e1e",

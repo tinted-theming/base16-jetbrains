@@ -1,7 +1,7 @@
 {
   "name": "Base16 Chalk",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Chris Kempson (http://chriskempson.com)",
+  "author": "Template by Tinted Theming. Colors by Chris Kempson (http://chriskempson.com)",
   "editorScheme": "/base16-chalk.xml",
   "colors": {
     "base00": "#151515",

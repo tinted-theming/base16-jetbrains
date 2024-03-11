@@ -1,7 +1,7 @@
 {
   "name": "Base16 Shades of Purple",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
+  "author": "Template by Tinted Theming. Colors by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
   "editorScheme": "/base16-shades-of-purple.xml",
   "colors": {
     "base00": "#1e1e3f",

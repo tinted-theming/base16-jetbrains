@@ -1,7 +1,7 @@
 {
   "name": "Base16 Windows NT",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Fergus Collins (https://github.com/C-Fergus)",
+  "author": "Template by Tinted Theming. Colors by Fergus Collins (https://github.com/C-Fergus)",
   "editorScheme": "/base16-windows-nt.xml",
   "colors": {
     "base00": "#000000",

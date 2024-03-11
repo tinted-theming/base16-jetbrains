@@ -1,7 +1,7 @@
 {
   "name": "Base16 Edge Light",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by cjayross (https://github.com/cjayross)",
+  "author": "Template by Tinted Theming. Colors by cjayross (https://github.com/cjayross)",
   "editorScheme": "/base16-edge-light.xml",
   "colors": {
     "base00": "#fafafa",

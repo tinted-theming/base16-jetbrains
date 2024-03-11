@@ -1,7 +1,7 @@
 {
   "name": "Base16 Windows 95 Light",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Fergus Collins (https://github.com/C-Fergus)",
+  "author": "Template by Tinted Theming. Colors by Fergus Collins (https://github.com/C-Fergus)",
   "editorScheme": "/base16-windows-95-light.xml",
   "colors": {
     "base00": "#fcfcfc",

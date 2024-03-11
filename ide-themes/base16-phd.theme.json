@@ -1,7 +1,7 @@
 {
   "name": "Base16 PhD",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Hennig Hasemann (http://leetless.de/vim.html)",
+  "author": "Template by Tinted Theming. Colors by Hennig Hasemann (http://leetless.de/vim.html)",
   "editorScheme": "/base16-phd.xml",
   "colors": {
     "base00": "#061229",

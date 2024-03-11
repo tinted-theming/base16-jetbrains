@@ -1,7 +1,7 @@
 {
   "name": "Base16 XCode Dusk",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Elsa Gonsiorowski (https://github.com/gonsie)",
+  "author": "Template by Tinted Theming. Colors by Elsa Gonsiorowski (https://github.com/gonsie)",
   "editorScheme": "/base16-xcode-dusk.xml",
   "colors": {
     "base00": "#282b35",

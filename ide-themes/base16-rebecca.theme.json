@@ -1,7 +1,7 @@
 {
   "name": "Base16 Rebecca",
   "dark": true,
-  "author": "Template by Shirom Makkad. Colors by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)",
+  "author": "Template by Tinted Theming. Colors by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)",
   "editorScheme": "/base16-rebecca.xml",
   "colors": {
     "base00": "#292a44",

@@ -1,7 +1,7 @@
-<!--    Base16 Horizon Light
+<!--    Base16 Horizon Terminal Light
         Author: Michaël Ball (http://github.com/michael-ball/)   -->
 
-<scheme name="Base16 Horizon Light" version="142" parent_scheme="Darcula">
+<scheme name="Base16 Horizon Terminal Light" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="29d398" />
         <option name="ANNOTATIONS_COLOR" value="403c3d" />
