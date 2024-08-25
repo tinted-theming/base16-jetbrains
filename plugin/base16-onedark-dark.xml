@@ -1,15 +1,15 @@
 <idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
-<id>com.base16.snazzy</id>
-<name>base16 Snazzy</name>
+<id>com.base16.onedark-dark</id>
+<name>base16 OneDark Dark</name>
 <version>1.0.0</version>
 <vendor>Tinted Theming</vendor>
 
 <description><![CDATA[
-  <p>Base 16 Snazzy for Jetbrains IDE</p>
+  <p>Base 16 OneDark Dark for Jetbrains IDE</p>
   <br>
   <p>---------------</p>
   <br>
-  <p>Colors by Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+  <p>Colors by olimorris (https://github.com/olimorris). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
     ]]>
 </description>
 
@@ -22,6 +22,6 @@
 <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="base16-snazzy" path="/base16-snazzy.theme.json"/>
+    <themeProvider id="base16-onedark-dark" path="/base16-onedark-dark.theme.json"/>
   </extensions>
 </idea-plugin>
