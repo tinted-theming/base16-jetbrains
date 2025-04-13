@@ -1,11 +1,11 @@
 <idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
-<id>com.base16.gruvbox-dark-medium</id>
-<name>base16 Gruvbox dark, medium</name>
+<id>com.base16.gruvbox-light</id>
+<name>base16 Gruvbox Light</name>
 <version>1.0.0</version>
 <vendor>Tinted Theming</vendor>
 
 <description><![CDATA[
-  <p>Base 16 Gruvbox dark, medium for Jetbrains IDE</p>
+  <p>Base 16 Gruvbox Light for Jetbrains IDE</p>
   <br>
   <p>---------------</p>
   <br>
@@ -22,6 +22,6 @@
 <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="base16-gruvbox-dark-medium" path="/base16-gruvbox-dark-medium.theme.json"/>
+    <themeProvider id="base16-gruvbox-light" path="/base16-gruvbox-light.theme.json"/>
   </extensions>
 </idea-plugin>
