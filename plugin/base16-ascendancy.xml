@@ -1,15 +1,15 @@
 <idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
-<id>com.base16.eris</id>
-<name>base16 eris</name>
+<id>com.base16.ascendancy</id>
+<name>base16 Ascendancy</name>
 <version>1.0.0</version>
 <vendor>Tinted Theming</vendor>
 
 <description><![CDATA[
-  <p>Base 16 eris for Jetbrains IDE</p>
+  <p>Base 16 Ascendancy for Jetbrains IDE</p>
   <br>
   <p>---------------</p>
   <br>
-  <p>Colors by ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+  <p>Colors by EmergentMind (https://github.com/emergentmind/ascendancy-scheme). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
     ]]>
 </description>
 
@@ -22,6 +22,6 @@
 <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="base16-eris" path="/base16-eris.theme.json"/>
+    <themeProvider id="base16-ascendancy" path="/base16-ascendancy.theme.json"/>
   </extensions>
 </idea-plugin>
