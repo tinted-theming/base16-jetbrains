@@ -1,15 +1,15 @@
 <idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
-<id>com.base16.kanagawa-dragon</id>
-<name>base16 Kanagawa Dragon</name>
+<id>com.base16.cyberpunk</id>
+<name>base16 Cyberpunk</name>
 <version>1.0.0</version>
 <vendor>Tinted Theming</vendor>
 
 <description><![CDATA[
-  <p>Base 16 Kanagawa Dragon for Jetbrains IDE</p>
+  <p>Base 16 Cyberpunk for Jetbrains IDE</p>
   <br>
   <p>---------------</p>
   <br>
-  <p>Colors by Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+  <p>Colors by benjujo. Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
     ]]>
 </description>
 
@@ -22,6 +22,6 @@
 <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="base16-kanagawa-dragon" path="/base16-kanagawa-dragon.theme.json"/>
+    <themeProvider id="base16-cyberpunk" path="/base16-cyberpunk.theme.json"/>
   </extensions>
 </idea-plugin>
