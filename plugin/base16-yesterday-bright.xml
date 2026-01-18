@@ -1,0 +1,27 @@
+<idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
+<id>com.base16.yesterday-bright</id>
+<name>base16 Yesterday Bright</name>
+<version>1.0.0</version>
+<vendor>Tinted Theming</vendor>
+
+<description><![CDATA[
+  <p>Base 16 Yesterday Bright for Jetbrains IDE</p>
+  <br>
+  <p>---------------</p>
+  <br>
+  <p>Colors by FroZnShiva (https://github.com/FroZnShiva). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+    ]]>
+</description>
+
+<change-notes><![CDATA[
+  <p>Version 1.0.0</p>
+    ]]>
+</change-notes>
+<idea-version since-build="191.0"/>
+
+<depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="base16-yesterday-bright" path="/base16-yesterday-bright.theme.json"/>
+  </extensions>
+</idea-plugin>
