@@ -9,7 +9,7 @@
         <option name="CARET_COLOR" value="d5c7a1" />
         <option name="CARET_ROW_COLOR" value="212f3d" />
         <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
-        <option name="DELETED_LINES_COLOR" value="c03900" />
+        <option name="DELETED_LINES_COLOR" value="d05000" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
         <option name="DOCUMENTATION_COLOR" value="282828" />
@@ -34,7 +34,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_2" value="928374" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="504945" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="c03900" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="d05000" />
         <option name="WHITESPACES" value="928374" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="928374" />
     </colors>
@@ -93,13 +93,13 @@
         </option>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900" />
+                <option name="EFFECT_COLOR" value="d05000" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -133,7 +133,7 @@
         <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BLADE_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -201,7 +201,7 @@
         </option>
         <option name="Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -228,7 +228,7 @@
         </option>
         <option name="COFFEESCRIPT.BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -288,7 +288,7 @@
         </option>
         <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
@@ -313,7 +313,7 @@
         </option>
         <option name="COFFEESCRIPT.LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="COFFEESCRIPT.NUMBER">
@@ -423,12 +423,12 @@
         </option>
         <option name="CONSOLE_RED_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="CONSOLE_RED_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -500,7 +500,7 @@
         </option>
         <option name="CSS.TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="CSS.URL">
@@ -537,7 +537,7 @@
         </option>
         <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -624,7 +624,7 @@
         </option>
         <option name="DEFAULT_ENTITY">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
@@ -639,17 +639,17 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
@@ -688,7 +688,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -743,7 +743,7 @@
         </option>
         <option name="DEFAULT_TAG">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -883,8 +883,8 @@
         <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="c03900" />
-                <option name="ERROR_STRIPE_COLOR" value="c03900" />
+                <option name="EFFECT_COLOR" value="d05000" />
+                <option name="ERROR_STRIPE_COLOR" value="d05000" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -960,7 +960,7 @@
         </option>
         <option name="GO_BUILTIN_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="GO_COLON">
@@ -1030,7 +1030,7 @@
         </option>
         <option name="GO_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="GO_METHOD_RECEIVER">
@@ -1070,7 +1070,7 @@
         </option>
         <option name="GO_PACKAGE_EXPORTED_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="GO_PACKAGE_LOCAL_CONSTANT">
@@ -1090,7 +1090,7 @@
         </option>
         <option name="GO_PACKAGE_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="GO_PARENTHESES">
@@ -1100,7 +1100,7 @@
         </option>
         <option name="GO_SCOPE_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="GO_SEMICOLON">
@@ -1141,7 +1141,7 @@
         </option>
         <option name="HAML_ID">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="HAML_RUBY_START">
@@ -1151,7 +1151,7 @@
         </option>
         <option name="HAML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="HAML_XHTML">
@@ -1162,7 +1162,7 @@
         </option>
         <option name="HOCON_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1290,7 +1290,7 @@
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="HYPERLINK_ATTRIBUTES">
@@ -1397,7 +1397,7 @@
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
         <option name="JS.INSTANCE_MEMBER_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -1434,7 +1434,7 @@
         </option>
         <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
@@ -1617,7 +1617,7 @@
         </option>
         <option name="MARKDOWN_BOLD">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -1703,13 +1703,13 @@
         </option>
         <option name="MARKDOWN_INLINE_HTML">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="MARKDOWN_ITALIC">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1747,7 +1747,7 @@
         </option>
         <option name="MARKDOWN_LIST_MARKER">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1856,7 +1856,7 @@
         </option>
         <option name="OC.EXTERN_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="OC.FORMAT_TOKEN">
@@ -1876,7 +1876,7 @@
         </option>
         <option name="OC.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="OC.HEADER_PATH">
@@ -1902,7 +1902,7 @@
         </option>
         <option name="OC.LABEL">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1914,7 +1914,7 @@
         </option>
         <option name="OC.LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="OC.MACRONAME">
@@ -1970,7 +1970,7 @@
         </option>
         <option name="OC.PROPERTY_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -2055,7 +2055,7 @@
         <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
         <option name="PHP_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2225,7 +2225,7 @@
         </option>
         <option name="PHP_VAR">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="PHP_VAR_VAR">
@@ -2410,7 +2410,7 @@
         </option>
         <option name="QL_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -2563,7 +2563,7 @@
         </option>
         <option name="RUBY_BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="c03900" />
+                <option name="EFFECT_COLOR" value="d05000" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -2625,7 +2625,7 @@
         </option>
         <option name="RUBY_GVAR">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="RUBY_HASH_ASSOC">
@@ -2679,7 +2679,7 @@
         </option>
         <option name="RUBY_LOCAL_VAR_ID">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="RUBY_METHOD_NAME">
@@ -2749,7 +2749,7 @@
         </option>
         <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="ReSharper.ASP_NET_BLOCK_TAG">
@@ -2811,7 +2811,7 @@
         </option>
         <option name="ReSharper.DELEGATE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -2822,7 +2822,7 @@
         </option>
         <option name="ReSharper.EVENT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
@@ -2837,7 +2837,7 @@
         </option>
         <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
@@ -2922,7 +2922,7 @@
         </option>
         <option name="Scala Bad character">
             <value>
-                <option name="EFFECT_COLOR" value="c03900"/>
+                <option name="EFFECT_COLOR" value="d05000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -3132,7 +3132,7 @@
         </option>
         <option name="Scala XML tag name">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="ScalaDoc @param value">
@@ -3346,7 +3346,7 @@
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="c03900" />
+                <option name="FOREGROUND" value="d05000" />
             </value>
         </option>
         <option name="XPATH.KEYWORD">
@@ -3370,7 +3370,7 @@
         <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
         <option name="YAML_SCALAR_KEY">
             <value>
-                <option name="FOREGROUND" value="c03900"/>
+                <option name="FOREGROUND" value="d05000"/>
             </value>
         </option>
         <option name="YAML_SCALAR_LIST">
